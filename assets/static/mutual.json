@@ -76,89 +76,89 @@
 
     "hebrewMonthsNames":
         [
-            "ינואר",
-            "פברואר",
-            "מרץ",
-            "אפריל",
-            "מאי",
-            "יוני",
-            "יולי",
-            "אוגוסט",
-            "ספטמבר",
-            "אוקטובר",
-            "נובמבר",
-            "דצמבר"
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "Juny",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
         ]
     ,
     "hebrewShortMonthsNames":
     [
-        "ינו׳",
-        "פבר׳",
-        "מרץ",
-        "אפר׳",
-        "מאי",
-        "יוני",
-        "יולי",
-        "אוג׳",
-        "ספט׳",
-        "אוק׳",
-        "נוב׳",
-        "דצמ׳"
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
     ]
 ,
     "monthsNames": {
-        "1": "ינואר",
-        "2": "פברואר",
-        "3": "מרץ",
-        "4": "אפריל",
-        "5": "מאי",
-        "6": "יוני",
-        "7": "יולי",
-        "8": "אוגוסט",
-        "9": "ספטמבר",
-        "10": "אוקטובר",
-        "11": "נובמבר",
-        "12": "דצמבר"
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "Juny",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
     },
     "shortMonthsNames": {
-        "1": "ינו׳",
-        "2": "פבר׳",
-        "3": "מרץ",
-        "4": "אפר׳",
-        "5": "מאי",
-        "6": "יוני",
-        "7": "יולי",
-        "8": "אוג׳",
-        "9": "ספט׳",
-        "10": "אוק׳",
-        "11": "נוב׳",
-        "12": "דצמ׳"
+        "1": "Jan",
+        "2": "Feb",
+        "3": "Mar",
+        "4": "Apr",
+        "5": "May",
+        "6": "Jun",
+        "7": "Jul",
+        "8": "Aug",
+        "9": "Sep",
+        "10": "Oct",
+        "11": "Nov",
+        "12": "Dec"
     },
     "bottomLottieMenuBar" : [
         {
             "name": "menu",
             "lottie": "mainnavbar_hamburgermenu_icon",
-            "title": "תפריט"
+            "title": "Menu"
         },
         {
             "name": "settings",
             "lottie": "mainnavbar_mysettings_icon",
-            "title": "הגדרות"
+            "title": "Settings"
         },
         {
             "name": "contact",
             "lottie": "mainnavbar_poalimcontact_icon",
-            "title": "פועלים איתך"
+            "title": "Contact"
         },
         {
             "name": "recommended",
             "lottie": "mainnavbar_recommended_icon",
-            "title": "המלצות"
+            "title": "Recomm."
         },
         {
             "name": "myAccount",
             "lottie": "mainnavbar_myaccount_icon",
-            "title": "החשבון שלי"
+            "title": "Account"
         }
     ],
     "popupInformation" : [
