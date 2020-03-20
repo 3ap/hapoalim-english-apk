@@ -1604,15 +1604,7 @@
     const/4 v3, 0x0
 
     .line 58
-    invoke-virtual {v0, v3, v1}, Lcom/ideomobile/hapoalim/extensions/PreferencesExtension;->getValue(Ljava/lang/Object;Lkotlin/reflect/KProperty;)Ljava/lang/Object;
-
-    move-result-object v0
-
-    check-cast v0, Ljava/lang/Boolean;
-
-    invoke-virtual {v0}, Ljava/lang/Boolean;->booleanValue()Z
-
-    move-result v0
+    const/4 v0, 0x1
 
     iput-boolean v0, p0, Lcom/ideomobile/hapoalim/managers/staticloader/StaticManager;->mIsStaticOffline:Z
 
