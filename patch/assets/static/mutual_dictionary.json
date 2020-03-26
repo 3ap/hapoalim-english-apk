@@ -22,8 +22,8 @@
         },
         {
             "key": "5",
-            "male": "What is?",
-            "female": "What is?"
+            "male": "What is it?",
+            "female": "What is it?"
         },
         {
             "key": "6",
@@ -47,8 +47,8 @@
         },
         {
             "key": "10",
-            "male": "filtering",
-            "female": "filtering"
+            "male": "Filter",
+            "female": "Filter"
         },
         {
             "key": "11",
@@ -92,8 +92,8 @@
         },
         {
             "key": "19",
-            "male": "current",
-            "female": "current"
+            "male": "Current",
+            "female": "Current"
         },
         {
             "key": "20",
@@ -127,8 +127,8 @@
         },
         {
             "key": "26",
-            "male": "main",
-            "female": "main"
+            "male": "Main",
+            "female": "Main"
         },
         {
             "key": "27",
@@ -137,8 +137,8 @@
         },
         {
             "key": "28",
-            "male": "credit cards",
-            "female": "credit cards"
+            "male": "Credit cards",
+            "female": "Credit cards"
         },
         {
             "key": "29",
@@ -152,13 +152,13 @@
         },
         {
             "key": "31",
-            "male": "Foreign Exchange",
-            "female": "Foreign Exchange"
+            "male": "Currency Exchange",
+            "female": "Currency Exchange"
         },
         {
             "key": "32",
-            "male": "sharing",
-            "female": "sharing"
+            "male": "Share",
+            "female": "Share"
         },
         {
             "key": "33",
@@ -242,8 +242,8 @@
         },
         {
             "key": "49",
-            "male": "Viewable",
-            "female": "Viewable"
+            "male": "View",
+            "female": "View"
         },
         {
             "key": "50",
@@ -577,8 +577,8 @@
         },
         {
             "key": "201",
-            "male": "Blocking will be removed 24 hours later or with the new password being generated at Banket, Branch or Workers at 2409 *",
-            "female": "Blocking will be removed 24 hours later or with the new password being generated at Banket, Branch or Workers at 2409 *"
+            "male": "Blocking will be removed 24 hours later or with the new password being generated at Banket, Branch or Workers at *2409",
+            "female": "Blocking will be removed 24 hours later or with the new password being generated at Banket, Branch or Workers at *2409"
         },
         {
             "key": "202",
@@ -707,8 +707,8 @@
         },
         {
             "key": "505",
-            "male": "To view foreign exchange trading dates",
-            "female": "To view foreign exchange trading dates"
+            "male": "To view currency exchange trading dates",
+            "female": "To view currency exchange trading dates"
         },
         {
             "key": "506",
@@ -757,8 +757,8 @@
         },
         {
             "key": "1101",
-            "male": "The balance of the ticket and current account will be updated after the operation",
-            "female": "The balance of the ticket and current account will be updated after the operation"
+            "male": "The balance of the card and current account will be updated after the operation",
+            "female": "The balance of the card and current account will be updated after the operation"
         },
         {
             "key": "1102",
@@ -787,8 +787,8 @@
         },
         {
             "key": "1107",
-            "male": "Ticket Number",
-            "female": "Ticket Number"
+            "male": "Card Number",
+            "female": "Card Number"
         },
         {
             "key": "1108",
@@ -1007,8 +1007,8 @@
         },
         {
             "key": "1152",
-            "male": "User code",
-            "female": "User code"
+            "male": "Login",
+            "female": "Login"
         },
         {
             "key": "1153",
@@ -1697,8 +1697,8 @@
         },
         {
             "key": "1301",
-            "male": "Whose tickets would you like to see?",
-            "female": "Whose tickets would you like to see?"
+            "male": "Whose cards would you like to see?",
+            "female": "Whose cards would you like to see?"
         },
         {
             "key": "1302",
@@ -1952,8 +1952,8 @@
         },
         {
             "key": "1353",
-            "male": "Forex receipt is carried out at all bank counters operating in Terminal 3 and 1 at Ben Gurion Airport. The IDF recipient's passport or ID must be provided, as stated in the order. If there is a change in the flight date - the booking details must be updated accordingly (at the bank's website, by telephone or branch). Forex will not be collected on time - will be saved up to 4 business days from the specified flight date. It will then be deposited back into the account from which it was purchased, in accordance with the cash rate (purchase) on the day of deposit.\n\nThe bank will not be able to place the order in any case of lawful prevention or collection by the bank. Canceling the reservation made at the instant rate / commissioned / known on the same business day - will be possible without billing the account.\nIf cancellation of an order made at the gate on an order / unknown on the same business day - the Forex will be deposited back into the account from which it was purchased, in accordance with the cash rate (purchase) on cancellation day.",
-            "female": "Forex receipt is carried out at all bank counters operating in Terminal 3 and 1 at Ben Gurion Airport. The IDF recipient's passport or ID must be provided, as stated in the order. If there is a change in the flight date - the booking details must be updated accordingly (at the bank's website, by telephone or branch). Forex will not be collected on time - will be saved up to 4 business days from the specified flight date. It will then be deposited back into the account from which it was purchased, in accordance with the cash rate (purchase) on the day of deposit.\n\nThe bank will not be able to place the order in any case of lawful prevention or collection by the bank. Canceling the reservation made at the instant rate / commissioned / known on the same business day - will be possible without billing the account.\nIf cancellation of an order made at the gate on an order / unknown on the same business day - the Forex will be deposited back into the account from which it was purchased, in accordance with the cash rate (purchase) on cancellation day."
+            "male": "Currency exchange is carried out at all bank counters operating in Terminal 3 and 1 at Ben Gurion Airport. The IDF recipient's passport or ID must be provided, as stated in the order. If there is a change in the flight date - the booking details must be updated accordingly (at the bank's website, by telephone or branch). Forex will not be collected on time - will be saved up to 4 business days from the specified flight date. It will then be deposited back into the account from which it was purchased, in accordance with the cash rate (purchase) on the day of deposit.\n\nThe bank will not be able to place the order in any case of lawful prevention or collection by the bank. Canceling the reservation made at the instant rate / commissioned / known on the same business day - will be possible without billing the account.\nIf cancellation of an order made at the gate on an order / unknown on the same business day - the Forex will be deposited back into the account from which it was purchased, in accordance with the cash rate (purchase) on cancellation day.",
+            "female": "Currency exchange is carried out at all bank counters operating in Terminal 3 and 1 at Ben Gurion Airport. The IDF recipient's passport or ID must be provided, as stated in the order. If there is a change in the flight date - the booking details must be updated accordingly (at the bank's website, by telephone or branch). Forex will not be collected on time - will be saved up to 4 business days from the specified flight date. It will then be deposited back into the account from which it was purchased, in accordance with the cash rate (purchase) on the day of deposit.\n\nThe bank will not be able to place the order in any case of lawful prevention or collection by the bank. Canceling the reservation made at the instant rate / commissioned / known on the same business day - will be possible without billing the account.\nIf cancellation of an order made at the gate on an order / unknown on the same business day - the Forex will be deposited back into the account from which it was purchased, in accordance with the cash rate (purchase) on cancellation day."
         },
         {
             "key": "1354",
@@ -2117,13 +2117,13 @@
         },
         {
             "key": "1455",
-            "male": "Password and user code",
-            "female": "Password and user code"
+            "male": "Login and Password",
+            "female": "Login and Password"
         },
         {
             "key": "1456",
-            "male": "face recognition",
-            "female": "face recognition"
+            "male": "Face recognition",
+            "female": "Face recognition"
         },
         {
             "key": "1457",
@@ -2182,8 +2182,8 @@
         },
         {
             "key": "1485",
-            "male": "Order a new ticket successfully!",
-            "female": "Order a new ticket successfully!"
+            "male": "Order a new card successfully!",
+            "female": "Order a new card successfully!"
         },
         {
             "key": "1486",
@@ -2247,8 +2247,8 @@
         },
         {
             "key": "1498",
-            "male": "Tickets for",
-            "female": "Tickets for"
+            "male": "Cards of",
+            "female": "Cards of"
         },
         {
             "key": "1499",
@@ -2282,8 +2282,8 @@
         },
         {
             "key": "1505",
-            "male": "Than cancel a ticket",
-            "female": "Than cancel a ticket"
+            "male": "Than cancel a card",
+            "female": "Than cancel a card"
         },
         {
             "key": "1506",
@@ -2632,8 +2632,8 @@
         },
         {
             "key": "1655",
-            "male": "You can generate a new password immediately or contact your banker at 2409 *",
-            "female": "You can generate a new password immediately or contact your banker at 2409 *"
+            "male": "You can generate a new password immediately or contact your banker at *2409",
+            "female": "You can generate a new password immediately or contact your banker at *2409"
         },
         {
             "key": "1656",
@@ -2652,8 +2652,8 @@
         },
         {
             "key": "1659",
-            "male": "You have one more experience. You can generate a new password in the app or in the phone at 2409 *",
-            "female": "You have one more experience. You can generate a new password in the app or in the phone at 2409 *"
+            "male": "You have one more attempt. You can generate a new password in the app or in the phone at *2409",
+            "female": "You have one more attempt. You can generate a new password in the app or in the phone at *2409"
         },
         {
             "key": "1660",
@@ -2662,8 +2662,8 @@
         },
         {
             "key": "1661",
-            "male": "For more information, contact the Bankers Acting at 2409 *",
-            "female": "For more information, contact the Bankers Acting at 2409 *"
+            "male": "For more information, contact the Bankers Acting at *2409",
+            "female": "For more information, contact the Bankers Acting at *2409"
         },
         {
             "key": "1662",
@@ -2697,8 +2697,8 @@
         },
         {
             "key": "1668",
-            "male": "Password change",
-            "female": "Password change"
+            "male": "Change password",
+            "female": "Change password"
         },
         {
             "key": "1669",
@@ -2722,13 +2722,13 @@
         },
         {
             "key": "1674",
-            "male": "You can generate a new password: # at the bank # at the branch # via an acting banker at 2409 *",
-            "female": "You can generate a new password: # at the bank # at the branch # via an acting banker at 2409 *"
+            "male": "You can generate a new password: # at the bank # at the branch # via an acting banker at *2409",
+            "female": "You can generate a new password: # at the bank # at the branch # via an acting banker at *2409"
         },
         {
             "key": "1675",
-            "male": "* 2409",
-            "female": "* 2409"
+            "male": "*2409",
+            "female": "*2409"
         },
         {
             "key": "1676",
@@ -3422,8 +3422,8 @@
         },
         {
             "key": "1906",
-            "male": "View more actions",
-            "female": "View more actions"
+            "male": "View more operations",
+            "female": "View more operations"
         },
         {
             "key": "1907",
@@ -3452,8 +3452,8 @@
         },
         {
             "key": "1912",
-            "male": "on the date",
-            "female": "on the date"
+            "male": "On date",
+            "female": "On date"
         },
         {
             "key": "1913",
@@ -3627,8 +3627,8 @@
         },
         {
             "key": "1951",
-            "male": "Foreign Exchange",
-            "female": "Foreign Exchange"
+            "male": "Currency Exchange",
+            "female": "Currency Exchange"
         },
         {
             "key": "1952",
@@ -3672,13 +3672,13 @@
         },
         {
             "key": "1960",
-            "male": "Total charges on all tickets",
-            "female": "Total charges on all tickets"
+            "male": "Total charges on all cards",
+            "female": "Total charges on all cards"
         },
         {
             "key": "1961",
-            "male": "Total charges on all %@ tickets",
-            "female": "Total charges on all %@ tickets"
+            "male": "Total charges on all %@ cards",
+            "female": "Total charges on all %@ cards"
         },
         {
             "key": "1962",
@@ -4122,8 +4122,8 @@
         },
         {
             "key": "2110",
-            "male": "filtering",
-            "female": "filtering"
+            "male": "Filter",
+            "female": "Filter"
         },
         {
             "key": "2111",
@@ -4137,8 +4137,8 @@
         },
         {
             "key": "2113",
-            "male": "Change\n back",
-            "female": "Change\n back"
+            "male": "Last\n year",
+            "female": "Last\n year"
         },
         {
             "key": "2114",
@@ -4242,8 +4242,8 @@
         },
         {
             "key": "2135",
-            "male": "filtering",
-            "female": "filtering"
+            "male": "Filter",
+            "female": "Filter"
         },
         {
             "key": "2136",
@@ -4252,8 +4252,8 @@
         },
         {
             "key": "2137",
-            "male": "on the date",
-            "female": "on the date"
+            "male": "On date",
+            "female": "On date"
         },
         {
             "key": "2138",
@@ -4267,8 +4267,8 @@
         },
         {
             "key": "2140",
-            "male": "sharing",
-            "female": "sharing"
+            "male": "Share",
+            "female": "Share"
         },
         {
             "key": "2141",
@@ -4407,8 +4407,8 @@
         },
         {
             "key": "2171",
-            "male": "invoice",
-            "female": "invoice"
+            "male": "Account",
+            "female": "Account"
         },
         {
             "key": "2172",
@@ -5167,8 +5167,8 @@
         },
         {
             "key": "2464",
-            "male": "Canceling lost or stolen card and receiving replacement",
-            "female": "Canceling lost or stolen card and receiving replacement"
+            "male": "Cancel lost or stolen card and receive replacement",
+            "female": "Cancel lost or stolen card and receive replacement"
         },
         {
             "key": "2465",
@@ -5187,8 +5187,8 @@
         },
         {
             "key": "2468",
-            "male": "Opening a new prize \"",
-            "female": "Opening a new prize \""
+            "male": "Opening a new daily interest deposit",
+            "female": "Opening a new daily interest deposit"
         },
         {
             "key": "2469",
@@ -5197,8 +5197,8 @@
         },
         {
             "key": "2470",
-            "male": "Existing deposit \"",
-            "female": "Existing deposit \""
+            "male": "Existing daily interest deposits",
+            "female": "Existing daily interest deposits"
         },
         {
             "key": "2471",
@@ -5282,8 +5282,8 @@
         },
         {
             "key": "2491",
-            "male": "Finding a branch / bank",
-            "female": "Finding a branch / bank"
+            "male": "Find a branch / bank",
+            "female": "Find a branch / bank"
         },
         {
             "key": "2492",
@@ -5797,8 +5797,8 @@
         },
         {
             "key": "2624",
-            "male": "Actions in the \\ \"",
-            "female": "Actions in the \\ \""
+            "male": "Actions in the deposits",
+            "female": "Actions in the deposits"
         },
         {
             "key": "2625",
@@ -5817,13 +5817,13 @@
         },
         {
             "key": "2628",
-            "male": "Forex in the Terminal \"",
-            "female": "Forex in the Terminal \""
+            "male": "Currency Exchange in Airport",
+            "female": "Currency Exchange in Airport"
         },
         {
             "key": "2629",
-            "male": "Currency Exchange\"",
-            "female": "Currency Exchange\""
+            "male": "Currency Exchange",
+            "female": "Currency Exchange"
         },
         {
             "key": "2631",
@@ -6092,8 +6092,8 @@
         },
         {
             "key": "2699",
-            "male": "Opening a new FRI",
-            "female": "Opening a new FRI"
+            "male": "Open a new deposit",
+            "female": "Open a new deposit"
         },
         {
             "key": "2700",
@@ -6457,13 +6457,13 @@
         },
         {
             "key": "2772",
-            "male": "Order a ticket",
-            "female": "Order a ticket"
+            "male": "Order a card",
+            "female": "Order a card"
         },
         {
             "key": "2773",
-            "male": "Total charges close to all tickets",
-            "female": "Total charges close to all tickets"
+            "male": "Total charges related to all cards",
+            "female": "Total charges related to all cards"
         },
         {
             "key": "2774",
@@ -6752,8 +6752,8 @@
         },
         {
             "key": "2846",
-            "male": "All tickets",
-            "female": "All tickets"
+            "male": "All cards",
+            "female": "All cards"
         },
         {
             "key": "2847",
@@ -6982,8 +6982,8 @@
         },
         {
             "key": "2892",
-            "male": "Password and user code",
-            "female": "Password and user code"
+            "male": "Login and Password",
+            "female": "Login and Password"
         },
         {
             "key": "2893",
@@ -7247,8 +7247,8 @@
         },
         {
             "key": "3156",
-            "male": "Coordination of meeting with a banker",
-            "female": "Coordination of meeting with a banker"
+            "male": "Make an appointment to a banker",
+            "female": "Make an appointment to a banker"
         },
         {
             "key": "3157",
@@ -7562,8 +7562,8 @@
         },
         {
             "key": "3261",
-            "male": "on the date",
-            "female": "on the date"
+            "male": "On date",
+            "female": "On date"
         },
         {
             "key": "3262",
@@ -7697,8 +7697,8 @@
         },
         {
             "key": "3324",
-            "male": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled. To collect the ticket on %@ %@ access the branch and sign the receipt of receipt",
-            "female": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled. To collect the ticket on %@ %@ access the branch and sign the receipt of receipt"
+            "male": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled. To collect the card on %@ %@ access the branch and sign the receipt of receipt",
+            "female": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled. To collect the card on %@ %@ access the branch and sign the receipt of receipt"
         },
         {
             "key": "3325",
@@ -7987,13 +7987,13 @@
         },
         {
             "key": "3520",
-            "male": "Forex Credit",
-            "female": "Forex Credit"
+            "male": "Credit in foreign currency",
+            "female": "Credit in foreign currency"
         },
         {
             "key": "3521",
-            "male": "Forex guarantees",
-            "female": "Forex guarantees"
+            "male": "Foreign currency guarantees",
+            "female": "Foreign currency guarantees"
         },
         {
             "key": "3522",

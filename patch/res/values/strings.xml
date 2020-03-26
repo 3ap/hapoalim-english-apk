@@ -278,8 +278,8 @@ Your portfolio is directly from here </string>
     <string name="deposit_withdrawal_header_slot2_title">Balance of up to date deposit</string>
     <string name="deposit_withdrawal_time">ב%2$s ב%1$s</string>
     <string name="deposit_withdrawal_toolbar_title">Withdrawal from deposit</string>
-    <string name="dialog_cancel_button">closure</string>
-    <string name="dialog_save_button">keeping</string>
+    <string name="dialog_cancel_button">Close</string>
+    <string name="dialog_save_button">Keep</string>
     <string name="dollar_symbol">$</string>
     <string name="download_file">Download the file</string>
     <string name="email">To email</string>
@@ -401,14 +401,14 @@ Your new account is waiting for you!</string>
     <string name="general_percentage">%1$s %%</string>
     <string name="general_popup_check_number_title">Check number</string>
     <string name="general_popup_check_sum_title">sum</string>
-    <string name="general_popup_left">sharing</string>
+    <string name="general_popup_left">Share</string>
     <string name="general_popup_right">current</string>
     <string name="general_same_transaction_title">Similar movements</string>
     <string name="general_search">Search</string>
     <string name="general_send">sending</string>
     <string name="general_setting">Settings</string>
     <string name="general_setting_gender">Contact me in line</string>
-    <string name="general_share">sharing</string>
+    <string name="general_share">Share</string>
     <string name="general_terms_mail">Shipping Terms</string>
     <string name="general_tips">More tips</string>
     <string name="general_updates">Updates</string>
@@ -663,7 +663,7 @@ Also, there may be disruptions to some of the actions in the app, with your forg
     <string name="peri_interest">Interest %1$s</string>
     <string name="peri_interest_adjusted"> = %1$s</string>
     <string name="peri_interest_spread">%1$s0</string>
-    <string name="peri_toolbar_title">Deposit and withdraw from FRI</string>
+    <string name="peri_toolbar_title">Deposit and withdraw from deposits</string>
     <string name="peri_when">When?</string>
     <string name="peri_withdrawal_amount_error">Please enter a value less than or equal to %1$s</string>
     <string name="peri_withdrawal_success">Success continued</string>
@@ -724,7 +724,7 @@ Visit the bank\'s website and enter a user code and password</string>
     <string name="scan_checks_step3_commission">This deposit</string>
     <string name="search_menu_title">Search</string>
     <string name="send_new_card">We\'ve sent you a new card</string>
-    <string name="sharing_bottom_text">Clicking &quot;Sharing&quot; will select the app to use to send the image to the recipient. The image will be sent through your network provider. The recipient\'s identity must be verified before sending.</string>
+    <string name="sharing_bottom_text">Clicking &quot;Share&quot; will select the app to use to send the image to the recipient. The image will be sent through your network provider. The recipient\'s identity must be verified before sending.</string>
     <string name="sn_default_scan_instructions_text">The certificate must be placed within the boundaries of the frame</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steps">stepsView</string>
@@ -888,7 +888,7 @@ To the UP Control service! </string>
     <string name="up_control_stay_registered">Want to leave</string>
     <string name="up_control_toolbar_title">UP Control Service</string>
     <string name="update_permission_btn_step1">Update permissions</string>
-    <string name="update_permission_btn_step2">closure</string>
+    <string name="update_permission_btn_step2">Close</string>
     <string name="update_permission_current_permission">Your current authorization</string>
     <string name="update_permission_dialog_pdf_text">Sorry, we currently have a malfunction and cannot view the legal conditions</string>
     <string name="update_permission_read_pdf">By clicking &quot;Update permissions&quot; I
