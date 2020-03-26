@@ -55,7 +55,7 @@
         ]
     },
     "currencyExchange": {
-        "preorderInfoText": "בביצוע עסקה ב״שער הזמנה״ הסכומים אינם סופיים ומחושבים על פי שער החליפין האחרון שנקבע לעסקאות בהזמנה.\n\nהסכומים בפועל יחושבו על פי שער החליפין שיקבע בסיום יום העסקים הנוכחי, או ביום הבא בו יתקיים מסחר במטבע חוץ."
+        "preorderInfoText": "In making a transaction on the Order Rate the amounts are not finalized and calculated according to the last exchange rate set for the order transactions.\n\nThe actual amounts will be calculated at the exchange rate to be determined at the end of the current business day, or the day on which foreign exchange trading takes place."
     },
     "initialTransactionNumbers": {
         "recentActivityDefaultNumber": 10,
@@ -164,71 +164,71 @@
     "popupInformation" : [
         {
             "codeItem": "10",
-            "nameItem": "הלוואות",
-            "wordButton": "להלוואות",
-            "titleName": "הלוואות"
+            "nameItem": "Loans",
+            "wordButton": "To Loans",
+            "titleName": "Loans"
         },
         {
             "codeItem": "8",
-            "nameItem": "שוק ההון",
-            "wordButton": "לשוק ההון",
-            "titleName": "שוק ההון"
+            "nameItem": "Capital Market",
+            "wordButton": "To Capital Market",
+            "titleName": "Capital Market"
         },
         {
             "codeItem": "4",
-            "nameItem": "פר״י ופיקדונות",
-            "wordButton": "לפיקדונות וחסכונות",
-            "titleName": "פיקדונות וחסכונות"
+            "nameItem": "Daily interest deposit and deposits",
+            "wordButton": "To Deposits",
+            "titleName": "Daily interest deposit and deposits"
         },
         {
             "codeItem": "3",
-            "nameItem": "כ.אשראי",
-            "wordButton": "לכרטיסי אשראי",
-            "titleName": "כרטיסי אשראי"
+            "nameItem": "Credit cards",
+            "wordButton": "To Credit Cards",
+            "titleName": "Credit cards"
         },
         {
             "codeItem": "5",
-            "nameItem": "כ.אשראי",
-            "wordButton": "לכרטיסי אשראי",
-            "titleName": "כרטיסי אשראי"
+            "nameItem": "Credit cards",
+            "wordButton": "To Credit Cards",
+            "titleName": "Credit cards"
         },
         {
             "codeItem": "6",
-            "nameItem": "תוכניות חסכון",
-            "wordButton": "לפיקדונות וחסכונות",
-            "titleName": "פיקדונות וחסכונות"
+            "nameItem": "Savings plans",
+            "wordButton": "To Deposits and savings",
+            "titleName": "Deposits and savings"
         },
         {
             "codeItem": "2",
-            "nameItem": "מט״ח",
-            "wordButton": "למט״ח",
-            "titleName": "מט״ח"
+            "nameItem": "Foreign Exchange",
+            "wordButton": "To Foreign Exchange",
+            "titleName": "Foreign Exchange"
         }
     ,
         {
             "codeItem": "7",
-            "nameItem": "פקדונות מט״ח",
-            "wordButton": "סגור",
-            "titleName": "פקדונות מט״ח"
+            "nameItem": "Deposits in foreign currency",
+            "wordButton": "Close",
+            "titleName": "Deposits in foreign currency"
         }
     ,
         {
             "codeItem": "14",
-            "nameItem": "צ׳קים",
-            "wordButton": "הפקדה חדשה",
-            "titleName": "צ׳קים"
+            "nameItem": "Checks",
+            "wordButton": "New deposit",
+            "titleName": "Checks"
         },
         {
             "codeItem": "1",
-            "nameItem": "עו״ש",
-            "wordButton": "לעובר ושב",
-            "titleName": "עובר ושב"
+            "nameItem": "Current",
+            "wordButton": "To current",
+            "titleName": "Current"
         },
         {
             "codeItem": "13",
-            "nameItem": "משכנתא",
-            "wordButton": "סגור",
-            "titleName": "משכנתאות"
+            "nameItem": "Mortgage",
+            "wordButton": "Close",
+            "titleName": "Mortgages"
         }
     ],
     "securityAttributes" : {
@@ -263,9 +263,9 @@
         "bankingCallCenter": "*2407"
     },
     "techSupportCallCenterSchedule": {
-        "workDays": "א׳ - ה׳",
+        "workDays": "Sun - Thu",
         "workDaysHours": "19:00 - 09:00",
-        "halfDays": "יום ו׳ וערבי חג",
+        "halfDays": "Fridays and holiday evenings",
         "halfDaysHours": "13:00 - 09:00",
         "regularStartDay": 1,
         "regularFinishDay": 5,
@@ -277,90 +277,99 @@
         "weekendFinishTime": "13:00"
     },
     "callBackCenterScheduleClient": {
-        "workDays": "א׳ - ה׳",
+        "workDays": "Sun - Thu",
         "workDaysHours": "19:00 - 08:00",
-        "halfDays": "יום ו׳ וערבי חג",
+        "halfDays": "Fridays and holiday evenings",
         "halfDaysHours": "13:00 - 08:00"
     },
     "openAccount" : {
         "signDocuments": {
-            "title" :  "צירפנו עבורך את כל המסמכים הכוללים את הפרטים שלך ותנאי החשבון החדש. אנו ממליצים לעיין בכל המסמכים אותם עליך לאשר:",
-            "subTitle" : "כל המסמכים יישלחו לתיבת המייל שלך באתר/אפליקציה של הבנק",
-            "infoDocs" : {
-                "Young" :  [
-                    
+            "title": "We have attached to you all documents containing your details and new account terms. We recommend that you review all the documents you need to approve:",
+            "subTitle": "All documents will be sent to your mailbox on the bank's website / app",
+            "infoDocs": {
+                "Young": [
+
                     {
-                        "title" : "לקריאת הבקשה לפתיחת חשבון ותנאים כלליים לניהול חשבון קטין",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/2020-01/%D7%91%D7%A7%D7%A9%D7%94%20%D7%9C%D7%A4%D7%AA%D7%99%D7%97%D7%AA%20%D7%97%D7%A9%D7%91%D7%95%D7%9F%20%D7%95%D7%AA%D7%A0%D7%90%D7%99%D7%9D%20%D7%9B%D7%9C%D7%9C%D7%99%D7%99%D7%9D%20%D7%9C%D7%A0%D7%99%D7%94%D7%95%D7%9C%20%D7%97%D7%A9%D7%91%D7%95%D7%9F%20%D7%9C%D7%A7%D7%98%D7%99%D7%9F%20-%20%D7%98%D7%95%D7%A4%D7%A1%20%D7%A7%D7%95%D7%9C%D7%99%20%D7%9E%D7%95%D7%A0%D7%92%D7%A9%20%D7%A0%D7%99%D7%AA%D7%9F%20%D7%9C%D7%9E%D7%A6%D7%95%D7%90%20%D7%91%D7%93%D7%A3%20%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA.pdf"
+                        "title": "Read the request to open an account and general terms for managing a minor account",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/2020-01/%D7%91%D7%A7%D7%A9%D7%94%20%D7%9C%D7%A4%D7%AA%D7%99%D7%97%D7%AA%20%D7%97%D7%A9%D7%91%D7%95%D7%9F%20%D7%95%D7%AA%D7%A0%D7%90%D7%99%D7%9D%20%D7%9B%D7%9C%D7%9C%D7%99%D7%99%D7%9D%20%D7%9C%D7%A0%D7%99%D7%94%D7%95%D7%9C%20%D7%97%D7%A9%D7%91%D7%95%D7%9F%20%D7%9C%D7%A7%D7%98%D7%99%D7%9F%20-%20%D7%98%D7%95%D7%A4%D7%A1%20%D7%A7%D7%95%D7%9C%D7%99%20%D7%9E%D7%95%D7%A0%D7%92%D7%A9%20%D7%A0%D7%99%D7%AA%D7%9F%20%D7%9C%D7%9E%D7%A6%D7%95%D7%90%20%D7%91%D7%93%D7%A3%20%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA.pdf"
                     },
-                    
-                    { "title" : "לצפייה בדף הסבר -\nאמצעי תשלום, אחזור מידע ובקרה",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/3.pdf"
+
+                    {
+                        "title": "Payment methods, information retrieval and control\n- To view an explanation page",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/3.pdf"
                     },
-                    
-                    {"title" : "דף מידע ללקוחות חשבון צעיר",
-                        "url" : "https://wwwpre.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/5.pdf"
-                        
+
+                    {
+                        "title": "Young customer account information sheet",
+                        "url": "https://wwwpre.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/5.pdf"
+
                     },
-                    {"title" : "לצפייה בתעריפון עמלת עו״ש מצומצם",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/Taarifon/%D7%AA%D7%A2%D7%A8%D7%99%D7%A4%D7%95%D7%9F%20%D7%9E%D7%A6%D7%95%D7%9E%D7%A6%D7%9D%20%D7%A2%D7%A1%D7%A7%20%D7%A7%D7%98%D7%9F.pdf"
-                        
+                    {
+                        "title": "To view a limited current commission tariff",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/Taarifon/%D7%AA%D7%A2%D7%A8%D7%99%D7%A4%D7%95%D7%9F%20%D7%9E%D7%A6%D7%95%D7%9E%D7%A6%D7%9D%20%D7%A2%D7%A1%D7%A7%20%D7%A7%D7%98%D7%9F.pdf"
+
                     }
-                    
+
                 ],
-                "Couple" :
-                [
-                    
-                    {"title" : "לקריאת הבקשה לפתיחת חשבון ותנאים כלליים לניהול חשבון",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/2.pdf"
-                        
+                "Couple": [
+
+                    {
+                        "title": "Read the account opening request and general account management terms",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/2.pdf"
+
                     },
-                    
-                    { "title" : "לצפייה בדף הסבר -\nאמצעי תשלום, אחזור מידע ובקרה",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/3.pdf"
-                        
+
+                    {
+                        "title": "Payment methods, information retrieval and control\n- To view an explanation page",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/3.pdf"
+
                     },
-                    
-                    
-                    {"title" : "לצפייה בתעריפון עמלת עו״ש מצומצם",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/Taarifon/%D7%AA%D7%A2%D7%A8%D7%99%D7%A4%D7%95%D7%9F%20%D7%9E%D7%A6%D7%95%D7%9E%D7%A6%D7%9D%20%D7%A2%D7%A1%D7%A7%20%D7%A7%D7%98%D7%9F.pdf"
-                        
+
+
+                    {
+                        "title": "To view a limited current commission tariff",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/Taarifon/%D7%AA%D7%A2%D7%A8%D7%99%D7%A4%D7%95%D7%9F%20%D7%9E%D7%A6%D7%95%D7%9E%D7%A6%D7%9D%20%D7%A2%D7%A1%D7%A7%20%D7%A7%D7%98%D7%9F.pdf"
+
                     },
-                    
-                    {"title" : "לצפייה בדף הסבר אודות שירות המסלולים",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/maslulim2018.pdf"
-                        
+
+                    {
+                        "title": "To view the route service explanation page",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/maslulim2018.pdf"
+
                     }
                 ],
-                "Single" :  [
-                    
-                    {"title" : "לקריאת הבקשה לפתיחת חשבון ותנאים כלליים לניהול חשבון",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/2.pdf"
-                        
+                "Single": [
+
+                    {
+                        "title": "Read the account opening request and general account management terms",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/2.pdf"
+
                     },
-                    
-                    { "title" : "לצפייה בדף הסבר -\nאמצעי תשלום, אחזור מידע ובקרה",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/3.pdf"
-                        
+
+                    {
+                        "title": "Payment methods, information retrieval and control\n- To view an explanation page",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/3.pdf"
+
                     },
-                    
-                    
-                    
-                    {"title" : "לצפייה בתעריפון עמלת עו״ש מצומצם",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/Taarifon/%D7%AA%D7%A2%D7%A8%D7%99%D7%A4%D7%95%D7%9F%20%D7%9E%D7%A6%D7%95%D7%9E%D7%A6%D7%9D%20%D7%A2%D7%A1%D7%A7%20%D7%A7%D7%98%D7%9F.pdf"
-                        
+
+
+
+                    {
+                        "title": "To view a limited current commission tariff",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/Taarifon/%D7%AA%D7%A2%D7%A8%D7%99%D7%A4%D7%95%D7%9F%20%D7%9E%D7%A6%D7%95%D7%9E%D7%A6%D7%9D%20%D7%A2%D7%A1%D7%A7%20%D7%A7%D7%98%D7%9F.pdf"
+
                     },
-                    
-                    {"title" : "לצפייה בדף הסבר אודות שירות המסלולים",
-                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/maslulim2018.pdf"
-                        
+
+                    {
+                        "title": "To view the route service explanation page",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/maslulim2018.pdf"
+
                     }
-                    
+
                 ]
             },
-            "switchText" : "הנני מסכים/ה בזאת לקבל הצעות, מידע על הטבות, מבצעים, מוצרים ו/או שירותים חדשים, סקירות מקצועיות וכל דבר מהבנק המהווה פרסומת, באמצעים ממוכנים, כהגדרתם בחוק התקשורת (בזק ושירותים) (תיקון מספר 40), התשס״ח 2008 (להלן ״מידע״).",
-            "acceptText" : "אני מאשר/ת כי ניתנה לי האפשרות לעיין במסמכים הנ״ל, הם נכונים ואני מתחייב/ת לעמוד בהם"
-            
+            "switchText": "I hereby agree to receive offers, information on benefits, promotions, products and/or new services, professional reviews and anything from the Bank which is advertising, by means of means, as defined in the Communications Law (Bezeq and Services) (Amendment 40), 2008 (hereinafter ״Information״)",
+            "acceptText": "I confirm that I have been given the opportunity to review the above documents, they are correct and I undertake to comply with them"
         },
         "orderPlasticCardsLink":"https://login.bankhapoalim.co.il/ng-portals-bt/rb/he/plastic-cards/order",
         "youtubeLink":"https://youtu.be/glhShHu2k50",
