@@ -2,8 +2,8 @@
     "dictionary": [
         {
             "key": "1",
-            "male": "For %@ \n you will be charged",
-            "female": "For %@ \n you will be charged"
+            "male": "For %@\n you will be charged",
+            "female": "For %@\n you will be charged"
         },
         {
             "key": "2",
@@ -12,8 +12,8 @@
         },
         {
             "key": "3",
-            "male": "Continued",
-            "female": "Continued"
+            "male": "Continue",
+            "female": "Continue"
         },
         {
             "key": "4",
@@ -37,8 +37,8 @@
         },
         {
             "key": "8",
-            "male": "closure",
-            "female": "closure"
+            "male": "Close",
+            "female": "Close"
         },
         {
             "key": "9",
@@ -57,8 +57,8 @@
         },
         {
             "key": "12",
-            "male": "got it",
-            "female": "got it"
+            "male": "Got it",
+            "female": "Got it"
         },
         {
             "key": "13",
@@ -77,8 +77,8 @@
         },
         {
             "key": "16",
-            "male": "Confirmation",
-            "female": "Confirmation"
+            "male": "Confirm",
+            "female": "Confirm"
         },
         {
             "key": "17",
@@ -87,8 +87,8 @@
         },
         {
             "key": "18",
-            "male": "return",
-            "female": "return"
+            "male": "Back",
+            "female": "Back"
         },
         {
             "key": "19",
@@ -112,8 +112,8 @@
         },
         {
             "key": "23",
-            "male": "Watching",
-            "female": "Watching"
+            "male": "Watch",
+            "female": "Watch"
         },
         {
             "key": "24",
@@ -197,8 +197,8 @@
         },
         {
             "key": "40",
-            "male": "No filtering movements you set up, \nTry new filtering",
-            "female": "No filtering movements you set up, \nTry new filtering"
+            "male": "No filtering movements you set up,\nTry new filtering",
+            "female": "No filtering movements you set up,\nTry new filtering"
         },
         {
             "key": "41",
@@ -247,8 +247,8 @@
         },
         {
             "key": "50",
-            "male": "Oops, something went wrong ... \nCan't complete operation",
-            "female": "Oops, something went wrong ... \nCan't complete operation"
+            "male": "Oops, something went wrong ...\nCan't complete operation",
+            "female": "Oops, something went wrong ...\nCan't complete operation"
         },
         {
             "key": "51",
@@ -257,8 +257,8 @@
         },
         {
             "key": "52",
-            "male": "Your last login \n was in %@",
-            "female": "Your last login \n was in %@"
+            "male": "Your last login\n was in %@",
+            "female": "Your last login\n was in %@"
         },
         {
             "key": "53",
@@ -327,8 +327,8 @@
         },
         {
             "key": "66",
-            "male": "* 2407",
-            "female": "* 2407"
+            "male": "*2407",
+            "female": "*2407"
         },
         {
             "key": "67",
@@ -342,8 +342,8 @@
         },
         {
             "key": "69",
-            "male": "dollar",
-            "female": "dollar"
+            "male": "Dollar",
+            "female": "Dollar"
         },
         {
             "key": "70",
@@ -387,8 +387,8 @@
         },
         {
             "key": "78",
-            "male": "updating",
-            "female": "updating"
+            "male": "Update",
+            "female": "Update"
         },
         {
             "key": "79",
@@ -492,8 +492,8 @@
         },
         {
             "key": "184",
-            "male": "You haven't completed the operation. \nAre you sure you want to exit?",
-            "female": "You haven't completed the operation. \nAre you sure you want to exit?"
+            "male": "You haven't completed the operation.\nAre you sure you want to exit?",
+            "female": "You haven't completed the operation.\nAre you sure you want to exit?"
         },
         {
             "key": "185",
@@ -812,8 +812,8 @@
         },
         {
             "key": "1112",
-            "male": "You successfully pulled \n from the %@ deposit",
-            "female": "You successfully pulled \n from the %@ deposit"
+            "male": "You successfully pulled\n from the %@ deposit",
+            "female": "You successfully pulled\n from the %@ deposit"
         },
         {
             "key": "1113",
@@ -922,8 +922,8 @@
         },
         {
             "key": "1134",
-            "male": "You do not need to remember orally \n the checkbooks that will be sent to you will be provided with detailed blocking instructions",
-            "female": "You do not need to remember orally \n the checkbooks that will be sent to you will be provided with detailed blocking instructions"
+            "male": "You do not need to remember orally\n the checkbooks that will be sent to you will be provided with detailed blocking instructions",
+            "female": "You do not need to remember orally\n the checkbooks that will be sent to you will be provided with detailed blocking instructions"
         },
         {
             "key": "1135",
@@ -1012,8 +1012,8 @@
         },
         {
             "key": "1153",
-            "male": "password",
-            "female": "password"
+            "male": "Password",
+            "female": "Password"
         },
         {
             "key": "1154",
@@ -1927,8 +1927,8 @@
         },
         {
             "key": "1348",
-            "male": "money transfer",
-            "female": "money transfer"
+            "male": "Money transfer",
+            "female": "Money transfer"
         },
         {
             "key": "1349",
@@ -2152,8 +2152,8 @@
         },
         {
             "key": "1469",
-            "male": "User switch",
-            "female": "User switch"
+            "male": "Switch user",
+            "female": "Switch user"
         },
         {
             "key": "1480",
@@ -2762,8 +2762,8 @@
         },
         {
             "key": "1682",
-            "male": "Fingerprint login",
-            "female": "Fingerprint login"
+            "male": "Sign in with fingerprint",
+            "female": "Sign in with fingerprint"
         },
         {
             "key": "1683",
@@ -2857,8 +2857,8 @@
         },
         {
             "key": "1701",
-            "male": "Do not have an account?",
-            "female": "Do not have an account?"
+            "male": "Don't have an account?",
+            "female": "Don't have an account?"
         },
         {
             "key": "1702",
@@ -3422,8 +3422,8 @@
         },
         {
             "key": "1906",
-            "male": "To view more actions",
-            "female": "To view more actions"
+            "male": "View more actions",
+            "female": "View more actions"
         },
         {
             "key": "1907",
@@ -3547,8 +3547,8 @@
         },
         {
             "key": "1935",
-            "male": "Current account balance \"",
-            "female": "Current account balance \""
+            "male": "Current account balance",
+            "female": "Current account balance"
         },
         {
             "key": "1936",
@@ -3747,8 +3747,8 @@
         },
         {
             "key": "2002",
-            "male": "Checks with the words * \\ to the beneficiary only \\ \"* and marked with a cross\"",
-            "female": "Checks with the words * \\ to the beneficiary only \\ \"* and marked with a cross\""
+            "male": "Checks with the words *\\to the beneficiary only\\\"* and marked with a cross\"",
+            "female": "Checks with the words *\\to the beneficiary only\\\"* and marked with a cross\""
         },
         {
             "key": "2003",
@@ -4422,8 +4422,8 @@
         },
         {
             "key": "2201",
-            "male": "User code",
-            "female": "User code"
+            "male": "Login",
+            "female": "Login"
         },
         {
             "key": "2203",
@@ -5152,8 +5152,8 @@
         },
         {
             "key": "2461",
-            "male": "credit cards",
-            "female": "credit cards"
+            "male": "Credit cards",
+            "female": "Credit cards"
         },
         {
             "key": "2462",
@@ -5292,8 +5292,8 @@
         },
         {
             "key": "2494",
-            "male": "Password change",
-            "female": "Password change"
+            "male": "Change password",
+            "female": "Change password"
         },
         {
             "key": "2495",
@@ -5417,8 +5417,8 @@
         },
         {
             "key": "2525",
-            "male": "User preferences",
-            "female": "User preferences"
+            "male": "   User preferences",
+            "female": "   User preferences"
         },
         {
             "key": "2526",
@@ -5457,18 +5457,18 @@
         },
         {
             "key": "2535",
-            "male": "male",
-            "female": "male"
+            "male": "Male",
+            "female": "Male"
         },
         {
             "key": "2536",
-            "male": "female",
-            "female": "female"
+            "male": "Female",
+            "female": "Female"
         },
         {
             "key": "2537",
-            "male": "remember me",
-            "female": "remember me"
+            "male": "Remember me",
+            "female": "Remember me"
         },
         {
             "key": "2538",
@@ -5492,8 +5492,8 @@
         },
         {
             "key": "2542",
-            "male": "Sign out by shaking the device \"",
-            "female": "Sign out by shaking the device \""
+            "male": "Sign out by shaking the device",
+            "female": "Sign out by shaking the device"
         },
         {
             "key": "2543",
@@ -5532,8 +5532,8 @@
         },
         {
             "key": "2556",
-            "male": "contact",
-            "female": "contact"
+            "male": "Contact",
+            "female": "Contact"
         },
         {
             "key": "2557",
@@ -5567,8 +5567,8 @@
         },
         {
             "key": "2565",
-            "male": "Limited report \"",
-            "female": "Limited report \""
+            "male": "Limited report",
+            "female": "Limited report"
         },
         {
             "key": "2566",
@@ -5577,8 +5577,8 @@
         },
         {
             "key": "2568",
-            "male": "Expanded Report \"",
-            "female": "Expanded Report \""
+            "male": "Extended report",
+            "female": "Extended report"
         },
         {
             "key": "2571",
@@ -5622,8 +5622,8 @@
         },
         {
             "key": "2581",
-            "male": "copying",
-            "female": "copying"
+            "male": "Copy",
+            "female": "Copy"
         },
         {
             "key": "2583",
@@ -5737,8 +5737,8 @@
         },
         {
             "key": "2612",
-            "male": "Click \\ Apps \\ \"or \\\" Apps & Notifications \\ \"or Notifications \\\" (depending on the device version) and select the bank app \"",
-            "female": "Click \\ Apps \\ \"or \\\" Apps & Notifications \\ \"or Notifications \\\" (depending on the device version) and select the bank app \""
+            "male": "Click \\Apps \\ \"or \\\" Apps & Notifications \\ \"or Notifications\\\" (depending on the device version) and select the bank app \"",
+            "female": "Click \\Apps \\ \"or \\\" Apps & Notifications \\ \"or Notifications\\\" (depending on the device version) and select the bank app \""
         },
         {
             "key": "2613",
@@ -5812,8 +5812,8 @@
         },
         {
             "key": "2627",
-            "male": "money transfer",
-            "female": "money transfer"
+            "male": "Money transfer",
+            "female": "Money transfer"
         },
         {
             "key": "2628",
