@@ -246,7 +246,7 @@
         "legalTerms": "htmls/legal.html"
     },
     "depositChecks": {
-        "maximumDepositChecks": 5
+        "maximumDepositChecks": 20
     },
     "menuRecommendedActions": [
         1023,
@@ -254,19 +254,19 @@
         3401,
         1018,
         1010,
-        4013
+        3207
     ],
     "phoneNumbers": {
         "connectBranchPhoneNumber": "036530700",
-         "connectBranch": "036530700",
+        "connectBranch": "036530700",
         "techCallCenter": "*2409",
         "bankingCallCenter": "*2407"
     },
     "techSupportCallCenterSchedule": {
         "workDays": "Sun - Thu",
-        "workDaysHours": "19:00 - 09:00",
+        "workDaysHours": "17:00 - 09:00",
         "halfDays": "Fridays and holiday evenings",
-        "halfDaysHours": "13:00 - 09:00",
+        "halfDaysHours": "12:30 - 08:30",
         "regularStartDay": 1,
         "regularFinishDay": 5,
         "weekendStartDay": 6,
@@ -380,14 +380,17 @@
         "benefitsAndOffers": "https://login.bankhapoalim.co.il/ServerServices/deepLink/coupons?campaign=&ref",
         "upCardOrdering": "https://login.bankhapoalim.co.il/ServerServices/deepLink/plasticCards_UP_orderCard?campaign=&ref",
         "personalInfo": "https://login.bankhapoalim.co.il/ServerServices/deepLink/pr-my-address-details?campaign=&ref",
-        "settingsAndPreferences": "https://login.bankhapoalim.co.il/ServerServices/deepLink/profile?campaign=&ref",
+        "settingsAndPreferences": "https://login.bankhapoalim.co.il/ng-portals/rb/he/profile",
         "personeticsFingrow": "https://www.fingrow.co.il/he",
         "doarnet": "https://login.bankhapoalim.co.il/ServerServices/deepLink/pr-up-mail-join?campaign=&ref",
         "branches": "https://www.bankhapoalim.co.il/he/branches",
         "loansAndMortgage": "https://login.bankhapoalim.co.il/ServerServices/deepLink/credit-and-mortgage/transactions/",
         "creditCardOrdering": "https://login.bankhapoalim.co.il/ServerServices/deepLink/plasticCards_orderCard?ref=&campaign=",
         "chat": "https://login.bankhapoalim.co.il/ServerServices/deepLink/connect-chat?ref=&campaign=",
-        "basesite": "https://login.bankhapoalim.co.il"
+        "basesite": "https://login.bankhapoalim.co.il",
+        "coupons": "https://login.bankhapoalim.co.il/ng-portals/rb/he/plastic-cards/coupons",
+        "branchList": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/branches5.pdf",
+        "liveUpdates": "https://www.bankhapoalim.co.il/he/general-messages"
     },
     "upCardMaxAmount": 1000,
     "operationalMessagesDaysOfExpiry": 3

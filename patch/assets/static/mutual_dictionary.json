@@ -12,13 +12,13 @@
         },
         {
             "key": "3",
-            "male": "Continue",
-            "female": "Continue"
+            "male": "המשך",
+            "female": "המשיכי"
         },
         {
             "key": "4",
-            "male": "void",
-            "female": "void"
+            "male": "Cancel",
+            "female": "Cancel"
         },
         {
             "key": "5",
@@ -62,13 +62,13 @@
         },
         {
             "key": "13",
-            "male": "share over",
-            "female": "share over"
+            "male": "Share",
+            "female": "Share"
         },
         {
             "key": "14",
-            "male": "Do not want",
-            "female": "Do not want"
+            "male": "Don't want",
+            "female": "Don't want"
         },
         {
             "key": "15",
@@ -162,13 +162,13 @@
         },
         {
             "key": "33",
-            "male": "Bank Hapoalim",
-            "female": "Bank Hapoalim"
+            "male": "ריכוז יתרות",
+            "female": "ריכוז יתרות"
         },
         {
             "key": "34",
-            "male": "In the account",
-            "female": "In the account"
+            "male": "מסגרת עו\"ש %@",
+            "female": "מסגרת עו\"ש %@"
         },
         {
             "key": "35",
@@ -212,8 +212,8 @@
         },
         {
             "key": "43",
-            "male": "You currently have permission to view information only. To perform banking and money transfers to another party, you must update the permissions in your account",
-            "female": "You currently have permission to view information only. To perform banking and money transfers to another party, you must update the permissions in your account"
+            "male": "You currently have permission to view information only. To perform banking operations and money, you must update the permissions in your account",
+            "female": "You currently have permission to view information only. To perform banking operations and money, you must update the permissions in your account"
         },
         {
             "key": "44",
@@ -292,8 +292,8 @@
         },
         {
             "key": "59",
-            "male": "cancelation",
-            "female": "cancelation"
+            "male": "Cancel",
+            "female": "Cancel"
         },
         {
             "key": "60",
@@ -367,8 +367,8 @@
         },
         {
             "key": "74",
-            "male": "Current Balance Current",
-            "female": "Current Balance Current"
+            "male": "Current Balance",
+            "female": "Current Balance"
         },
         {
             "key": "75",
@@ -491,6 +491,86 @@
             "female": "Learn more"
         },
         {
+            "key": "100",
+            "male": "בכדי להוריד קבצים יש לאפשר בהגדרות הרשאות אחסון לאפליקציה",
+            "female": "בכדי להוריד קבצים יש לאפשר בהגדרות הרשאות אחסון לאפליקציה"
+        },
+        {
+            "key": "101",
+            "male": "רשימת סניפים",
+            "female": "רשימת סניפים"
+        },
+        {
+            "key": "102",
+            "male": "מוריד",
+            "female": "מוריד"
+        },
+        {
+            "key": "103",
+            "male": "רוצה להמשיך",
+            "female": "רוצה להמשיך"
+        },
+        {
+            "key": "104",
+            "male": "שמירת המסמך",
+            "female": "שמירת המסמך"
+        },
+        {
+            "key": "105",
+            "male": "חדש",
+            "female": "חדש"
+        },
+        {
+            "key": "106",
+            "male": "מ%@",
+            "female": "מ%@"
+        },
+        {
+            "key": "107",
+            "male": "ל%@",
+            "female": "ל%@"
+        },
+        {
+            "key": "108",
+            "male": "עבור %@",
+            "female": "עבור %@"
+        },
+        {
+            "key": "109",
+            "male": "אסמכתא",
+            "female": "אסמכתא"
+        },
+        {
+            "key": "110",
+            "male": "לחץ כאן",
+            "female": "לחצי כאן"
+        },
+        {
+            "key": "111",
+            "male": "מהחשבון של",
+            "female": "מהחשבון של"
+        },
+        {
+            "key": "112",
+            "male": "סדר לפי",
+            "female": "סדרי לפי"
+        },
+        {
+            "key": "113",
+            "male": "תאריך",
+            "female": "תאריך"
+        },
+        {
+            "key": "114",
+            "male": "א'-ב'",
+            "female": "א'-ב'"
+        },
+        {
+            "key": "115",
+            "male": "מאשר",
+            "female": "מאשרת"
+        },
+        {
             "key": "184",
             "male": "You haven't completed the operation.\nAre you sure you want to exit?",
             "female": "You haven't completed the operation.\nAre you sure you want to exit?"
@@ -507,8 +587,8 @@
         },
         {
             "key": "187",
-            "male": "Bad date",
-            "female": "Bad date"
+            "male": "Wrong date",
+            "female": "Wrong date"
         },
         {
             "key": "188",
@@ -532,8 +612,8 @@
         },
         {
             "key": "192",
-            "male": "The phone number already exists in the system",
-            "female": "The phone number already exists in the system"
+            "male": "מספר הטלפון כבר קיים במערכת",
+            "female": "מספר הטלפון כבר קיים במערכת"
         },
         {
             "key": "193",
@@ -542,13 +622,13 @@
         },
         {
             "key": "194",
-            "male": "The email already exists in the system",
-            "female": "The email already exists in the system"
+            "male": "כתובת האימייל כבר קיימת במערכת",
+            "female": "כתובת האימייל כבר קיימת במערכת"
         },
         {
             "key": "195",
-            "male": "No locality selected",
-            "female": "No locality selected"
+            "male": "No city selected",
+            "female": "No city selected"
         },
         {
             "key": "196",
@@ -567,8 +647,8 @@
         },
         {
             "key": "199",
-            "male": "Please note that if there is another error, a number of actions in your account will be blocked for 24 hours.",
-            "female": "Please note that if there is another error, a number of actions in your account will be blocked for 24 hours."
+            "male": "Please note that if there will be another error, a number of actions in your account will be blocked for 24 hours.",
+            "female": "Please note that if there will be another error, a number of actions in your account will be blocked for 24 hours."
         },
         {
             "key": "200",
@@ -652,8 +732,8 @@
         },
         {
             "key": "378",
-            "male": "Please enter a mailbox",
-            "female": "Please enter a mailbox"
+            "male": "Please type a mailbox",
+            "female": "Please type a mailbox"
         },
         {
             "key": "379",
@@ -741,14 +821,84 @@
             "female": "The conversion was successful!"
         },
         {
+            "key": "512",
+            "male": "יש לי",
+            "female": "יש לי"
+        },
+        {
+            "key": "513",
+            "male": "אני רוצה",
+            "female": "אני רוצה"
+        },
+        {
+            "key": "514",
+            "male": "לשינוי מטבע",
+            "female": "לשינוי מטבע"
+        },
+        {
+            "key": "515",
+            "male": "מעדיף להקליד את הסכום ב%@?",
+            "female": "מעדיפה להקליד את הסכום ב%@?"
+        },
+        {
+            "key": "1000",
+            "male": "שים לב שפינות הצ׳ק בתוך המסגרת",
+            "female": "שימי לב שפינות הצ׳ק בתוך המסגרת"
+        },
+        {
+            "key": "1001",
+            "male": "החזק את הטלפון באופן יציב",
+            "female": "החזיקי את הטלפון באופן יציב"
+        },
+        {
+            "key": "1002",
+            "male": "התאורה חשוכה מידי. הצילום צריך להתבצע במקום מואר",
+            "female": "התאורה חשוכה מידי. הצילום צריך להתבצע במקום מואר"
+        },
+        {
+            "key": "1003",
+            "male": "שים לב שפינות הצ׳ק בתוך המסגרת",
+            "female": "שימי לב שפינות הצ׳ק בתוך המסגרת"
+        },
+        {
+            "key": "1004",
+            "male": "קרב את הצ׳ק אל גבולות המסגרת",
+            "female": "קרבי את הצ׳ק אל גבולות המסגרת"
+        },
+        {
+            "key": "1005",
+            "male": "שים לב שפינות הצ׳ק בתוך המסגרת",
+            "female": "שימי לב שפינות הצ׳ק בתוך המסגרת"
+        },
+        {
+            "key": "1006",
+            "male": "הנח את הצ׳ק על משטח כהה",
+            "female": "הניחי את הצ׳ק על משטח כהה"
+        },
+        {
+            "key": "1007",
+            "male": "לא ניתן לקרוא את מספר הצ׳ק",
+            "female": "לא ניתן לקרוא את מספר הצ׳ק"
+        },
+        {
+            "key": "1008",
+            "male": "הצילום נכשל. אנא נסה לצלם שוב",
+            "female": "הצילום נכשל. אנא נסי לצלם שוב"
+        },
+        {
+            "key": "1009",
+            "male": "הצ׳ק שייך לבנק שלא נתמך בשירות",
+            "female": "הצ׳ק שייך לבנק שלא נתמך בשירות"
+        },
+        {
             "key": "1098",
             "male": "Return money successfully!",
             "female": "Return money successfully!"
         },
         {
             "key": "1099",
-            "male": "Than Returns",
-            "female": "Than Returns"
+            "male": "Confirm return",
+            "female": "Confirm return"
         },
         {
             "key": "1100",
@@ -777,8 +927,8 @@
         },
         {
             "key": "1105",
-            "male": "Than charging",
-            "female": "Than charging"
+            "male": "Confirm charge",
+            "female": "Confirm charge"
         },
         {
             "key": "1106",
@@ -817,8 +967,8 @@
         },
         {
             "key": "1113",
-            "male": "To make sure it's the right number",
-            "female": "To make sure it's the right number"
+            "male": "Make sure that it's the right number",
+            "female": "Make sure that it's the right number"
         },
         {
             "key": "1114",
@@ -827,8 +977,8 @@
         },
         {
             "key": "1115",
-            "male": "not interested",
-            "female": "not interested"
+            "male": "Not interested",
+            "female": "Not interested"
         },
         {
             "key": "1116",
@@ -837,28 +987,28 @@
         },
         {
             "key": "1117",
-            "male": "Please enter a standard email address",
-            "female": "Please enter a standard email address"
+            "male": "Please enter a valid email address",
+            "female": "Please enter a valid email address"
         },
         {
             "key": "1118",
-            "male": "You can order up to %@ notepads to your address or up to %@ to the branch.",
-            "female": "You can order up to %@ notepads to your address or up to %@ to the branch."
+            "male": "You can order up to %@ checkbooks to your address or up to %@ to the branch.",
+            "female": "You can order up to %@ checkbooks to your address or up to %@ to the branch."
         },
         {
             "key": "1119",
-            "male": "Will you notify you by SMS when the notepad is sent to your address?",
-            "female": "Will you notify you by SMS when the notepad is sent to your address?"
+            "male": "Will you notify you by SMS when the checkbook will be sent to your address?",
+            "female": "Will you notify you by SMS when the checkbook will be sent to your address?"
         },
         {
             "key": "1120",
-            "male": "You can order up to %@ to the branch. At this time, notepads cannot be ordered to your address.",
-            "female": "You can order up to %@ to the branch. At this time, notepads cannot be ordered to your address."
+            "male": "You can order up to %@ to the branch. At this time, checkbooks cannot be ordered to your address.",
+            "female": "You can order up to %@ to the branch. At this time, checkbooks cannot be ordered to your address."
         },
         {
             "key": "1121",
-            "male": "When notepads are sent to your address, we will notify you by SMS to %@",
-            "female": "When notepads are sent to your address, we will notify you by SMS to %@"
+            "male": "When checkbooks are sent to your address, we will notify you by SMS to %@",
+            "female": "When checkbooks are sent to your address, we will notify you by SMS to %@"
         },
         {
             "key": "1122",
@@ -867,13 +1017,13 @@
         },
         {
             "key": "1123",
-            "male": "Notebooks will be sent to %@",
-            "female": "Notebooks will be sent to %@"
+            "male": "Checkbooks will be sent to %@",
+            "female": "Checkbooks will be sent to %@"
         },
         {
             "key": "1124",
-            "male": "Notebooks will go to %@ %@ branch",
-            "female": "Notebooks will go to %@ %@ branch"
+            "male": "Checkboks will go to %@ %@ branch",
+            "female": "Checkboks will go to %@ %@ branch"
         },
         {
             "key": "1125",
@@ -907,8 +1057,8 @@
         },
         {
             "key": "1131",
-            "male": "To keep your account, checks will be sent to your address when blocked for use. Upon receipt, you will need to remove the block with a code",
-            "female": "To keep your account, checks will be sent to your address when blocked for use. Upon receipt, you will need to remove the block with a code"
+            "male": "To keep your account safe, checks will be sent to your address when blocked for use. Upon receipt, you will need to remove the block with a code",
+            "female": "To keep your account safe, checks will be sent to your address when blocked for use. Upon receipt, you will need to remove the block with a code"
         },
         {
             "key": "1132",
@@ -962,8 +1112,8 @@
         },
         {
             "key": "1142",
-            "male": "Because you have selected more than %@ notepads, they cannot be sent to your address.\nTo move forward, you must choose a branch delivery.",
-            "female": "Because you have selected more than %@ notepads, they cannot be sent to your address.\nTo move forward, you must choose a branch delivery."
+            "male": "Because you have selected more than %@ checkbooks, they cannot be sent to your address.\nTo move forward, you must choose a branch delivery.",
+            "female": "Because you have selected more than %@ checkbooks, they cannot be sent to your address.\nTo move forward, you must choose a branch delivery."
         },
         {
             "key": "1143",
@@ -972,13 +1122,13 @@
         },
         {
             "key": "1145",
-            "male": "You can order notepad 1 for the branch. Notebooks cannot be ordered to your address at this time.",
-            "female": "You can order notepad 1 for the branch. Notebooks cannot be ordered to your address at this time."
+            "male": "You can order checkbook 1 for the branch. Checkibooks cannot be ordered to your address at this time.",
+            "female": "You can order checkbook 1 for the branch. Checkibooks cannot be ordered to your address at this time."
         },
         {
             "key": "1146",
-            "male": "At this time, checkbooks cannot be ordered at your address because you have exceeded the daily order book limit.",
-            "female": "At this time, checkbooks cannot be ordered at your address because you have exceeded the daily order book limit."
+            "male": "At this time, checkbooks cannot be ordered at your address because you have exceeded the daily checkbook order limit.",
+            "female": "At this time, checkbooks cannot be ordered at your address because you have exceeded the daily checkbook order limit."
         },
         {
             "key": "1147",
@@ -1122,8 +1272,8 @@
         },
         {
             "key": "1175",
-            "male": "Are you sure you want to cancel the service \\ Remember me \\ \"?\"",
-            "female": "Are you sure you want to cancel the service \\ Remember me \\ \"?\""
+            "male": "Are you sure you want to cancel the service \"Remember me\"?",
+            "female": "Are you sure you want to cancel the service \"Remember me\"?"
         },
         {
             "key": "1176",
@@ -1252,8 +1402,8 @@
         },
         {
             "key": "1201",
-            "male": "Withdrawal total %@ ₪, the balance is valid * up to 22:30 *",
-            "female": "Withdrawal total %@ ₪, the balance is valid * up to 22:30 *"
+            "male": "בוצעה משיכה    על סך %@ ₪, היתרה תקפה *עד 22:30*",
+            "female": "בוצעה משיכה    על סך %@ ₪, היתרה תקפה *עד 22:30*"
         },
         {
             "key": "1202",
@@ -1342,8 +1492,8 @@
         },
         {
             "key": "1219",
-            "male": "Withdrawals by someone else are limited to the amount of %@ ₪ \"",
-            "female": "Withdrawals by someone else are limited to the amount of %@ ₪ \""
+            "male": "משיכות ע\"י מישהו אחר מוגבלות לסכום של %@₪ ",
+            "female": "משיכות ע\"י מישהו אחר מוגבלות לסכום של %@₪ "
         },
         {
             "key": "1220",
@@ -1362,23 +1512,23 @@
         },
         {
             "key": "1223",
-            "male": "Define * who will withdraw the cash *",
-            "female": "Define * who will withdraw the cash *"
+            "male": "Define *who will withdraw the cash*",
+            "female": "Define *who will withdraw the cash*"
         },
         {
             "key": "1224",
-            "male": "Choose * how much to pull *",
-            "female": "Choose * how much to pull *"
+            "male": "Choose *how much to pull*",
+            "female": "Choose *how much to pull*"
         },
         {
             "key": "1225",
-            "male": "Define * Code of Attraction *",
-            "female": "Define * Code of Attraction *"
+            "male": "Define *Code of Attraction*",
+            "female": "Define *Code of Attraction*"
         },
         {
             "key": "1226",
-            "male": "The cash puller * jumps to the bank and ... That's it! *",
-            "female": "The cash puller * jumps to the bank and ... That's it! *"
+            "male": "The cash puller *jumps to the bank and ... That's it!*",
+            "female": "The cash puller *jumps to the bank and ... That's it!*"
         },
         {
             "key": "1227",
@@ -1397,8 +1547,8 @@
         },
         {
             "key": "1230",
-            "male": "choose country",
-            "female": "choose country"
+            "male": "Choose country",
+            "female": "Choose country"
         },
         {
             "key": "1231",
@@ -1462,8 +1612,8 @@
         },
         {
             "key": "1243",
-            "male": "Go to any branch of Bank Hapoalim to get a bank authorization",
-            "female": "Go to any branch of Bank Hapoalim to get a bank authorization"
+            "male": "*מגיעים לכל סניף של בנק הפועלים כדי לקבל אישור מבנקאי*",
+            "female": "*מגיעים לכל סניף של בנק הפועלים כדי לקבל אישור מבנקאי*"
         },
         {
             "key": "1244",
@@ -1581,6 +1731,46 @@
             "female": "Withdrawal status"
         },
         {
+            "key": "1270",
+            "male": "מספר חשבון בנק",
+            "female": "מספר חשבון בנק"
+        },
+        {
+            "key": "1271",
+            "male": "מספר אסמכתא",
+            "female": "מספר אסמכתא"
+        },
+        {
+            "key": "1272",
+            "male": "תאריך ביצוע ההעברה",
+            "female": "תאריך ביצוע ההעברה"
+        },
+        {
+            "key": "1273",
+            "male": "תאריך רישום הבקשה",
+            "female": "תאריך רישום הבקשה"
+        },
+        {
+            "key": "1274",
+            "male": "בשעה",
+            "female": "בשעה"
+        },
+        {
+            "key": "1275",
+            "male": "שם החשבון",
+            "female": "שם החשבון"
+        },
+        {
+            "key": "1276",
+            "male": "תאריך העברה מתוכנן",
+            "female": "תאריך העברה מתוכנן"
+        },
+        {
+            "key": "1277",
+            "male": "שכפול העברה",
+            "female": "שכפול העברה"
+        },
+        {
             "key": "1278",
             "male": "You must change your password",
             "female": "You must change your password"
@@ -1622,8 +1812,8 @@
         },
         {
             "key": "1286",
-            "male": "How many notepads?",
-            "female": "How many notepads?"
+            "male": "How many checkbooks?",
+            "female": "How many checkbooks?"
         },
         {
             "key": "1287",
@@ -1672,8 +1862,8 @@
         },
         {
             "key": "1296",
-            "male": "Where to send the notepad?",
-            "female": "Where to send the notepad?"
+            "male": "Where to send the checkbook?",
+            "female": "Where to send the checkbook?"
         },
         {
             "key": "1297",
@@ -1829,6 +2019,11 @@
             "key": "1327",
             "male": "Than transfer",
             "female": "Than transfer"
+        },
+        {
+            "key": "1328",
+            "male": "האם אתה רוצה להמשיך בהעברה ?",
+            "female": "האם את רוצה להמשיך בהעברה ?"
         },
         {
             "key": "1329",
@@ -2006,6 +2201,16 @@
             "female": "What bills would you like to receive?"
         },
         {
+            "key": "1394",
+            "male": "רגע לפני שאתה ממשיך לאישור העברה",
+            "female": "רגע לפני שאת ממשיכה לאישור העברה"
+        },
+        {
+            "key": "1395",
+            "male": "רצינו לעדכן אותך שכבר בוצעה היום העברה על סך %@",
+            "female": "רצינו לעדכן אותך שכבר בוצעה היום העברה על סך %@"
+        },
+        {
             "key": "1396",
             "male": "M",
             "female": "M"
@@ -2086,9 +2291,24 @@
             "female": "Buying %@"
         },
         {
+            "key": "1413",
+            "male": "שער מהמסחר הרציף במט״ח",
+            "female": "שער מהמסחר הרציף במט״ח"
+        },
+        {
+            "key": "1414",
+            "male": "גילום בשער",
+            "female": "גילום בשער"
+        },
+        {
+            "key": "1415",
+            "male": "סוג השער",
+            "female": "סוג השער"
+        },
+        {
             "key": "1449",
-            "male": "* Save maximum flexibility *\nDaily deposit (cash) will allow you to put money aside for savings, with the option to deposit money and make withdrawals on a daily basis. \"",
-            "female": "* Save maximum flexibility *\nDaily deposit (cash) will allow you to put money aside for savings, with the option to deposit money and make withdrawals on a daily basis. \""
+            "male": "* Save maximum flexibility *\nDaily deposit (cash) will allow you to put money aside for savings, with the option to deposit money and make withdrawals on a daily basis.",
+            "female": "* Save maximum flexibility *\nDaily deposit (cash) will allow you to put money aside for savings, with the option to deposit money and make withdrawals on a daily basis."
         },
         {
             "key": "1450",
@@ -2282,8 +2502,8 @@
         },
         {
             "key": "1505",
-            "male": "Than cancel a card",
-            "female": "Than cancel a card"
+            "male": "Confirm cancelation a card",
+            "female": "Confirm cancelation a card"
         },
         {
             "key": "1506",
@@ -2307,8 +2527,8 @@
         },
         {
             "key": "1550",
-            "male": "The balance of %@ %@",
-            "female": "The balance of %@ %@"
+            "male": "יתרת     %@    %@",
+            "female": "יתרת     %@    %@"
         },
         {
             "key": "1551",
@@ -2337,8 +2557,8 @@
         },
         {
             "key": "1556",
-            "male": "Balance by %@: %@ %@",
-            "female": "Balance by %@: %@ %@"
+            "male": "יתרה לפי %@:    %@ %@",
+            "female": "יתרה לפי %@:    %@ %@"
         },
         {
             "key": "1557",
@@ -2357,8 +2577,8 @@
         },
         {
             "key": "1560",
-            "male": "Capital Market Application",
-            "female": "Capital Market Application"
+            "male": "לאפ' שוק ההון",
+            "female": "לאפ' שוק ההון"
         },
         {
             "key": "1561",
@@ -2374,6 +2594,26 @@
             "key": "1563",
             "male": "Currency change",
             "female": "Currency change"
+        },
+        {
+            "key": "1592",
+            "male": "לעדכון ההגדרות",
+            "female": "לעדכון ההגדרות"
+        },
+        {
+            "key": "1593",
+            "male": "עקב תקלה יש לעדכן את ההגדרות\nשלך ב'מבט מהיר לחשבון'",
+            "female": "עקב תקלה יש לעדכן את ההגדרות\nשלך ב'מבט מהיר לחשבון'"
+        },
+        {
+            "key": "1596",
+            "male": "מצטערים, המידע אינו זמין כרגע.",
+            "female": "מצטערים, המידע אינו זמין כרגע."
+        },
+        {
+            "key": "1599",
+            "male": "בחר חשבון להצגה",
+            "female": "בחרי חשבון להצגה"
         },
         {
             "key": "1600",
@@ -2397,8 +2637,8 @@
         },
         {
             "key": "1604",
-            "male": "Sample data from the account %@",
-            "female": "Sample data from the account %@"
+            "male": "נתונים לדוגמה מתוך החשבון של %@",
+            "female": "נתונים לדוגמה מתוך החשבון של %@"
         },
         {
             "key": "1605",
@@ -2412,8 +2652,8 @@
         },
         {
             "key": "1607",
-            "male": "My current balance \"",
-            "female": "My current balance \""
+            "male": "יתרת העו״ש בחשבון",
+            "female": "יתרת העו״ש בחשבון"
         },
         {
             "key": "1608",
@@ -2422,8 +2662,8 @@
         },
         {
             "key": "1609",
-            "male": "Expenses you expect by the end of the month",
-            "female": "Expenses you expect by the end of the month"
+            "male": "סה״כ הוצאות צפויות\nעד סוף החודש",
+            "female": "סה״כ הוצאות צפויות\nעד סוף החודש"
         },
         {
             "key": "1610",
@@ -2437,8 +2677,8 @@
         },
         {
             "key": "1612",
-            "male": "You are eligible for a loan of",
-            "female": "You are eligible for a loan of"
+            "male": "אתה יכול להגיש בקשת\nהלוואה עד %@",
+            "female": "את יכולה להגיש בקשת\nהלוואה עד %@"
         },
         {
             "key": "1613",
@@ -2447,8 +2687,8 @@
         },
         {
             "key": "1614",
-            "male": "Activating the switch will add the option to see expected expenses in your account, known to the bank by the end of the month.",
-            "female": "Activating the switch will add the option to see expected expenses in your account, known to the bank by the end of the month."
+            "male": "בהפעלת המתג תוסיף את האפשרות לראות הוצאות צפויות בחשבונך, הידועות לבנק עד סוף החודש.n\nההוצאות כוללות: חיוב כרטיסי אשראי, פיקדונות וחסכונות, הוראות קבע, חיוב קרוב בהלוואות, חיוב קרוב במשכנתה (סכום משוער לפי חיוב אחרון)",
+            "female": "בהפעלת המתג תוסיפי את האפשרות לראות הוצאות צפויות בחשבונך, הידועות לבנק עד סוף החודש.n\nההוצאות כוללות: חיוב כרטיסי אשראי, פיקדונות וחסכונות, הוראות קבע, חיוב קרוב בהלוואות, חיוב קרוב במשכנתה (סכום משוער לפי חיוב אחרון)"
         },
         {
             "key": "1615",
@@ -2482,28 +2722,23 @@
         },
         {
             "key": "1621",
-            "male": "I confirm that this is my device",
-            "female": "I confirm that this is my device"
+            "male": "מאשר שזה המכשיר שלי",
+            "female": "מאשרת שזה המכשיר שלי"
         },
         {
             "key": "1622",
-            "male": "Short on time? N\nWe understand you",
-            "female": "Short on time? N\nWe understand you"
+            "male": "קצר בזמן?\nאנחנו מבינים אותך",
+            "female": "קצרה בזמן?\nאנחנו מבינים אותך"
         },
         {
             "key": "1623",
-            "male": "Join the Quick Look n\n service and you can view your balance, close credit cards and important information in your account - without a password",
-            "female": "Join the Quick Look n\n service and you can view your balance, close credit cards and important information in your account - without a password"
+            "male": "הצטרף לשירות ותוכל לצפות ביתרה העדכנית,\nבחיוב הקרוב בכרטיסי האשראי ובמידע נוסף,\nבלי להתחבר לחשבון",
+            "female": "הצטרפי לשירות ותוכלי לצפות ביתרה העדכנית,\nבחיוב הקרוב בכרטיסי האשראי ובמידע נוסף,\nבלי להתחבר לחשבון"
         },
         {
             "key": "1624",
-            "male": "To protect your information, we recommend only registering on a personal device that you own only and is protected with a device lock code",
-            "female": "To protect your information, we recommend only registering on a personal device that you own only and is protected with a device lock code"
-        },
-        {
-            "key": "1625",
-            "male": "Current frame",
-            "female": "Current frame"
+            "male": "כדי להגן על המידע שלך אנו ממליצים להצטרף לשירות רק באמצעות במכשיר אישי הנמצא ברשותך בלבד ומוגן בקוד נעילה",
+            "female": "כדי להגן על המידע שלך אנו ממליצים להצטרף לשירות רק באמצעות במכשיר אישי הנמצא ברשותך בלבד ומוגן בקוד נעילה"
         },
         {
             "key": "1626",
@@ -2512,13 +2747,18 @@
         },
         {
             "key": "1627",
-            "male": "You are beyond the current framework",
-            "female": "You are beyond the current framework"
+            "male": "החשבון נמצא בחריגה\nממסגרת העו\"ש",
+            "female": "החשבון נמצא בחריגה\nממסגרת העו\"ש"
         },
         {
             "key": "1628",
             "male": "In the minus",
             "female": "In the minus"
+        },
+        {
+            "key": "1629",
+            "male": "לא כולל כרטיסי כאל",
+            "female": "לא כולל כרטיסי כאל"
         },
         {
             "key": "1630",
@@ -2527,28 +2767,23 @@
         },
         {
             "key": "1631",
-            "male": "A quick glance at the account",
-            "female": "A quick glance at the account"
+            "male": "מבט מהיר לחשבון",
+            "female": "מבט מהיר לחשבון"
         },
         {
             "key": "1632",
-            "male": "Credit card debit close to %@",
-            "female": "Credit card debit close to %@"
+            "male": "סה״כ חיובים מכרטיסי\nאשראי בנקאיים ל-%@",
+            "female": "סה״כ חיובים מכרטיסי\nאשראי בנקאיים ל-%@"
         },
         {
             "key": "1633",
-            "male": "You can log out or update your data view through your profile",
-            "female": "You can log out or update your data view through your profile"
+            "male": "אתה יכול לבחור אילו נתונים יוצגו כאן דרך תפריט ההגדרות",
+            "female": "את יכולה לבחור אילו נתונים יוצגו כאן דרך תפריט ההגדרות"
         },
         {
             "key": "1634",
             "male": "Confirm and continue",
             "female": "Confirm and continue"
-        },
-        {
-            "key": "1635",
-            "male": "%@ Frame Frame \"",
-            "female": "%@ Frame Frame \""
         },
         {
             "key": "1636",
@@ -2862,8 +3097,8 @@
         },
         {
             "key": "1702",
-            "male": "To open an account or take out a loan, open app must be downloaded.",
-            "female": "To open an account or take out a loan, open app must be downloaded."
+            "male": "לפתיחת חשבון ישירות מהנייד, יש להוריד את אפליקציית open.",
+            "female": "לפתיחת חשבון ישירות מהנייד, יש להוריד את אפליקציית open."
         },
         {
             "key": "1703",
@@ -2902,13 +3137,13 @@
         },
         {
             "key": "1750",
-            "male": "Which accounts would you like to update?",
-            "female": "Which accounts would you like to update?"
+            "male": "מהי כתובת החשבון?",
+            "female": "מהי כתובת החשבון?"
         },
         {
             "key": "1751",
-            "male": "Adding a number",
-            "female": "Adding a number"
+            "male": "רחוב",
+            "female": "רחוב"
         },
         {
             "key": "1752",
@@ -2917,28 +3152,28 @@
         },
         {
             "key": "1753",
-            "male": "These are the details that the bank will use to contact you",
-            "female": "These are the details that the bank will use to contact you"
+            "male": "אלו הפרטים שישמשו את הבנק ליצור עמך קשר",
+            "female": "אלו הפרטים שישמשו את הבנק ליצור עמך קשר"
         },
         {
             "key": "1754",
-            "male": "Add an address",
-            "female": "Add an address"
+            "male": "כניסה",
+            "female": "כניסה"
         },
         {
             "key": "1755",
-            "male": "Adding miles",
-            "female": "Adding miles"
+            "male": "דירה",
+            "female": "דירה"
         },
         {
             "key": "1756",
-            "male": "Details successfully updated",
-            "female": "Details successfully updated"
+            "male": "המיקוד יאותר אוטומטית",
+            "female": "המיקוד יאותר אוטומטית"
         },
         {
             "key": "1757",
-            "male": "Below is the status of the details in the system",
-            "female": "Below is the status of the details in the system"
+            "male": "עבור אילו חשבונות לעדכן את הכתובת?",
+            "female": "עבור אילו חשבונות לעדכן את הכתובת?"
         },
         {
             "key": "1758",
@@ -2947,48 +3182,48 @@
         },
         {
             "key": "1759",
-            "male": "Are you sure you want to delete the number?",
-            "female": "Are you sure you want to delete the number?"
+            "male": "אנא בחר עיר או ישוב",
+            "female": "אנא בחרי עיר או ישוב"
         },
         {
             "key": "1760",
-            "male": "Are you sure you want to delete the address?",
-            "female": "Are you sure you want to delete the address?"
+            "male": "שמורות עוד %@ כתובות אימיילים",
+            "female": "שמורות עוד %@ כתובות אימיילים"
         },
         {
             "key": "1761",
-            "male": "Are you sure you want to delete the email?",
-            "female": "Are you sure you want to delete the email?"
+            "male": "שמורה עוד כתובת אימייל אחת",
+            "female": "שמורה עוד כתובת אימייל אחת"
         },
         {
             "key": "1762",
-            "male": "No, don't erase it",
-            "female": "No, don't erase it"
+            "male": "עדכן מספר טלפון",
+            "female": "עדכני מספר טלפון"
         },
         {
             "key": "1763",
-            "male": "Yeah sure",
-            "female": "Yeah sure"
+            "male": "כאן תוכל להוסיף ולמחוק מספרי טלפון וגם להגדיר מספר טלפון נייד שישמש לקבלת קוד אימות",
+            "female": "כאן תוכלי להוסיף ולמחוק מספרי טלפון וגם להגדיר מספר טלפון נייד שישמש לקבלת קוד אימות"
         },
         {
             "key": "1764",
-            "male": "Preferred number for identification",
-            "female": "Preferred number for identification"
+            "male": "הוספת מספר חדש",
+            "female": "הוספת מספר חדש"
         },
         {
             "key": "1765",
-            "male": "All services will be updated as changes are made",
-            "female": "All services will be updated as changes are made"
+            "male": "מספרים קיימים",
+            "female": "מספרים קיימים"
         },
         {
             "key": "1766",
-            "male": "Enable verification",
-            "female": "Enable verification"
+            "male": "מספר לקבלת קוד אימות",
+            "female": "מספר לקבלת קוד אימות"
         },
         {
             "key": "1767",
-            "male": "Update",
-            "female": "Update"
+            "male": "עדכון",
+            "female": "עדכון"
         },
         {
             "key": "1768",
@@ -3046,9 +3281,34 @@
             "female": "Where is the date of issue?"
         },
         {
+            "key": "1779",
+            "male": "כתובת",
+            "female": "כתובת"
+        },
+        {
+            "key": "1780",
+            "male": "מספר בית",
+            "female": "מספר בית"
+        },
+        {
+            "key": "1781",
+            "male": "עיר/ישוב",
+            "female": "עיר/ישוב"
+        },
+        {
+            "key": "1782",
+            "male": "בחר עיר/ישוב",
+            "female": "בחרי עיר/ישוב"
+        },
+        {
+            "key": "1783",
+            "male": "אנא בחר רחוב",
+            "female": "אנא בחר רחוב"
+        },
+        {
             "key": "1800",
-            "male": "Electricity Account \\ Jump \\ \"?\n The UP Contorol service will notify you via SMS of exceptions in regular account amounts and payments.\"",
-            "female": "Electricity Account \\ Jump \\ \"?\n The UP Contorol service will notify you via SMS of exceptions in regular account amounts and payments.\""
+            "male": "חשבון החשמל \"קפץ\"?\nשירות UP Control יעדכן אותך ב-SMS על חריגות בסכומי חשבונות ותשלומים קבועים.",
+            "female": "חשבון החשמל \"קפץ\"?\nשירות UP Control יעדכן אותך ב-SMS על חריגות בסכומי חשבונות ותשלומים קבועים."
         },
         {
             "key": "1801",
@@ -3532,8 +3792,8 @@
         },
         {
             "key": "1932",
-            "male": "The calculation is based on the bank's records as of this moment, and includes the balance of the current account and future credits in shekels from deposits and savings (with which a withdrawal order was granted), vouchers deposited, direct debits and credit cards (according to information received at the bank up to the date of calculation), from payments on Interest, principal and dividend on securities (according to information received by the bank up to the date of calculation), and from the sale of future foreign currency (estimated amount at the rate of transfers / checks known from last business day).\n\n Also, the calculation includes the future charges in NIS cards Credit (in accordance with information received at the bank up to the date of calculation), checks issued and deposited to the Bank Hapoalim shift, instructions to deposit to Deposits and Savings, Direct Debit Fees, Loan Close Loans, Mortgage Debt (by Last Charge Amount), Forex Purchase Bills and Futures and Future Foreign Exchange Operations (Estimated Transfer Rate / Check Rate Amount Known as of Business Day Last,)\n\nThe calculation only includes credits and debits scheduled from today to the end of the month as far as the Bank is known and registered in its systems in a computerized way. The calculation does not guarantee actual credit for the account, and does not constitute evidence of the bank's agreement to honor the charges. Deposited for vigilance and failure to revoke the credit instructions. The payment of charges in the account will be subject to the existence of a sufficient balance, as stated in all agreements between the bank and the client, and the provisions of the law. \"",
-            "female": "The calculation is based on the bank's records as of this moment, and includes the balance of the current account and future credits in shekels from deposits and savings (with which a withdrawal order was granted), vouchers deposited, direct debits and credit cards (according to information received at the bank up to the date of calculation), from payments on Interest, principal and dividend on securities (according to information received by the bank up to the date of calculation), and from the sale of future foreign currency (estimated amount at the rate of transfers / checks known from last business day).\n\n Also, the calculation includes the future charges in NIS cards Credit (in accordance with information received at the bank up to the date of calculation), checks issued and deposited to the Bank Hapoalim shift, instructions to deposit to Deposits and Savings, Direct Debit Fees, Loan Close Loans, Mortgage Debt (by Last Charge Amount), Forex Purchase Bills and Futures and Future Foreign Exchange Operations (Estimated Transfer Rate / Check Rate Amount Known as of Business Day Last,)\n\nThe calculation only includes credits and debits scheduled from today to the end of the month as far as the Bank is known and registered in its systems in a computerized way. The calculation does not guarantee actual credit for the account, and does not constitute evidence of the bank's agreement to honor the charges. Deposited for vigilance and failure to revoke the credit instructions. The payment of charges in the account will be subject to the existence of a sufficient balance, as stated in all agreements between the bank and the client, and the provisions of the law. \""
+            "male": "החישוב מבוסס על רישומי הבנק נכון לרגע זה, וכולל את יתרת העו\"ש ואת הזיכויים העתידיים בשקלים מפיקדונות וחסכונות (שניתנה הוראת משיכה לגביהם), מצ׳קים שהופקדו למשמרת, מהוראות קבע ומכרטיסי אשראי (בהתאם למידע שהתקבל בבנק עד למועד החישוב), מתשלומים על ריבית, קרן ודיבידנד בני\"ע (בהתאם למידע שהתקבל בבנק עד למועד החישוב), וממכירת מט\"ח עתידית (סכום משוער לפי שער העברות / המחאות ידוע מיום עסקים אחרון).\n\nכמו כן החישוב כולל את החיובים העתידיים בשקלים בכרטיסי אשראי (בהתאם למידע שהתקבל בבנק עד למועד החישוב), צ׳קים שניתנו והופקדו למשמרת בבנק הפועלים, הוראות להפקדה לפיקדונות וחסכונות, חיובי הוראות קבע, חיובים קרובים מהלוואות, חיוב משכנתה (לפי סכום החיוב האחרון), חיובים על קנית מט\"ח ועמלות על פעולות מט\"ח וסח\"ח עתידיות (סכום משוער לפי שער העברות/המחאות ידוע מיום עסקים אחרון).\n\nהחישוב כולל רק זיכויים וחיובים המתוכננים מהיום ועד סוף החודש ככל שידועים לבנק ורשומים במערכותיו באופן ממוחשב. החישוב אינו מבטיח זיכוי בפועל של החשבון, ואינו מהווה ראיה להסכמת הבנק לכבד את החיובים. זיכוי החשבון כפוף בין היתר לפירעון הצ׳קים שהופקדו למשמרת ולאי ביטול ההוראות לזיכוי. תשלום החיובים בחשבון יהא כפוף לקיומה של יתרה מספקת, לאמור בכל ההסכמים בין הבנק ללקוח, ולהוראות הדין.",
+            "female": "החישוב מבוסס על רישומי הבנק נכון לרגע זה, וכולל את יתרת העו\"ש ואת הזיכויים העתידיים בשקלים מפיקדונות וחסכונות (שניתנה הוראת משיכה לגביהם), מצ׳קים שהופקדו למשמרת, מהוראות קבע ומכרטיסי אשראי (בהתאם למידע שהתקבל בבנק עד למועד החישוב), מתשלומים על ריבית, קרן ודיבידנד בני\"ע (בהתאם למידע שהתקבל בבנק עד למועד החישוב), וממכירת מט\"ח עתידית (סכום משוער לפי שער העברות / המחאות ידוע מיום עסקים אחרון).\n\nכמו כן החישוב כולל את החיובים העתידיים בשקלים בכרטיסי אשראי (בהתאם למידע שהתקבל בבנק עד למועד החישוב), צ׳קים שניתנו והופקדו למשמרת בבנק הפועלים, הוראות להפקדה לפיקדונות וחסכונות, חיובי הוראות קבע, חיובים קרובים מהלוואות, חיוב משכנתה (לפי סכום החיוב האחרון), חיובים על קנית מט\"ח ועמלות על פעולות מט\"ח וסח\"ח עתידיות (סכום משוער לפי שער העברות/המחאות ידוע מיום עסקים אחרון).\n\nהחישוב כולל רק זיכויים וחיובים המתוכננים מהיום ועד סוף החודש ככל שידועים לבנק ורשומים במערכותיו באופן ממוחשב. החישוב אינו מבטיח זיכוי בפועל של החשבון, ואינו מהווה ראיה להסכמת הבנק לכבד את החיובים. זיכוי החשבון כפוף בין היתר לפירעון הצ׳קים שהופקדו למשמרת ולאי ביטול ההוראות לזיכוי. תשלום החיובים בחשבון יהא כפוף לקיומה של יתרה מספקת, לאמור בכל ההסכמים בין הבנק ללקוח, ולהוראות הדין."
         },
         {
             "key": "1933",
@@ -3672,13 +3932,13 @@
         },
         {
             "key": "1960",
-            "male": "Total charges on all cards",
-            "female": "Total charges on all cards"
+            "male": "סה\"כ חיובים בכרטיסי אשראי בנקאיים",
+            "female": "סה\"כ חיובים בכרטיסי אשראי בנקאיים"
         },
         {
             "key": "1961",
-            "male": "Total charges on all %@ cards",
-            "female": "Total charges on all %@ cards"
+            "male": "לא כולל כרטיסי כאל",
+            "female": "לא כולל כרטיסי כאל"
         },
         {
             "key": "1962",
@@ -3902,8 +4162,8 @@
         },
         {
             "key": "2033",
-            "male": "Checks for a total amount of up to $ 60,000\n on a business day and up to $ 100 / month",
-            "female": "Checks for a total amount of up to $ 60,000\n on a business day and up to $ 100 / month"
+            "male": "צ׳קים בסכום כולל של עד 100,000 ₪\n ביום עסקים ועד 200,000 ₪ בחודש",
+            "female": "צ׳קים בסכום כולל של עד 100,000 ₪\n ביום עסקים ועד 200,000 ₪ בחודש"
         },
         {
             "key": "2035",
@@ -3912,8 +4172,8 @@
         },
         {
             "key": "2036",
-            "male": "Request to Use the Mobile Check Deposit Service\nBy I Request to Open an Account and General Account Management Terms and Subsequent Request for Information and Operations Services Through the Internet and Terms of Use of the Bank's Website, as presented from time to time, I apply to use the Check Deposit Service Cellular (hereinafter: \\ Service \\ \").\n\n By clicking the \\\" Continue \\ \"button at the bottom of this request, I accept its terms below:\n\n\nThe checks can be deposited with the service to all banks.\n You can deposit through the service Only checks drawn for the benefit of the credited account holders.\nThe checks can be deposited through the service, which:\n\nthe amount specified on the check deposit screen as a maximum amount for Deposit or subject to the limit of the amount specified in the check (lower of the two);\n bearing the date of deposit or date up to six months earlier or subject to the limit of validity specified in the check (the earlier of the two);\n drawn (\\ \"cross \\\" - For deposit into bank account only) and subject to marketability restriction (\\ \"to beneficiary only \\\");\n signed by the debtor's signature and bearer (signature) of the beneficiary on the back of the check.\nAll accounts can be deposited for any account with a total amount of up to 60,000. עסקים Per business day and up to NIS 100,000 per month (according to the calendar).\n Notices for the service will also be sent via SMS to the mobile phone number, which I will provide to the bank (above and below: \\ \"Cellular \\\").\nThe order of arrival of the cellular messages may be different from the order of formation or delivery by the bank's systems (including through its sub-supplier, as far as possible, the following: \\ \"the sub-provider \\\") and also depends on the provider providing me with cellular communication services (hereinafter: \\ \"Cellular provider\").\nAn integral part of the service will be data, which is stored in the bank's databases on deposit checks in my account through the service (hereinafter: \"the information\"), the sub-supplier and the cellular provider. Providing authorization for the terms of this request, I give my permission to the bank, the sub-supplier and the cellular provider to use the information for service purposes.\n\nIf a message is received from the bank that the check cannot be deposited through the service, I can access the check with the bank and deposit it in alternative ways that it offers. The bank.\nApproval from the bank stating that the check photo and / or deposit request was received indicates the receipt of the operation's request and does not indicate a final credit for the check.\nThe original check must be kept for 2 business days from the date of deposit. And make sure your account is credited with the check amount.\nApply to make a deposit through the service that will be presented to the bank on Sunday - Thursday until 4:30 pm and on Friday and Holiday evenings until 12:30 pm - A request that was integrated into the same business day. A request that will be presented to the bank after the aforementioned hours - will be considered a request that is received on the next business day. A request that will be presented to the bank on Saturdays and holidays - will be considered as a request received on the next business day.\n As long as the credit of the beneficiary of the check amount is not final, the account holders will not be able to withdraw the account. The amount of the check.\nFor a request for a deposit of up to 20 checks on one business day (as defined in a request to open an account and general account management conditions), a direct channel fee will be charged, as published in the bank tariff from time to time.\nIf the continuing bank refuses to pay the check For any reason, the beneficiary account (the credited account) will be charged the amount of the check, and the check holder can ask the bank for a computerized check outlining the reasons for the return. Computerized Check Output - The bank will not charge a fee. Holding a computerized checkout output can appeal to the check withdrawal for an alternate payment or refer to legal courts. In the event of a refusal, a second presentation or computerized checkout output will be possible, upon request Customer.\nTerm to re-display or generate a computerized check output is the bank check or statement delivery, whereby the check form is destroyed.\nIf a computerized check output is produced, the check will not be viewable again .\n By granting approval by the terms of this request, I undertake not to check any use after deposit through the Service, unless it has been canceled by the Bank.\nThe Bank reserves the right to terminate the Service at any time, for all its customers. And some of them, subject to the sole discretion. \"",
-            "female": "Request to Use the Mobile Check Deposit Service\nBy I Request to Open an Account and General Account Management Terms and Subsequent Request for Information and Operations Services Through the Internet and Terms of Use of the Bank's Website, as presented from time to time, I apply to use the Check Deposit Service Cellular (hereinafter: \\ Service \\ \").\n\n By clicking the \\\" Continue \\ \"button at the bottom of this request, I accept its terms below:\n\n\nThe checks can be deposited with the service to all banks.\n You can deposit through the service Only checks drawn for the benefit of the credited account holders.\nThe checks can be deposited through the service, which:\n\nthe amount specified on the check deposit screen as a maximum amount for Deposit or subject to the limit of the amount specified in the check (lower of the two);\n bearing the date of deposit or date up to six months earlier or subject to the limit of validity specified in the check (the earlier of the two);\n drawn (\\ \"cross \\\" - For deposit into bank account only) and subject to marketability restriction (\\ \"to beneficiary only \\\");\n signed by the debtor's signature and bearer (signature) of the beneficiary on the back of the check.\nAll accounts can be deposited for any account with a total amount of up to 60,000. עסקים Per business day and up to NIS 100,000 per month (according to the calendar).\n Notices for the service will also be sent via SMS to the mobile phone number, which I will provide to the bank (above and below: \\ \"Cellular \\\").\nThe order of arrival of the cellular messages may be different from the order of formation or delivery by the bank's systems (including through its sub-supplier, as far as possible, the following: \\ \"the sub-provider \\\") and also depends on the provider providing me with cellular communication services (hereinafter: \\ \"Cellular provider\").\nAn integral part of the service will be data, which is stored in the bank's databases on deposit checks in my account through the service (hereinafter: \"the information\"), the sub-supplier and the cellular provider. Providing authorization for the terms of this request, I give my permission to the bank, the sub-supplier and the cellular provider to use the information for service purposes.\n\nIf a message is received from the bank that the check cannot be deposited through the service, I can access the check with the bank and deposit it in alternative ways that it offers. The bank.\nApproval from the bank stating that the check photo and / or deposit request was received indicates the receipt of the operation's request and does not indicate a final credit for the check.\nThe original check must be kept for 2 business days from the date of deposit. And make sure your account is credited with the check amount.\nApply to make a deposit through the service that will be presented to the bank on Sunday - Thursday until 4:30 pm and on Friday and Holiday evenings until 12:30 pm - A request that was integrated into the same business day. A request that will be presented to the bank after the aforementioned hours - will be considered a request that is received on the next business day. A request that will be presented to the bank on Saturdays and holidays - will be considered as a request received on the next business day.\n As long as the credit of the beneficiary of the check amount is not final, the account holders will not be able to withdraw the account. The amount of the check.\nFor a request for a deposit of up to 20 checks on one business day (as defined in a request to open an account and general account management conditions), a direct channel fee will be charged, as published in the bank tariff from time to time.\nIf the continuing bank refuses to pay the check For any reason, the beneficiary account (the credited account) will be charged the amount of the check, and the check holder can ask the bank for a computerized check outlining the reasons for the return. Computerized Check Output - The bank will not charge a fee. Holding a computerized checkout output can appeal to the check withdrawal for an alternate payment or refer to legal courts. In the event of a refusal, a second presentation or computerized checkout output will be possible, upon request Customer.\nTerm to re-display or generate a computerized check output is the bank check or statement delivery, whereby the check form is destroyed.\nIf a computerized check output is produced, the check will not be viewable again .\n By granting approval by the terms of this request, I undertake not to check any use after deposit through the Service, unless it has been canceled by the Bank.\nThe Bank reserves the right to terminate the Service at any time, for all its customers. And some of them, subject to the sole discretion. \""
+            "male": "בקשה לעשות שימוש בשירות הפקדת צ׳ק בסלולר\nבהמשך לבקשתי לפתיחת חשבון ולתנאים הכלליים לניהול חשבון ובהמשך לבקשתי לקבלת שירותי מידע ופעולות באמצעות האינטרנט ולתנאי השימוש באתר האינטרנט של הבנק, כפי שמוצגים בו מעת לעת, אני מגיש בקשה זו לעשות שימוש בשירות הפקדת צ׳ק בסלולר (להלן:\"השירות\").\n\nבלחיצה על כפתור \"המשך\" בתחתית בקשה זו אני מאשר את תנאיה להלן:\n\n\nניתן להפקיד באמצעות השירות צ׳קים לכל הבנקים.\nניתן להפקיד באמצעות השירות רק צ׳קים המשוכים לטובת בעלי החשבון המזוכה.\nניתן להפקיד באמצעות השירות צ׳קים אשר:\n\nסכומם כמפורט במסך הפקדת צ׳קים כסכום מירבי להפקדה או בכפוף למגבלת הסכום המצויינת בצ׳ק (הנמוך מבין השניים);\nנושאים תאריך מועד ההפקדה או תאריך עד חצי שנה מוקדם ממנו או בכפוף למגבלת התוקף המצויינת בצ׳ק (המוקדם מבין השניים);\nמשורטטים (\"קרוס\" – להפקדה לחשבון בנק בלבד) וגם נושאים הגבלת סחירות (\"למוטב בלבד\");\nחתומים בחתימת המושך ונושאים היסב (חתימה) של המוטב על גב הצ׳ק.\nניתן להפקיד לכל חשבון באמצעות השירות צ׳קים בסכום כולל של עד 100,000 ₪ ליום עסקים ועד 200,000 ₪ לחודש (בהתאם ללוח השנה הלועזי).\nהודעות בגין השירות יישלחו גם באמצעות SMS למספר הטלפון הנייד, שאמסור לבנק (לעיל ולהלן: \"סלולר\") . \nסדר הגעת ההודעות לסלולר, עשוי להיות שונה מסדר היווצרותן או משלוחן באמצעות מערכות הבנק (לרבות באמצעות ספק המשנה שלו בתחום זה, ככל שקיים, להלן: \"ספק המשנה\") ותלוי גם בגורם המספק לי שירותי תקשורת באמצעות הסלולר (להלן: \"ספק הסלולר\"). \nכחלק בלתי נפרד מהשירות יעברו נתונים, המצויים במאגרי המידע של הבנק אודות הפקדת צ׳קים בחשבוני באמצעות השירות (להלן: \"המידע\"), לספק המשנה ולספק הסלולר. במתן אישורי לתנאי בקשה זו אני נותן רשותי לבנק, לספק המשנה ולספק הסלולר לעשות שימוש במידע לצורכי השירות.\n\nככל שתתקבל הודעה מהבנק, שלא ניתן להפקיד את הצ׳ק באמצעות השירות, אוכל    לגשת עם הצ׳ק לסניף הבנק ולהפקידו בדרכים חלופיות שמציע הבנק.\nקבלת אישור מהבנק ולפיו תמונת הצ׳ק ו/או בקשת ההפקדה התקבלה, מעידה על קליטת בקשת מבצע הפעולה ואינה מעידה על זיכוי סופי בגין הצ׳ק.\nיש לשמור את הצ׳ק המקורי כ-2 ימי עסקים ממועד ביצוע ההפקדה ולוודא כי חשבונך זוכה בסכום הצ׳ק.\nבקשה לבצע הפקדה באמצעות השירות שתוצג לבנק בימים א' - ה' עד השעה 16:30 וביום ו' וערבי חג עד השעה 12:30 - תיחשב כבקשה שנקלטה באותו יום עסקים. בקשה שתוצג לבנק לאחר השעות הנ\"ל - תיחשב כבקשה שנקלטה ביום העסקים הבא. בקשה שתוצג לבנק בימי שבת וחג - תיחשב כבקשה שנקלטה ביום העסקים הבא.\nכל עוד זיכוי חשבון המוטב בסכום הצ׳ק אינו סופי, לא יוכלו המורשים בחשבון למשוך את סכום הצ׳ק.\nבגין בקשה להפקדה של עד 20 צ׳קים ביום עסקים אחד (כהגדרתו בבקשה לפתיחת חשבון ותנאים כלליים לניהול חשבון) תיגבה עמלת ערוץ ישיר, כפי שתפורסם בתעריפון הבנק מעת לעת.\nאם הבנק הנמשך יסרב לשלם את הצ׳ק מכל סיבה שהיא, יחויב חשבון המוטב (החשבון המזוכה) בסכום הצ׳ק, ואוחז הצ׳ק יוכל לבקש מהבנק פלט צ׳ק ממוחשב בו יפורטו    סיבות ההחזרה. בגין הנפקת פלט צ׳ק ממוחשב - לא יגבה הבנק עמלה. אוחז בפלט צ׳ק ממוחשב יכול לפנות למושך הצ׳ק לקבלת תשלום חלופי או לפנות לערכאות משפטיות. במקרה של סירוב צ׳ק תתאפשר הצגה שנייה או הפקת פלט צ׳ק ממוחשב, בהתאם לבקשת הלקוח. \nתנאי להצגה חוזרת או הפקת פלט של צ׳ק ממוחשב הוא מסירת הצ׳ק לבנק או מסירת הצהרה, ולפיה טופס הצ׳ק הושמד. \nאם הופק פלט צ׳ק ממוחשב, לא ניתן יהיה להציג את הצ׳ק פעם נוספת.\nבמתן אישור על ידי לתנאי בקשה זו אני מתחייב לא לעשות בצ׳ק כל שימוש שהוא לאחר ההפקדה באמצעות השירות, אלא אם בוטלה הפקדתו על ידי הבנק.\nהבנק שומר על זכותו להפסיק את השירות בכל עת, לכל לקוחותיו או לחלק מהם, בכפוף לשיקול דעתו הבלעדי.",
+            "female": "בקשה לעשות שימוש בשירות הפקדת צ׳ק בסלולר\nבהמשך לבקשתי לפתיחת חשבון ולתנאים הכלליים לניהול חשבון ובהמשך לבקשתי לקבלת שירותי מידע ופעולות באמצעות האינטרנט ולתנאי השימוש באתר האינטרנט של הבנק, כפי שמוצגים בו מעת לעת, אני מגישה בקשה זו לעשות שימוש בשירות הפקדת צ׳ק בסלולר (להלן:\"השירות\").\n\nבלחיצה על כפתור \"המשך\" בתחתית בקשה זו אני מאשרת את תנאיה להלן:\n\n\nניתן להפקיד באמצעות השירות צ׳קים לכל הבנקים.\nניתן להפקיד באמצעות השירות רק צ׳קים המשוכים לטובת בעלי החשבון המזוכה.\nניתן להפקיד באמצעות השירות צ׳קים אשר:\n\nסכומם כמפורט במסך הפקדת צ׳קים כסכום מירבי להפקדה או בכפוף למגבלת הסכום המצויינת בצ׳ק (הנמוך מבין השניים);\nנושאים תאריך מועד ההפקדה או תאריך עד חצי שנה מוקדם ממנו או בכפוף למגבלת התוקף המצויינת בצ׳ק (המוקדם מבין השניים);\nמשורטטים (\"קרוס\" – להפקדה לחשבון בנק בלבד) וגם נושאים הגבלת סחירות (\"למוטב בלבד\");\nחתומים בחתימת המושך ונושאים היסב (חתימה) של המוטב על גב הצ׳ק.\nניתן להפקיד לכל חשבון באמצעות השירות צ׳קים בסכום כולל של עד 100,000 ₪ ליום עסקים ועד 200,000 ₪ לחודש (בהתאם ללוח השנה הלועזי).\nהודעות בגין השירות יישלחו גם באמצעות SMS למספר הטלפון הנייד, שאמסור לבנק (לעיל ולהלן: \"סלולר\") . \nסדר הגעת ההודעות לסלולר, עשוי להיות שונה מסדר היווצרותן או משלוחן באמצעות מערכות הבנק (לרבות באמצעות ספק המשנה שלו בתחום זה, ככל שקיים, להלן: \"ספק המשנה\") ותלוי גם בגורם המספק לי שירותי תקשורת באמצעות הסלולר (להלן: \"ספק הסלולר\"). \nכחלק בלתי נפרד מהשירות יעברו נתונים, המצויים במאגרי המידע של הבנק אודות הפקדת צ׳קים בחשבוני באמצעות השירות (להלן: \"המידע\"), לספק המשנה ולספק הסלולר. במתן אישורי לתנאי בקשה זו אני נותנת רשותי לבנק, לספק המשנה ולספק הסלולר לעשות שימוש במידע לצורכי השירות.\n\nככל שתתקבל הודעה מהבנק, שלא ניתן להפקיד את הצ׳ק באמצעות השירות, אוכל    לגשת עם הצ׳ק לסניף הבנק ולהפקידו בדרכים חלופיות שמציע הבנק.\nקבלת אישור מהבנק ולפיו תמונת הצ׳ק ו/או בקשת ההפקדה התקבלה, מעידה על קליטת בקשת מבצעת הפעולה ואינה מעידה על זיכוי סופי בגין הצ׳ק.\nיש לשמור את הצ׳ק המקורי כ-2 ימי עסקים ממועד ביצוע ההפקדה ולוודא כי חשבונך זוכה בסכום הצ׳ק.\nבקשה לבצע הפקדה באמצעות השירות שתוצג לבנק בימים א' - ה' עד השעה 16:30 וביום ו' וערבי חג עד השעה 12:30 - תיחשב כבקשה שנקלטה באותו יום עסקים. בקשה שתוצג לבנק לאחר השעות הנ\"ל - תיחשב כבקשה שנקלטה ביום העסקים הבא. בקשה שתוצג לבנק בימי שבת וחג - תיחשב כבקשה שנקלטה ביום העסקים הבא.\nכל עוד זיכוי חשבון המוטב בסכום הצ׳ק אינו סופי, לא יוכלו המורשים בחשבון למשוך את סכום הצ׳ק.\nבגין בקשה להפקדה של עד 20 צ׳קים ביום עסקים אחד (כהגדרתו בבקשה לפתיחת חשבון ותנאים כלליים לניהול חשבון) תיגבה עמלת ערוץ ישיר, כפי שתפורסם בתעריפון הבנק מעת לעת.\nאם הבנק הנמשך יסרב לשלם את הצ׳ק מכל סיבה שהיא, יחויב חשבון המוטב (החשבון המזוכה) בסכום הצ׳ק, ואוחז הצ׳ק יוכל לבקש מהבנק פלט צ׳ק ממוחשב בו יפורטו    סיבות ההחזרה. בגין הנפקת פלט צ׳ק ממוחשב - לא יגבה הבנק עמלה. אוחז בפלט צ׳ק ממוחשב יכול לפנות למושך הצ׳ק לקבלת תשלום חלופי או לפנות לערכאות משפטיות. במקרה של סירוב צ׳ק תתאפשר הצגה שנייה או הפקת פלט צ׳ק ממוחשב, בהתאם לבקשת הלקוח. \nתנאי להצגה חוזרת או הפקת פלט של צ׳ק ממוחשב הוא מסירת הצ׳ק לבנק או מסירת הצהרה, ולפיה טופס הצ׳ק הושמד. \nאם הופק פלט צ׳ק ממוחשב, לא ניתן יהיה להציג את הצ׳ק פעם נוספת.\nבמתן אישור על ידי לתנאי בקשה זו אני מתחייבת לא לעשות בצ׳ק כל שימוש שהוא לאחר ההפקדה באמצעות השירות, אלא אם בוטלה הפקדתו על ידי הבנק.\nהבנק שומר על זכותו להפסיק את השירות בכל עת, לכל לקוחותיו או לחלק מהם, בכפוף לשיקול דעתו הבלעדי."
         },
         {
             "key": "2037",
@@ -4107,8 +4367,8 @@
         },
         {
             "key": "2107",
-            "male": "The transactions and balances above this line were recorded after the end of the business day, and therefore are on probation and estimated amounts, except for movements arising from transfers through this system \\ \"",
-            "female": "The transactions and balances above this line were recorded after the end of the business day, and therefore are on probation and estimated amounts, except for movements arising from transfers through this system \\ \""
+            "male": "התנועות והיתרות מעל קו זה נרשמו    לאחר תום יום העסקים, ולכן הינן על תנאי ובסכומים משוערים, למעט התנועות הנובעות מהעברות באמצעות מערכת זה\"ב",
+            "female": "התנועות והיתרות מעל קו זה נרשמו    לאחר תום יום העסקים, ולכן הינן על תנאי ובסכומים משוערים, למעט התנועות הנובעות מהעברות באמצעות מערכת זה\"ב"
         },
         {
             "key": "2108",
@@ -4297,8 +4557,8 @@
         },
         {
             "key": "2146",
-            "male": "transference",
-            "female": "transference"
+            "male": "העברת כסף",
+            "female": "העברת כסף"
         },
         {
             "key": "2147",
@@ -4542,8 +4802,8 @@
         },
         {
             "key": "2256",
-            "male": "To view the \\ \"",
-            "female": "To view the \\ \""
+            "male": "לצפייה",
+            "female": "לצפייה"
         },
         {
             "key": "2257",
@@ -4567,8 +4827,8 @@
         },
         {
             "key": "2261",
-            "male": "To view savings",
-            "female": "To view savings"
+            "male": "לצפייה",
+            "female": "לצפייה"
         },
         {
             "key": "2262",
@@ -5157,13 +5417,13 @@
         },
         {
             "key": "2462",
-            "male": "Credit card order",
-            "female": "Credit card order"
+            "male": "Order a credit card",
+            "female": "Order a credit card"
         },
         {
             "key": "2463",
-            "male": "Credit card activation",
-            "female": "Credit card activation"
+            "male": "Activate credit card",
+            "female": "Activate credit card"
         },
         {
             "key": "2464",
@@ -5291,6 +5551,11 @@
             "female": "Technical Support"
         },
         {
+            "key": "2493",
+            "male": "הקמת הוראת קבע להעברת כסף",
+            "female": "הקמת הוראת קבע להעברת כסף"
+        },
+        {
             "key": "2494",
             "male": "Change password",
             "female": "Change password"
@@ -5336,9 +5601,29 @@
             "female": "Clicking the OK button will take you to the bank's website to complete the operation"
         },
         {
+            "key": "2503",
+            "male": "הרשאות לחיוב והוראות קבע",
+            "female": "הרשאות לחיוב והוראות קבע"
+        },
+        {
+            "key": "2504",
+            "male": "הרשאות לחיוב החשבון",
+            "female": "הרשאות לחיוב החשבון"
+        },
+        {
+            "key": "2505",
+            "male": "הקמת הרשאה לחיוב חשבון",
+            "female": "הקמת הרשאה לחיוב חשבון"
+        },
+        {
+            "key": "2506",
+            "male": "הוראות הקבע בחשבון",
+            "female": "הוראות הקבע בחשבון"
+        },
+        {
             "key": "2507",
-            "male": "For all operations and services",
-            "female": "For all operations and services"
+            "male": "Show all operations and services",
+            "female": "Show all operations and services"
         },
         {
             "key": "2508",
@@ -5552,8 +5837,8 @@
         },
         {
             "key": "2561",
-            "male": "Details of the fees you paid b",
-            "female": "Details of the fees you paid b"
+            "male": "פירוט העמלות בחשבון",
+            "female": "פירוט העמלות בחשבון"
         },
         {
             "key": "2563",
@@ -5792,13 +6077,13 @@
         },
         {
             "key": "2623",
-            "male": "Return from Up Card",
-            "female": "Return from Up Card"
+            "male": "פריקת Up Card",
+            "female": "פריקת Up Card"
         },
         {
             "key": "2624",
-            "male": "Actions in the deposits",
-            "female": "Actions in the deposits"
+            "male": "Actions with deposits",
+            "female": "Actions with deposits"
         },
         {
             "key": "2625",
@@ -5846,6 +6131,21 @@
             "female": "Ordering checks"
         },
         {
+            "key": "2635",
+            "male": "הרשאה לחיוב",
+            "female": "הרשאה לחיוב"
+        },
+        {
+            "key": "2636",
+            "male": "הוראת קבע",
+            "female": "הוראת קבע"
+        },
+        {
+            "key": "2649",
+            "male": "נכון ל-%@ בשעה %@",
+            "female": "נכון ל-%@ בשעה %@"
+        },
+        {
             "key": "2650",
             "male": "Let your money work for you",
             "female": "Let your money work for you"
@@ -5887,8 +6187,8 @@
         },
         {
             "key": "2658",
-            "male": "The Capital Market Trading app is not installed on your device. N\nDo you want to download it now?",
-            "female": "The Capital Market Trading app is not installed on your device. N\nDo you want to download it now?"
+            "male": "האפליקציה 'מסחר בשוק ההון' לא מותקנת במכשירך.\nמעוניין להוריד אותה כעת?",
+            "female": "האפליקציה 'מסחר בשוק ההון' לא מותקנת במכשירך.\nמעוניינת להוריד אותה כעת?"
         },
         {
             "key": "2659",
@@ -5912,8 +6212,8 @@
         },
         {
             "key": "2663",
-            "male": "Data is paused",
-            "female": "Data is paused"
+            "male": "הנתונים מוצגים בהשהייה של 15 דקות",
+            "female": "הנתונים מוצגים בהשהייה של 15 דקות"
         },
         {
             "key": "2664",
@@ -7156,6 +7456,36 @@
             "female": "Your operating system version iOS 11 does not support this app. You can do either of the two options:\n1. Use the accessible and responsive website at: www.bankhapoalim.co.il\n2. Update the operating system version for iOS 12 or higher"
         },
         {
+            "key": "2927",
+            "male": "לחץ לשינוי ערך",
+            "female": "לחצי לשינוי ערך"
+        },
+        {
+            "key": "2928",
+            "male": "לבצע העברה ל",
+            "female": "לבצע העברה ל"
+        },
+        {
+            "key": "2929",
+            "male": "בחירת מוטב",
+            "female": "בחירת מוטב"
+        },
+        {
+            "key": "2933",
+            "male": "כפתור רענון",
+            "female": "כפתור רענון"
+        },
+        {
+            "key": "2934",
+            "male": "לחץ לקבלת שער עדכני",
+            "female": "לחצי לקבלת שער עדכני"
+        },
+        {
+            "key": "2936",
+            "male": "לחץ לביצוע ההעברה פעם ב%@",
+            "female": "לחצי לביצוע ההעברה פעם ב%@"
+        },
+        {
             "key": "3001",
             "male": "Money left over may eventually be wasted ... \"",
             "female": "Money left over may eventually be wasted ... \""
@@ -7447,8 +7777,8 @@
         },
         {
             "key": "3196",
-            "male": "To start the chat, you must log in to the bank site.\nPlease note that logging in to the site will result in the application being disconnected",
-            "female": "To start the chat, you must log in to the bank site.\nPlease note that logging in to the site will result in the application being disconnected"
+            "male": "לקוחות יקרים, בשל ביקושים גבוהים ומיקוד בזמינות למענה טלפוני, שירות הצ׳אט סגור כעת",
+            "female": "לקוחות יקרים, בשל ביקושים גבוהים ומיקוד בזמינות למענה טלפוני, שירות הצ׳אט סגור כעת"
         },
         {
             "key": "3197",
@@ -7509,6 +7839,16 @@
             "key": "3208",
             "male": "Loan cancellation",
             "female": "Loan cancellation"
+        },
+        {
+            "key": "3209",
+            "male": "דחיית תשלומים",
+            "female": "דחיית תשלומים"
+        },
+        {
+            "key": "3210",
+            "male": "דחיית תשלומים נוספת",
+            "female": "דחיית תשלומים נוספת"
         },
         {
             "key": "3251",
@@ -7586,6 +7926,16 @@
             "female": "Future transfer"
         },
         {
+            "key": "3298",
+            "male": "\nתוכל לשלם את העיקולים על-ידי פנייה אל הגורמים המעקלים.\nאם יש לך יתרה מספקת בחשבון, תוכל גם לשלם באמצעות אחד הבנקאים שלנו בפועלים בטלפון (2407*) או בסניפים (באמצעות תיאום פגישה).\nאם העיקולים כבר הוסדרו, הודעה זו אינה בתוקף.",
+            "female": "\nתוכלי לשלם את העיקולים על-ידי פנייה אל הגורמים המעקלים.\nאם יש לך יתרה מספקת בחשבון, תוכלי גם לשלם באמצעות אחד הבנקאים שלנו בפועלים בטלפון (2407*) או בסניפים (באמצעות תיאום פגישה).\nאם העיקולים כבר הוסדרו, הודעה זו אינה בתוקף."
+        },
+        {
+            "key": "3299",
+            "male": "תוכל לשלם את העיקולים על-ידי פנייה אל הגורמים המעקלים.\nאם יש לך יתרה מספקת בחשבון, תוכל גם לשלם באמצעות אחד הבנקאים שלנו בפועלים בטלפון (2407*) או בסניפים (באמצעות תיאום פגישה).\nחשוב שתדע שעד להסדרת העיקול בחשבון, לא ניתן יהיה לבצע פעולות בחשבון באתר האינטרנט, באפליקציה, ב׳פועלים בטלפון׳ ובמענה הקולי.\nאם העיקולים כבר הוסדרו, הודעה זו אינה בתוקף.",
+            "female": "תוכלי לשלם את העיקולים על-ידי פנייה אל הגורמים המעקלים.\nאם יש לך יתרה מספקת בחשבון, תוכלי גם לשלם באמצעות אחד הבנקאים שלנו בפועלים בטלפון (2407*) או בסניפים (באמצעות תיאום פגישה).\nחשוב שתדעי שעד להסדרת העיקול בחשבון, לא ניתן יהיה לבצע פעולות בחשבון באתר האינטרנט, באפליקציה, ב׳פועלים בטלפון׳ ובמענה הקולי.\nאם העיקולים כבר הוסדרו, הודעה זו אינה בתוקף."
+        },
+        {
             "key": "3300",
             "male": "Recommendations for you",
             "female": "Recommendations for you"
@@ -7642,8 +7992,8 @@
         },
         {
             "key": "3313",
-            "male": "The new checkbooks were sent to the address associated with the account. The checks will come when they are blocked for use, along with a blocking instructions page",
-            "female": "The new checkbooks were sent to the address associated with the account. The checks will come when they are blocked for use, along with a blocking instructions page"
+            "male": "פנקסי הצ'קים החדשים נשלחו לכתובת המשויכת לחשבון. הצ'קים יגיעו כשהם חסומים לשימוש, בצירוף    דף הנחיות להסרת החסימה",
+            "female": "פנקסי הצ'קים החדשים נשלחו לכתובת המשויכת לחשבון. הצ'קים יגיעו כשהם חסומים לשימוש, בצירוף    דף הנחיות להסרת החסימה"
         },
         {
             "key": "3314",
@@ -7782,8 +8132,8 @@
         },
         {
             "key": "3342",
-            "male": "To redeem the loan on the site",
-            "female": "To redeem the loan on the site"
+            "male": "למימוש ההלוואה",
+            "female": "למימוש ההלוואה"
         },
         {
             "key": "3343",
@@ -7799,6 +8149,26 @@
             "key": "3345",
             "male": "Awaiting payment in the payment system",
             "female": "Awaiting payment in the payment system"
+        },
+        {
+            "key": "3346",
+            "male": "בחשבון זה התקבל בתאריך %@ עיקול מ%@ בגובה %@.\nתוכל לשלם את העיקול על-ידי פנייה ל%@.\n\nאם יש לך יתרה מספקת בחשבון, תוכל גם לגשת לסניף שבו הוא מתנהל ולשלם את העיקול באמצעות אחד הבנקאים שלנו.\nאם העיקול כבר הוסדר, הודעה זו אינה בתוקף.",
+            "female": "בחשבון זה התקבל בתאריך %@ עיקול מ%@ בגובה %@.\nתוכלי לשלם את העיקול על-ידי פנייה ל%@.\n\nאם יש לך יתרה מספקת בחשבון, תוכלי גם לגשת לסניף שבו הוא מתנהל ולשלם את העיקול באמצעות אחד הבנקאים שלנו.\nאם העיקול כבר הוסדר, הודעה זו אינה בתוקף."
+        },
+        {
+            "key": "3347",
+            "male": "בחשבון זה התקבל בתאריך %@ עיקול מ%@ בגובה %@.\nתוכל לשלם את העיקול על-ידי פנייה ל%@.\n\nאם יש לך יתרה מספקת בחשבון, תוכל גם לגשת לסניף שבו הוא מתנהל ולשלם את העיקול באמצעות אחד הבנקאים שלנו.\nחשוב שתדע שעד להסדרת העיקול בחשבון, לא ניתן יהיה לבצע פעולות בחשבון באתר האינטרנט, באפליקציה, ב׳פועלים בטלפון׳ ובמענה הקולי.\nאם העיקול כבר הוסדר, הודעה זו אינה בתוקף.",
+            "female": "בחשבון זה התקבל בתאריך %@ עיקול מ%@ בגובה %@.\nתוכלי לשלם את העיקול על-ידי פנייה ל%@.\n\nאם יש לך יתרה מספקת בחשבון, תוכלי גם לגשת לסניף שבו הוא מתנהל ולשלם את העיקול באמצעות אחד הבנקאים שלנו.\nחשוב שתדעי שעד להסדרת העיקול בחשבון, לא ניתן יהיה לבצע פעולות בחשבון באתר האינטרנט, באפליקציה, ב׳פועלים בטלפון׳ ובמענה הקולי.\nאם העיקול כבר הוסדר, הודעה זו אינה בתוקף."
+        },
+        {
+            "key": "3348",
+            "male": "בחשבון זה נמצאו %@ עיקולים:\n",
+            "female": "בחשבון זה נמצאו %@ עיקולים:\n"
+        },
+        {
+            "key": "3349",
+            "male": "עיקול שהתקבל בתאריך %@ מ%@ בגובה %@\n",
+            "female": "עיקול שהתקבל בתאריך %@ מ%@ בגובה %@\n"
         },
         {
             "key": "3350",
@@ -7951,19 +8321,34 @@
             "female": "Attorney Attorney Alert"
         },
         {
+            "key": "3473",
+            "male": "טוב לראות אותך!",
+            "female": "טוב לראות אותך!"
+        },
+        {
+            "key": "3474",
+            "male": "החשבון החדש שלך עוד לא פעיל,\nאנחנו בודקים כמה פרטים אחרונים.\nנעדכן אותך טלפונית ברגע שהחשבון\nיהיה מוכן לשימוש.",
+            "female": "החשבון החדש שלך עוד לא פעיל,\nאנחנו בודקים כמה פרטים אחרונים.\nנעדכן אותך טלפונית ברגע שהחשבון\nיהיה מוכן לשימוש."
+        },
+        {
+            "key": "3475",
+            "male": "הבנתי, תודה",
+            "female": "הבנתי, תודה"
+        },
+        {
             "key": "3500",
-            "male": "The data is correct for %@",
-            "female": "The data is correct for %@"
+            "male": "הנתונים נכונים ל-",
+            "female": "הנתונים נכונים ל-"
         },
         {
             "key": "3501",
-            "male": "Total assets - current accounts and investments, less liabilities - credit, no mortgage",
-            "female": "Total assets - current accounts and investments, less liabilities - credit, no mortgage"
+            "male": "סה\"כ נכסים בניכוי התחייבויות,",
+            "female": "סה\"כ נכסים בניכוי התחייבויות,"
         },
         {
             "key": "3502",
-            "male": "Total liabilities",
-            "female": "Total liabilities"
+            "male": "ללא משכנתה",
+            "female": "ללא משכנתה"
         },
         {
             "key": "3503",
@@ -7976,19 +8361,64 @@
             "female": "%@ total investment"
         },
         {
+            "key": "3506",
+            "male": "איך מחושבות היתרות?",
+            "female": "איך מחושבות היתרות?"
+        },
+        {
+            "key": "3507",
+            "male": "כל היתרות הן ברוטו ללא ניכוי מס במקור",
+            "female": "כל היתרות הן ברוטו ללא ניכוי מס במקור"
+        },
+        {
+            "key": "3508",
+            "male": "בחר תאריך אחר",
+            "female": "בחרי תאריך אחר"
+        },
+        {
+            "key": "3509",
+            "male": "אישורים ודוחות להורדה",
+            "female": "אישורים ודוחות להורדה"
+        },
+        {
+            "key": "3510",
+            "male": "נכסים",
+            "female": "נכסים"
+        },
+        {
+            "key": "3511",
+            "male": "התחייבויות",
+            "female": "התחייבויות"
+        },
+        {
+            "key": "3515",
+            "male": "יתרת כרטיסי אשראי כוללת חיובים עתידיים בתשלומים ובקרדיט",
+            "female": "יתרת כרטיסי אשראי כוללת חיובים עתידיים בתשלומים ובקרדיט"
+        },
+        {
+            "key": "3516",
+            "male": "זיכויים שמקורם בהפקדות צ׳קים הינם על תנאי למשך 3 ימי עסקים, אלא אם אושר אחרת ע\"י הבנק. יתכנו מקרים בהם יתווספו למניין הנ\"ל ימים נוספים",
+            "female": "זיכויים שמקורם בהפקדות צ׳קים הינם על תנאי למשך 3 ימי עסקים, אלא אם אושר אחרת ע\"י הבנק. יתכנו מקרים בהם יתווספו למניין הנ\"ל ימים נוספים"
+        },
+        {
+            "key": "3517",
+            "male": "כרטיסי אשראי",
+            "female": "כרטיסי אשראי"
+        },
+        {
             "key": "3518",
-            "male": "Shekel loans",
-            "female": "Shekel loans"
+            "male": "הפקדות צ׳קים",
+            "female": "הפקדות צ׳קים"
         },
         {
             "key": "3519",
-            "male": "NIS guarantees",
-            "female": "NIS guarantees"
+            "male": "כאן תוכל לצפות בנתונים הנוגעים *לסך כל הנכסים וההתחייבויות שלך בחשבון,* וגם להתעדכן בגובה יתרת המשכנתה.",
+            "female": "כאן תוכלי לצפות בנתונים הנוגעים *לסך כל הנכסים וההתחייבויות שלך בחשבון,* וגם להתעדכן בגובה יתרת המשכנתה."
         },
         {
             "key": "3520",
-            "male": "Credit in foreign currency",
-            "female": "Credit in foreign currency"
+            "male": "מצטערים, המידע אינו זמין כרגע.\nלא לדאוג, אנחנו על זה.",
+            "female": "מצטערים, המידע אינו זמין כרגע.\nלא לדאוג, אנחנו על זה."
         },
         {
             "key": "3521",
@@ -8062,8 +8492,8 @@
         },
         {
             "key": "3535",
-            "male": "Shekel mortgage",
-            "female": "Shekel mortgage"
+            "male": "משכנתה בשקלים",
+            "female": "משכנתה בשקלים"
         },
         {
             "key": "3551",
@@ -8137,13 +8567,13 @@
         },
         {
             "key": "3567",
-            "male": "Go on site chat",
-            "female": "Go on site chat"
+            "male": "מעבר לאתר",
+            "female": "מעבר לאתר"
         },
         {
             "key": "3700",
-            "male": "Code for telephone workers",
-            "female": "Code for telephone workers"
+            "male": "הפקת קוד לפועלים בטלפון",
+            "female": "הפקת קוד לפועלים בטלפון"
         },
         {
             "key": "3701",
@@ -8167,8 +8597,8 @@
         },
         {
             "key": "3705",
-            "male": "Talk to a banker",
-            "female": "Talk to a banker"
+            "male": "חיוג לפועלים בטלפון",
+            "female": "חיוג לפועלים בטלפון"
         },
         {
             "key": "3706",
@@ -8217,8 +8647,8 @@
         },
         {
             "key": "3758",
-            "male": "Balance of mortgage to pay off %@",
-            "female": "Balance of mortgage to pay off %@"
+            "male": "יתרת משכנתה לסילוק %@",
+            "female": "יתרת משכנתה לסילוק %@"
         },
         {
             "key": "3759",
@@ -8297,13 +8727,1033 @@
         },
         {
             "key": "3851",
-            "male": "Establish an account billing authorization",
-            "female": "Establish an account billing authorization"
+            "male": "מעבר לאישור ההרשאה",
+            "female": "מעבר לאישור ההרשאה"
         },
         {
             "key": "3852",
-            "male": "Your chosen institution is %@",
-            "female": "Your chosen institution is %@"
+            "male": "שליחת קוד",
+            "female": "שליחת קוד"
+        },
+        {
+            "key": "3853",
+            "male": "למי לתת את ההרשאה?",
+            "female": "למי לתת את ההרשאה?"
+        },
+        {
+            "key": "3854",
+            "male": "קוד המוסד / המוטב",
+            "female": "קוד המוסד / המוטב"
+        },
+        {
+            "key": "3855",
+            "male": "%@-%@ תוויים המייצגים את קוד המוסד או המוטב שיקבל הרשאה לחיוב החשבון",
+            "female": "%@-%@ תוויים המייצגים את קוד המוסד או המוטב שיקבל הרשאה לחיוב החשבון"
+        },
+        {
+            "key": "3856",
+            "male": "המוסד / המוטב שנבחר",
+            "female": "המוסד / המוטב שנבחר"
+        },
+        {
+            "key": "3857",
+            "male": "ניתנה ל%@",
+            "female": "ניתנה ל%@"
+        },
+        {
+            "key": "3858",
+            "male": "המספר המזהה שלך אצל המוסד / המוטב (לא חובה)",
+            "female": "המספר המזהה שלך אצל המוסד / המוטב (לא חובה)"
+        },
+        {
+            "key": "3859",
+            "male": "מספר הטלפון המשויך למנוי בבזק, כולל קידומת",
+            "female": "מספר הטלפון המשויך למנוי בבזק, כולל קידומת"
+        },
+        {
+            "key": "3860",
+            "male": "מספר הטלפון בבזק",
+            "female": "מספר הטלפון בבזק"
+        },
+        {
+            "key": "3861",
+            "male": "מספר מזהה",
+            "female": "מספר מזהה"
+        },
+        {
+            "key": "3862",
+            "male": "בסיום תוכל להוריד מסמך הכולל את כל פרטי ההרשאה",
+            "female": "בסיום תוכלי להוריד מסמך הכולל את כל פרטי ההרשאה"
+        },
+        {
+            "key": "3863",
+            "male": "מטרת ההרשאה",
+            "female": "מטרת ההרשאה"
+        },
+        {
+            "key": "3864",
+            "male": "מידע זה יוצג לך בלבד",
+            "female": "מידע זה יוצג לך בלבד"
+        },
+        {
+            "key": "3865",
+            "male": "אנא הקלד קוד מוסד או מוטב",
+            "female": "אנא הקלדי קוד מוסד או מוטב"
+        },
+        {
+            "key": "3866",
+            "male": "אנא הקלד קוד המורכב מ-%@ עד %@ ספרות",
+            "female": "אנא הקלדי קוד המורכב מ-%@ עד %@ ספרות"
+        },
+        {
+            "key": "3867",
+            "male": "הגדרת סכום מרבי וטווח זמן",
+            "female": "הגדרת סכום מרבי וטווח זמן"
+        },
+        {
+            "key": "3868",
+            "male": "סכום מרבי לחיוב",
+            "female": "סכום מרבי לחיוב"
+        },
+        {
+            "key": "3869",
+            "male": "כל סכום",
+            "female": "כל סכום"
+        },
+        {
+            "key": "3870",
+            "male": "תאריך אחרון לחיוב",
+            "female": "תאריך אחרון לחיוב"
+        },
+        {
+            "key": "3871",
+            "male": "ללא הגבלת זמן",
+            "female": "ללא הגבלת זמן"
+        },
+        {
+            "key": "3872",
+            "male": "תנאי ההרשאה",
+            "female": "תנאי ההרשאה"
+        },
+        {
+            "key": "3873",
+            "male": "קיימת הרשאה קודמת",
+            "female": "קיימת הרשאה קודמת"
+        },
+        {
+            "key": "3874",
+            "male": "לפני אישור הפעולה יש לוודא שהפרטים נכונים",
+            "female": "לפני אישור הפעולה יש לוודא שהפרטים נכונים"
+        },
+        {
+            "key": "3875",
+            "male": "המוסד / המוטב",
+            "female": "המוסד / המוטב"
+        },
+        {
+            "key": "3876",
+            "male": "שם המוסד / המוטב",
+            "female": "שם המוסד / המוטב"
+        },
+        {
+            "key": "3877",
+            "male": "פרטי ההרשאה",
+            "female": "פרטי ההרשאה"
+        },
+        {
+            "key": "3878",
+            "male": "תוקף ההרשאה",
+            "female": "תוקף ההרשאה"
+        },
+        {
+            "key": "3879",
+            "male": "מאשר את הקמת ההרשאה",
+            "female": "מאשרת את הקמת ההרשאה"
+        },
+        {
+            "key": "3880",
+            "male": "ההרשאה לחיוב החשבון הוקמה בהצלחה",
+            "female": "ההרשאה לחיוב החשבון הוקמה בהצלחה"
+        },
+        {
+            "key": "3881",
+            "male": "התקבלה בתאריך %@ בשעה %@",
+            "female": "התקבלה בתאריך %@ בשעה %@"
+        },
+        {
+            "key": "3882",
+            "male": "מסמך הקמת ההרשאה לחיוב",
+            "female": "מסמך הקמת ההרשאה לחיוב"
+        },
+        {
+            "key": "3883",
+            "male": "הרשאות לחיוב",
+            "female": "הרשאות לחיוב"
+        },
+        {
+            "key": "3884",
+            "male": "הרשאת חיוב ל%@",
+            "female": "הרשאת חיוב ל%@"
+        },
+        {
+            "key": "3885",
+            "male": "המסמך נשמר בתיקיית המסמכים במכשירך",
+            "female": "המסמך נשמר בתיקיית המסמכים במכשירך"
+        },
+        {
+            "key": "3886",
+            "male": "אתה יכול לשתף אותו עם אחרים, רק שים לב שהוא מכיל מידע רגיש",
+            "female": "את יכולה לשתף אותו עם אחרים, רק שימי לב שהוא מכיל מידע רגיש"
+        },
+        {
+            "key": "3887",
+            "male": "לחיצה על ״שיתוף״ תוביל לבחירת האפליקציה שתשמש לשליחת המסמך לנמען. המסמך ישלח באמצעות ספק הרשת שלך. יש לוודא את זהות הנמען לפני השליחה.",
+            "female": "לחיצה על ״שיתוף״ תוביל לבחירת האפליקציה שתשמש לשליחת המסמך לנמען. המסמך ישלח באמצעות ספק הרשת שלך. יש לוודא את זהות הנמען לפני השליחה."
+        },
+        {
+            "key": "3888",
+            "male": "המסמך מוכן להורדה",
+            "female": "המסמך מוכן להורדה"
+        },
+        {
+            "key": "3889",
+            "male": "אם אתה מתכוון לשלוח אותו לאחרים, שים לב שהוא מכיל מידע רגיש",
+            "female": "אם את מתכוונת לשלוח אותו לאחרים, שימי לב שהוא מכיל מידע רגיש"
+        },
+        {
+            "key": "3890",
+            "male": "לחיצה על ״המשך״ תוביל לבחירת האפליקציה שתשמש לשמירה או לשליחת המסמך לנמען. יש לוודא את זהות הנמען לפני השליחה",
+            "female": "לחיצה על ״המשך״ תוביל לבחירת האפליקציה שתשמש לשמירה או לשליחת המסמך לנמען. יש לוודא את זהות הנמען לפני השליחה"
+        },
+        {
+            "key": "3891",
+            "male": "הרשאה חדשה",
+            "female": "הרשאה חדשה"
+        },
+        {
+            "key": "3892",
+            "male": "חיוב אחרון בתאריך %@",
+            "female": "חיוב אחרון בתאריך %@"
+        },
+        {
+            "key": "3893",
+            "male": "תוקף ההרשאה יפוג במהלך החודש הקרוב",
+            "female": "תוקף ההרשאה יפוג במהלך החודש הקרוב"
+        },
+        {
+            "key": "3894",
+            "male": "תוקף ההרשאה יפוג בימים הקרובים",
+            "female": "תוקף ההרשאה יפוג בימים הקרובים"
+        },
+        {
+            "key": "3895",
+            "male": "תוקף ההרשאה מסתיים היום",
+            "female": "תוקף ההרשאה מסתיים היום"
+        },
+        {
+            "key": "3896",
+            "male": "הרשאה זו אינה בתוקף",
+            "female": "הרשאה זו אינה בתוקף"
+        },
+        {
+            "key": "3897",
+            "male": "לבקשתך, ההרשאה הוקפאה עד לתאריך %@",
+            "female": "לבקשתך, ההרשאה הוקפאה עד לתאריך %@"
+        },
+        {
+            "key": "3898",
+            "male": "לא ניתן לבצע פעולות בהרשאה לחיוב חשבון שהוקפאה",
+            "female": "לא ניתן לבצע פעולות בהרשאה לחיוב חשבון שהוקפאה"
+        },
+        {
+            "key": "3899",
+            "male": "טרם התבצעו חיובים\nבהרשאה זו",
+            "female": "טרם התבצעו חיובים\nבהרשאה זו"
+        },
+        {
+            "key": "3900",
+            "male": "הרשאה לחיוב חשבון",
+            "female": "הרשאה לחיוב חשבון"
+        },
+        {
+            "key": "3901",
+            "male": "הרשאה ל%@",
+            "female": "השראה ל%@"
+        },
+        {
+            "key": "3902",
+            "male": "פעולה זו",
+            "female": "פעולה זו"
+        },
+        {
+            "key": "3903",
+            "male": "חיוב אחרון",
+            "female": "חיוב אחרון"
+        },
+        {
+            "key": "3904",
+            "male": "תאריך החיוב",
+            "female": "תאריך החיוב"
+        },
+        {
+            "key": "3905",
+            "male": "חיובים קודמים לצפייה",
+            "female": "חיובים קודמים לצפייה"
+        },
+        {
+            "key": "3906",
+            "male": "תאריך תחילת הקפאה אחרונה",
+            "female": "תאריך תחילת הקפאה אחרונה"
+        },
+        {
+            "key": "3907",
+            "male": "תאריך הקמת ההרשאה",
+            "female": "תאריך הקמת ההרשאה"
+        },
+        {
+            "key": "3908",
+            "male": "הסכום המרבי לחיוב צריך להיות גבוה מ-0",
+            "female": "הסכום המרבי לחיוב צריך להיות גבוה מ-0"
+        },
+        {
+            "key": "3909",
+            "male": "Debit_authorization_%@_%@_%@",
+            "female": "Debit_authorization_%@_%@_%@"
+        },
+        {
+            "key": "3910",
+            "male": "עדכון הרשאה לחיוב חשבון",
+            "female": "עדכון הרשאה לחיוב חשבון"
+        },
+        {
+            "key": "3911",
+            "male": "מסמך פרטי ההרשאה לחיוב",
+            "female": "מסמך פרטי ההרשאה לחיוב"
+        },
+        {
+            "key": "3912",
+            "male": "בחיים דווקא יש קיצורי דרך",
+            "female": "בחיים דווקא יש קיצורי דרך"
+        },
+        {
+            "key": "3913",
+            "male": "הרשאות לחיוב יאפשרו למוסדות הרלוונטיים לחייב את חשבונך עבור מים, חשמל, ארנונה וכיו״ב, ויחסכו לך את הזמן והטרחה שבביצוע פעולות התשלום",
+            "female": "הרשאות לחיוב יאפשרו למוסדות הרלוונטיים לחייב את חשבונך עבור מים, חשמל, ארנונה וכיו״ב, ויחסכו לך את הזמן והטרחה שבביצוע פעולות התשלום"
+        },
+        {
+            "key": "3914",
+            "male": "אולי התכוונת להוראת קבע?",
+            "female": "אולי התכוונת להוראת קבע?"
+        },
+        {
+            "key": "3915",
+            "male": "חיובים מהשנה האחרונה",
+            "female": "חיובים מהשנה האחרונה"
+        },
+        {
+            "key": "3916",
+            "male": "סכום מרבי לחיוב ותוקף ההרשאה",
+            "female": "סכום מרבי לחיוב ותוקף ההרשאה"
+        },
+        {
+            "key": "3917",
+            "male": "תאריך סיום הקפאה אחרונה",
+            "female": "תאריך סיום הקפאה אחרונה"
+        },
+        {
+            "key": "3918",
+            "male": "ההרשאה לחיוב החשבון עודכנה בהצלחה",
+            "female": "ההרשאה לחיוב החשבון עודכנה בהצלחה"
+        },
+        {
+            "key": "3919",
+            "male": "עדכון הרשאה",
+            "female": "עדכון הרשאה"
+        },
+        {
+            "key": "3920",
+            "male": "ביטול הרשאה לחיוב חשבון",
+            "female": "ביטול הרשאה לחיוב חשבון"
+        },
+        {
+            "key": "3921",
+            "male": "ביטול הרשאה",
+            "female": "ביטול הרשאה"
+        },
+        {
+            "key": "3922",
+            "male": "מאשר את ביטול ההרשאה",
+            "female": "מאשרת את ביטול ההרשאה"
+        },
+        {
+            "key": "3923",
+            "male": "ההרשאה לחיוב החשבון בוטלה",
+            "female": "ההרשאה לחיוב החשבון בוטלה"
+        },
+        {
+            "key": "3924",
+            "male": "מצטערים, עקב תקלה זמנית לא ניתן להציג את פרטי ההרשאה לחיוב.",
+            "female": "מצטערים, עקב תקלה זמנית לא ניתן להציג את פרטי ההרשאה לחיוב."
+        },
+        {
+            "key": "3925",
+            "male": "אין חיובים מהשנה האחרונה להצגה",
+            "female": "אין חיובים מהשנה האחרונה להצגה"
+        },
+        {
+            "key": "3927",
+            "male": "טרם התבצעו חיובים בהרשאה זו",
+            "female": "טרם התבצעו חיובים בהרשאה זו"
+        },
+        {
+            "key": "3928",
+            "male": "מצטערים, המידע אינו זמין כרגע",
+            "female": "מצטערים, המידע אינו זמין כרגע"
+        },
+        {
+            "key": "3950",
+            "male": "הרשאות לחיוב יאפשרו למוסדות הרלוונטיים לחייב את חשובנך בתשלומים עבור מים, חשמל, ארנונה וכיו\"ב",
+            "female": "הרשאות לחיוב יאפשרו למוסדות הרלוונטיים לחייב את חשובנך בתשלומים עבור מים, חשמל, ארנונה וכיו\"ב"
+        },
+        {
+            "key": "3951",
+            "male": "שחזור קוד משתמש",
+            "female": "שחזור קוד משתמש"
+        },
+        {
+            "key": "3952",
+            "male": "אנא מלא את הפרטים הבאים",
+            "female": "אנא מלאי את הפרטים הבאים"
+        },
+        {
+            "key": "3953",
+            "male": "תעודת זהות",
+            "female": "תעודת זהות"
+        },
+        {
+            "key": "3954",
+            "male": "דרכון",
+            "female": "דרכון"
+        },
+        {
+            "key": "3955",
+            "male": "תווים הכוללים ספרות בלבד",
+            "female": "תווים הכוללים ספרות בלבד"
+        },
+        {
+            "key": "3956",
+            "male": "מספר סניף",
+            "female": "מספר סניף"
+        },
+        {
+            "key": "3957",
+            "male": "מספר תעודת זהות",
+            "female": "מספר תעודת זהות"
+        },
+        {
+            "key": "3958",
+            "male": "מספר חשבון",
+            "female": "מספר חשבון"
+        },
+        {
+            "key": "3960",
+            "male": "תווים המכילים 8-14 ספרות ואותיות באנגלית",
+            "female": "תווים המכילים 8-14 ספרות ואותיות באנגלית"
+        },
+        {
+            "key": "3961",
+            "male": "סיסמה",
+            "female": "סיסמה"
+        },
+        {
+            "key": "3962",
+            "male": "2-3 ספרות המייצגות את מספר הסניף",
+            "female": "2-3 ספרות המייצגות את מספר הסניף"
+        },
+        {
+            "key": "3963",
+            "male": "מספר דרכון",
+            "female": "מספר דרכון"
+        },
+        {
+            "key": "3964",
+            "male": "4-16 תווים הכוללים ספרות ואותיות באנגלית בלבד",
+            "female": "4-16 תווים הכוללים ספרות ואותיות באנגלית בלבד"
+        },
+        {
+            "key": "3965",
+            "male": "קוד המשתמש שלך הוא:",
+            "female": "קוד המשתמש שלך הוא:"
+        },
+        {
+            "key": "3967",
+            "male": "אנא הקלד 8-14 תווים",
+            "female": "אנא הקלידי 8-14 תווים"
+        },
+        {
+            "key": "3969",
+            "male": "אנא הקלד 2-3 ספרות",
+            "female": "אנא הקלידי 2-3 ספרות"
+        },
+        {
+            "key": "3971",
+            "male": "אנא הקלד 9 ספרות",
+            "female": "אנא הקלידי 9 ספרות"
+        },
+        {
+            "key": "3973",
+            "male": "אנא הקלד 4-16 ספרות",
+            "female": "אנא הקלידי 4-16 ספרות"
+        },
+        {
+            "key": "3975",
+            "male": "אנא הקלד סיסמה",
+            "female": "אנא הקלידי סיסמה"
+        },
+        {
+            "key": "3977",
+            "male": "אנא הקלד מספר סניף",
+            "female": "אנא הקלידי מספר סניף"
+        },
+        {
+            "key": "3979",
+            "male": "אנא הקלד מספר חשבון (כולל ספרות בלבד)",
+            "female": "אנא הקלידי מספר חשבון (כולל ספרות בלבד)"
+        },
+        {
+            "key": "3981",
+            "male": "אנא הקלד מספר תעודת זהות",
+            "female": "אנא הקלידי מספר תעודת זהות"
+        },
+        {
+            "key": "3983",
+            "male": "אנא הקלד מספר דרכון",
+            "female": "אנא הקלידי מספר דרכון"
+        },
+        {
+            "key": "3984",
+            "male": "אחד או יותר מהפרטים שהקלדת אינם תקינים",
+            "female": "אחד או יותר מהפרטים שהקלדת אינם תקינים"
+        },
+        {
+            "key": "3985",
+            "male": "אחד או יותר מהפרטים שהקלדת אינם תקינים.\nלתשומת לבך: שגיאה נוספת תביא לחסימת האפשרות לשחזר את קוד המשתמש למשך 24 שעות.",
+            "female": "אחד או יותר מהפרטים שהקלדת אינם תקינים.\nלתשומת ליבך: שגיאה נוספת תביא לחסימת האפשרות לשחזר את קוד המשתמש למשך 24 שעות."
+        },
+        {
+            "key": "3986",
+            "male": "האפשרות לשחזר קוד משתמש נחסמה ל-24 שעות",
+            "female": "האפשרות לשחזר קוד משתמש נחסמה ל-24 שעות"
+        },
+        {
+            "key": "3987",
+            "male": "תוכל לשחזר את קוד המשתמש גם בסניף או באמצעות המוקד הטכני",
+            "female": "תוכלי לשחזר את קוד המשתמש גם בסניף או באמצעות המוקד הטכני"
+        },
+        {
+            "key": "3988",
+            "male": "הסיסמה שהוקלדה אינה בתוקף, יש להפיק סיסמה חדשה",
+            "female": "הסיסמה שהוקלדה אינה בתוקף, יש להפיק סיסמה חדשה"
+        },
+        {
+            "key": "3989",
+            "male": "כדי להגן על חשבונך, נחסמה האפשרות לשחזר את קוד המשתמש",
+            "female": "כדי להגן על חשבונך, נחסמה האפשרות לשחזר את קוד המשתמש"
+        },
+        {
+            "key": "3990",
+            "male": "תוכל לשחזר את קוד המשתמש באמצעות פניה למוקד הטכני",
+            "female": "תוכלי לשחזר את קוד המשתמש באמצעות פניה למוקד הטכני"
+        },
+        {
+            "key": "3991",
+            "male": "הפקת קוד משתמש חדש דורשת שליחת קוד ב-SMS לטלפון הנייד שלך, אבל מספר הטלפון שלך לא מעודכן במערכת",
+            "female": "הפקת קוד משתמש חדש דורשת שליחת קוד ב-SMS לטלפון הנייד שלך, אבל מספר הטלפון שלך לא מעודכן במערכת"
+        },
+        {
+            "key": "3992",
+            "male": "אז מה עושים?#משחזרים קוד משתמש בסניף או באמצעות המוקד הטכני#בכניסה הבאה לחשבון מגדירים מספר טלפון נייד לצורך זיהוי (אנחנו נזכיר לך)",
+            "female": "אז מה עושים?#משחזרים קוד משתמש בסניף או באמצעות המוקד הטכני#בכניסה הבאה לחשבון מגדירים מספר טלפון נייד לצורך זיהוי (אנחנו נזכיר לך)"
+        },
+        {
+            "key": "3995",
+            "male": "שחזור קוד משתמש",
+            "female": "שחזור קוד משתמש"
+        },
+        {
+            "key": "3996",
+            "male": "קוד המשתמש שוחזר בהצלחה!",
+            "female": "קוד המשתמש שוחזר בהצלחה!"
+        },
+        {
+            "key": "3999",
+            "male": "מטרת ההעברה תוצג בחשבון שלך ושל המוטב",
+            "female": "מטרת ההעברה תוצג בחשבון שלך ושל המוטב"
+        },
+        {
+            "key": "4000",
+            "male": "הוראת קבע להעברת כסף",
+            "female": "הוראת קבע להעברת כסף"
+        },
+        {
+            "key": "4001",
+            "male": "הוראות קבע בחשבון",
+            "female": "הוראות קבע בחשבון"
+        },
+        {
+            "key": "4002",
+            "male": "הוראת קבע חדשה",
+            "female": "הוראת קבע חדשה"
+        },
+        {
+            "key": "4010",
+            "male": "הוראות קבע",
+            "female": "הוראות קבע"
+        },
+        {
+            "key": "4011",
+            "male": "ניתן להעביר בין 2 ל- %@ פעמים",
+            "female": "ניתן להעביר בין 2 ל- %@ פעמים"
+        },
+        {
+            "key": "4015",
+            "male": "הבקשה להקמת הוראת קבע להעברת כסף התקבלה בהצלחה",
+            "female": "הבקשה להקמת הוראת קבע להעברת כסף התקבלה בהצלחה"
+        },
+        {
+            "key": "4017",
+            "male": "מטרת ההעברה",
+            "female": "מטרת ההעברה"
+        },
+        {
+            "key": "4018",
+            "male": "לתשומת ליבך: ביצוע ההעברה מותנה בקיום יתרה מספקת בחשבון",
+            "female": "לתשומת ליבך: ביצוע ההעברה מותנה בקיום יתרה מספקת בחשבון"
+        },
+        {
+            "key": "4019",
+            "male": "תאריך העברה אחרונה",
+            "female": "תאריך העברה אחרונה"
+        },
+        {
+            "key": "4020",
+            "male": "תאריך העברה ראשונה",
+            "female": "תאריך העברה ראשונה"
+        },
+        {
+            "key": "4021",
+            "male": "מספר ההעברות",
+            "female": "מספר ההעברות"
+        },
+        {
+            "key": "4022",
+            "male": "תדירות",
+            "female": "תדירות"
+        },
+        {
+            "key": "4023",
+            "male": "פרטי ההעברה",
+            "female": "פרטי ההעברה"
+        },
+        {
+            "key": "4024",
+            "male": "סכום ההעברה",
+            "female": "סכום ההעברה"
+        },
+        {
+            "key": "4025",
+            "male": "פרטי המוטב",
+            "female": "פרטי המוטב"
+        },
+        {
+            "key": "4026",
+            "male": "אופן הצמדה",
+            "female": "אופן הצמדה"
+        },
+        {
+            "key": "4027",
+            "male": "פרטים נוספים",
+            "female": "פרטים נוספים"
+        },
+        {
+            "key": "4028",
+            "male": "מהו אופן ההצמדה?",
+            "female": "מהו אופן ההצמדה?"
+        },
+        {
+            "key": "4029",
+            "male": "מהי מטרת ההעברה?",
+            "female": "מהי מטרת ההעברה?"
+        },
+        {
+            "key": "4030",
+            "male": "מוטב\nחדש",
+            "female": "מוטב\nחדש"
+        },
+        {
+            "key": "4031",
+            "male": "מוטב\nקודם",
+            "female": "מוטב\nקודם"
+        },
+        {
+            "key": "4032",
+            "male": "חשבון\nאחר שלי",
+            "female": "חשבון\nאחר שלי"
+        },
+        {
+            "key": "4033",
+            "male": "שם המוטב",
+            "female": "שם המוטב"
+        },
+        {
+            "key": "4034",
+            "male": "לאיזה מוטב להעביר?",
+            "female": "לאיזה מוטב להעביר?"
+        },
+        {
+            "key": "4035",
+            "male": "מאיזה בנק?",
+            "female": "מאיזה בנק?"
+        },
+        {
+            "key": "4036",
+            "male": "באיזה סניף?",
+            "female": "באיזה סניף?"
+        },
+        {
+            "key": "4037",
+            "male": "סכום ההעברה",
+            "female": "סכום ההעברה"
+        },
+        {
+            "key": "4038",
+            "male": "כמה להעביר?",
+            "female": "כמה להעביר?"
+        },
+        {
+            "key": "4040",
+            "male": "תדירות ההעברה",
+            "female": "תדירות ההעברה"
+        },
+        {
+            "key": "4041",
+            "male": "כל כמה זמן לבצע את ההעברה?",
+            "female": "כל כמה זמן לבצע את ההעברה?"
+        },
+        {
+            "key": "4042",
+            "male": "מתי לבצע את ההעברה הראשונה?",
+            "female": "מתי לבצע את ההעברה הראשונה?"
+        },
+        {
+            "key": "4043",
+            "male": "(היום שתבחר יהיה יום ההעברה החודשי)",
+            "female": "(היום שתבחרי יהיה יום ההעברה החודשי)"
+        },
+        {
+            "key": "4044",
+            "male": "ניתן לבחור תאריך עד שנה קדימה",
+            "female": "ניתן לבחור תאריך עד שנה קדימה"
+        },
+        {
+            "key": "4045",
+            "male": "כמה פעמים לבצע את ההעברה?",
+            "female": "כמה פעמים לבצע את ההעברה?"
+        },
+        {
+            "key": "4048",
+            "male": "פעם ב%@",
+            "female": "פעם ב%@"
+        },
+        {
+            "key": "4049",
+            "male": "הוראות קבע יאפשרו לך לבצע תשלומים קבועים בזמנים קבועים, ללא צורך בקביעת תזכורות או שימוש בצ׳קים",
+            "female": "הוראות קבע יאפשרו לך לבצע תשלומים קבועים בזמנים קבועים, ללא צורך בקביעת תזכורות או שימוש בצ׳קים"
+        },
+        {
+            "key": "4050",
+            "male": "אולי התכוונת להרשאה לחיוב חשבון?",
+            "female": "אולי התכוונת להרשאה לחיוב חשבון?"
+        },
+        {
+            "key": "4090",
+            "male": "כתובות האימייל שלך:",
+            "female": "כתובות האימייל שלך:"
+        },
+        {
+            "key": "4091",
+            "male": "כתובת האימייל שלך:",
+            "female": "כתובת האימייל שלך:"
+        },
+        {
+            "key": "4092",
+            "male": "חייבת להיות לפחות כתובת אימייל אחת שמורה במערכת",
+            "female": "חייבת להיות לפחות כתובת אימייל אחת שמורה במערכת"
+        },
+        {
+            "key": "4098",
+            "male": "אתה יכול להעביר סכום בגובה ₪%@ עד ל ₪%@",
+            "female": "את יכולה להעביר סכום בגובה ₪%@ עד ל ₪%@"
+        },
+        {
+            "key": "4151",
+            "male": "אנחנו בבנק הפועלים נערכנו כדי להביא אליכם עד הבית את השירותים הבנקאיים הנחוצים לכם, מבלי שתצטרכו להגיע לסניף.",
+            "female": "אנחנו בבנק הפועלים נערכנו כדי להביא אליכם עד הבית את השירותים הבנקאיים הנחוצים לכם, מבלי שתצטרכו להגיע לסניף."
+        },
+        {
+            "key": "4152",
+            "male": "בהמשך להנחיות משרד הבריאות, ועל מנת לשמור על בריאות לקוחותינו ועובדינו, תתאפשר קבלת קהל במספר סניפים מצומצם ברחבי הארץ ובתאום פגישה מראש בלבד.",
+            "female": "בהמשך להנחיות משרד הבריאות, ועל מנת לשמור על בריאות לקוחותינו ועובדינו, תתאפשר קבלת קהל במספר סניפים מצומצם ברחבי הארץ ובתאום פגישה מראש בלבד."
+        },
+        {
+            "key": "4153",
+            "male": "לנוחיותכם מצורפת רשימת הסניפים הפתוחים, מסודרת לפי שמות הערים ולפי א׳ב׳",
+            "female": "לנוחיותכם מצורפת רשימת הסניפים הפתוחים, מסודרת לפי שמות הערים ולפי א׳ב׳"
+        },
+        {
+            "key": "4154",
+            "male": "לעידכונים שוטפים באתר הבנק",
+            "female": "לעידכונים שוטפים באתר הבנק"
+        },
+        {
+            "key": "4155",
+            "male": "לקוחות יקרים, בשל המצב לא יתאפשר להזמין פנקסי צ׳קים לסניף",
+            "female": "לקוחות יקרים, בשל המצב לא יתאפשר להזמין פנקסי צ׳קים לסניף"
+        },
+        {
+            "key": "4200",
+            "male": "מבוצעת",
+            "female": "מבוצעת"
+        },
+        {
+            "key": "4201",
+            "male": "ב-%@ בחודש",
+            "female": "ב-%@ בחודש"
+        },
+        {
+            "key": "4202",
+            "male": "הבקשה לעדכון הוראות קבע התקבלה בהצלחה",
+            "female": "הבקשה לעדכון הוראות קבע התקבלה בהצלחה"
+        },
+        {
+            "key": "4205",
+            "male": "מאשר עדכון",
+            "female": "מאשרת עדכון"
+        },
+        {
+            "key": "4051",
+            "male": "תא דואר",
+            "female": "תא דואר"
+        },
+        {
+            "key": "4052",
+            "male": "מספר הטלפון",
+            "female": "מספר הטלפון"
+        },
+        {
+            "key": "4053",
+            "male": "טלפון המשמש לקבלת קוד אימות",
+            "female": "טלפון המשמש לקבלת קוד אימות"
+        },
+        {
+            "key": "4054",
+            "male": "(שמורים עוד %@ מספרי טלפון)",
+            "female": "(שמורים עוד %@ מספרי טלפון)"
+        },
+        {
+            "key": "4055",
+            "male": "(שמור עוד מספר טלפון אחד)",
+            "female": "(שמור עוד מספר טלפון אחד)"
+        },
+        {
+            "key": "4056",
+            "male": "כתובת האימייל",
+            "female": "כתובת האימייל"
+        },
+        {
+            "key": "4057",
+            "male": "הכתובת תשוייך לחשבון ותשמש\nלשליחת מכתבים, פנקסי צ׳קים וכיו״ב",
+            "female": "הכתובת תשוייך לחשבון ותשמש\nלשליחת מכתבים, פנקסי צ׳קים וכיו״ב"
+        },
+        {
+            "key": "4060",
+            "male": "קבלת קוד אימות אפשרית רק במספר נייד",
+            "female": "קבלת קוד אימות אפשרית רק במספר נייד"
+        },
+        {
+            "key": "4061",
+            "male": "נייד",
+            "female": "נייד"
+        },
+        {
+            "key": "4062",
+            "male": "קווי",
+            "female": "קווי"
+        },
+        {
+            "key": "4063",
+            "male": "מספר טלפון נייד",
+            "female": "מספר טלפון נייד"
+        },
+        {
+            "key": "4064",
+            "male": "יש להקליד מספר בן 10 ספרות",
+            "female": "יש להקליד מספר בן 10 ספרות"
+        },
+        {
+            "key": "4065",
+            "male": "לשמירה על חשבונך, למספר זה ישלח כעת קוד אימות חד פעמי",
+            "female": "לשמירה על חשבונך, למספר זה ישלח כעת קוד אימות חד פעמי"
+        },
+        {
+            "key": "4066",
+            "male": "לא ניתן לבחור במספר קווי כמספר לשליחת קוד אימות",
+            "female": "לא ניתן לבחור במספר קווי כמספר לשליחת קוד אימות"
+        },
+        {
+            "key": "4067",
+            "male": "מספר טלפון קווי",
+            "female": "מספר טלפון קווי"
+        },
+        {
+            "key": "4068",
+            "male": "מהי כתובת האימייל שלך?",
+            "female": "מהי כתובת האימייל שלך?"
+        },
+        {
+            "key": "4069",
+            "male": "הוספת אימייל",
+            "female": "הוספת אימייל"
+        },
+        {
+            "key": "4070",
+            "male": "כתובת האימייל תשמש את הבנק ליצירת קשר איתך, לשליחת עדכונים על החשבון ולשליחת הצעות שיווקיות, בהתאם להרשאות שתתן.",
+            "female": "כתובת האימייל תשמש את הבנק ליצירת קשר איתך, לשליחת עדכונים על החשבון ולשליחת הצעות שיווקיות, בהתאם להרשאות שתתני."
+        },
+        {
+            "key": "4071",
+            "male": "ביטול מחיקה",
+            "female": "ביטול מחיקה"
+        },
+        {
+            "key": "4073",
+            "male": "כל חשבונתיי",
+            "female": "כל חשבונתיי"
+        },
+        {
+            "key": "4074",
+            "male": "כתובת אימייל",
+            "female": "כתובת אימייל"
+        },
+        {
+            "key": "4075",
+            "male": "אנא הקלד כתובת אימייל תקינה",
+            "female": "אנא הקלידי כתובת אימייל תקינה"
+        },
+        {
+            "key": "4076",
+            "male": "העדכון בוצע בהצלחה!",
+            "female": "העדכון בוצע בהצלחה!"
+        },
+        {
+            "key": "4077",
+            "male": "מספרי הטלפון שלך",
+            "female": "מספרי הטלפון שלך"
+        },
+        {
+            "key": "4078",
+            "male": "מספר הטלפון שלך",
+            "female": "מספר הטלפון שלך"
+        },
+        {
+            "key": "4079",
+            "male": "(מספר לקבלת קוד אימות)",
+            "female": "(מספר לקבלת קוד אימות)"
+        },
+        {
+            "key": "4080",
+            "male": "עדכון פרטים נוספים",
+            "female": "עדכון פרטים נוספים"
+        },
+        {
+            "key": "4081",
+            "male": "המספר יעודכן בכל חשבונתייך",
+            "female": "המספר יעודכן בכל חשבונתייך"
+        },
+        {
+            "key": "4082",
+            "male": "עבור אילו חשבונות לעדכן את האימייל?",
+            "female": "עבור אילו חשבונות לעדכן את האימייל?"
+        },
+        {
+            "key": "4083",
+            "male": "עדכון פרטים אישיים",
+            "female": "עדכון פרטים אישיים"
+        },
+        {
+            "key": "4084",
+            "male": "שמירת שינויים",
+            "female": "שמירת שינויים"
+        },
+        {
+            "key": "4085",
+            "male": "הגדרת מספר זה לקבלת קוד אימות",
+            "female": "הגדרת מספר זה לקבלת קוד אימות"
+        },
+        {
+            "key": "4086",
+            "male": "כתובת",
+            "female": "כתובת"
+        },
+        {
+            "key": "4087",
+            "male": "יש לעדכן כתובת אימייל",
+            "female": "יש לעדכן כתובת אימייל"
+        },
+        {
+            "key": "4088",
+            "male": "כתובת זו תשמש למשלוח דברי דואר, פנקסי צ'קים, כרטיסי אשראי והיא תודפס על גבי הצ'קים",
+            "female": "כתובת זו תשמש למשלוח דברי דואר, פנקסי צ'קים, כרטיסי אשראי והיא תודפס על גבי הצ'קים"
+        },
+        {
+            "key": "4203",
+            "male": "מאשר ביטול",
+            "female": "מאשרת ביטול"
+        },
+        {
+            "key": "4206",
+            "male": "יום ההעברה החודשי",
+            "female": "יום ההעברה החודשי"
+        },
+        {
+            "key": "4204",
+            "male": "הבקשה לביטול העברת כסף בהוראת קבע התקבלה בהצלחה",
+            "female": "הבקשה לביטול העברת כסף בהוראת קבע התקבלה בהצלחה"
+        },
+        {
+            "key": "4207",
+            "male": "ניתן להקליד יום העברה חודשי מ 1 עד 31",
+            "female": "ניתן להקליד יום העברה חודשי מ 1 עד 31"
+        },
+        {
+            "key": "4208",
+            "male": "פרטי הוראת קבע",
+            "female": "פרטי הוראת קבע"
+        },
+        {
+            "key": "4209",
+            "male": "עדכון הוראת קבע",
+            "female": "עדכון הוראת קבע"
+        },
+        {
+            "key": "4210",
+            "male": "ביטול הוראת קבע",
+            "female": "ביטול הוראת קבע"
+        },
+        {
+            "key": "4211",
+            "male": "העברת כסף בהוראת קבע",
+            "female": "העברת כסף בהוראת קבע"
         }
     ]
 }
