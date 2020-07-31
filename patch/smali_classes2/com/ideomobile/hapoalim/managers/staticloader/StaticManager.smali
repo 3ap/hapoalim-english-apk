@@ -1045,7 +1045,7 @@
 
     const-string v2, "Single.just(mStaticHelpe\u2026MutualError::class.java))"
 
-    const-string v3, "mutual_dictionary_new.json"
+    const-string v3, "mutual_dictionary.json"
 
     const/4 v4, 0x0
 
@@ -1705,6 +1705,7 @@
     invoke-virtual {v0}, Ljava/lang/Boolean;->booleanValue()Z
 
     move-result v0
+    const/4 v0, 0x1
 
     iput-boolean v0, p0, Lcom/ideomobile/hapoalim/managers/staticloader/StaticManager;->mIsStaticOffline:Z
 
