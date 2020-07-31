@@ -12,8 +12,8 @@
         },
         {
             "key": "3",
-            "male": "המשך",
-            "female": "המשיכי"
+            "male": "Continue",
+            "female": "Continue"
         },
         {
             "key": "4",
@@ -92,8 +92,8 @@
         },
         {
             "key": "19",
-            "male": "Current",
-            "female": "Current"
+            "male": "Balance",
+            "female": "Balance"
         },
         {
             "key": "20",
@@ -127,8 +127,8 @@
         },
         {
             "key": "26",
-            "male": "Main",
-            "female": "Main"
+            "male": "Main page",
+            "female": "Main page"
         },
         {
             "key": "27",
@@ -352,13 +352,13 @@
         },
         {
             "key": "71",
-            "male": "Deposit",
-            "female": "Deposit"
+            "male": "Add to deposit",
+            "female": "Add to deposit"
         },
         {
             "key": "72",
-            "male": "attraction",
-            "female": "attraction"
+            "male": "Withdraw",
+            "female": "Withdraw"
         },
         {
             "key": "73",
@@ -1522,8 +1522,8 @@
         },
         {
             "key": "1225",
-            "male": "Define *Code of Attraction*",
-            "female": "Define *Code of Attraction*"
+            "male": "Define *Withdraw code*",
+            "female": "Define *Withdraw code*"
         },
         {
             "key": "1226",
@@ -3897,8 +3897,8 @@
         },
         {
             "key": "1953",
-            "male": "Good Morning",
-            "female": "Good Morning"
+            "male": "Good morning",
+            "female": "Good morning"
         },
         {
             "key": "1954",
@@ -3907,8 +3907,8 @@
         },
         {
             "key": "1955",
-            "male": "good evening",
-            "female": "good evening"
+            "male": "Good evening",
+            "female": "Good evening"
         },
         {
             "key": "1956",
@@ -4007,8 +4007,8 @@
         },
         {
             "key": "2002",
-            "male": "Checks with the words *\\to the beneficiary only\\\"* and marked with a cross\"",
-            "female": "Checks with the words *\\to the beneficiary only\\\"* and marked with a cross\""
+            "male": "Checks with the words *\"to the beneficiary only\"* and marked with a cross",
+            "female": "Checks with the words *\"to the beneficiary only\"* and marked with a cross"
         },
         {
             "key": "2003",
@@ -4567,8 +4567,8 @@
         },
         {
             "key": "2148",
-            "male": "Withdrawal from the bank",
-            "female": "Withdrawal from the bank"
+            "male": "Withdraw",
+            "female": "Withdraw"
         },
         {
             "key": "2149",
@@ -4782,8 +4782,8 @@
         },
         {
             "key": "2252",
-            "male": "Daily Deposit Value (PR / Y) \"",
-            "female": "Daily Deposit Value (PR / Y) \""
+            "male": "Daily Deposit Value",
+            "female": "Daily Deposit Value"
         },
         {
             "key": "2253",
@@ -4812,18 +4812,18 @@
         },
         {
             "key": "2258",
-            "male": "Add to \\ \"",
-            "female": "Add to \\ \""
+            "male": "Add to deposit",
+            "female": "Add to deposit"
         },
         {
             "key": "2259",
-            "male": "Withdrawal",
-            "female": "Withdrawal"
+            "male": "Withdraw",
+            "female": "Withdraw"
         },
         {
             "key": "2260",
-            "male": "Withdrawal from the deposit",
-            "female": "Withdrawal from the deposit"
+            "male": "Withdraw from the deposit",
+            "female": "Withdraw from the deposit"
         },
         {
             "key": "2261",
@@ -4847,8 +4847,8 @@
         },
         {
             "key": "2265",
-            "male": "opening date",
-            "female": "opening date"
+            "male": "Date open",
+            "female": "Date open"
         },
         {
             "key": "2266",
@@ -4872,8 +4872,8 @@
         },
         {
             "key": "2270",
-            "male": "deal number",
-            "female": "deal number"
+            "male": "Deal number",
+            "female": "Deal number"
         },
         {
             "key": "2271",
@@ -5122,8 +5122,8 @@
         },
         {
             "key": "2343",
-            "male": "Opening a new deposit",
-            "female": "Opening a new deposit"
+            "male": "Open a new deposit",
+            "female": "Open a new deposit"
         },
         {
             "key": "2344",
@@ -5357,8 +5357,8 @@
         },
         {
             "key": "2450",
-            "male": "Disengagement",
-            "female": "Disengagement"
+            "male": "Log out",
+            "female": "Log out"
         },
         {
             "key": "2451",
@@ -5437,8 +5437,8 @@
         },
         {
             "key": "2466",
-            "male": "Opening a new deposit",
-            "female": "Opening a new deposit"
+            "male": "Open a new deposit",
+            "female": "Open a new deposit"
         },
         {
             "key": "2467",
@@ -5447,8 +5447,8 @@
         },
         {
             "key": "2468",
-            "male": "Opening a new daily interest deposit",
-            "female": "Opening a new daily interest deposit"
+            "male": "Open a new daily interest deposit",
+            "female": "Open a new daily interest deposit"
         },
         {
             "key": "2469",
@@ -5537,8 +5537,8 @@
         },
         {
             "key": "2490",
-            "male": "Make an appointment with a banker",
-            "female": "Make an appointment with a banker"
+            "male": "Make an\nappointment with a banker",
+            "female": "Make an\nappointment with a banker"
         },
         {
             "key": "2491",
@@ -5622,8 +5622,8 @@
         },
         {
             "key": "2507",
-            "male": "Show all operations and services",
-            "female": "Show all operations and services"
+            "male": "Show all\noperations and services",
+            "female": "Show all\noperations and services"
         },
         {
             "key": "2508",
@@ -5657,8 +5657,8 @@
         },
         {
             "key": "2514",
-            "male": "For all operations and services",
-            "female": "For all operations and services"
+            "male": "All operations and services",
+            "female": "All operations and services"
         },
         {
             "key": "2515",
@@ -5772,8 +5772,8 @@
         },
         {
             "key": "2541",
-            "male": "Disengaging with rattle",
-            "female": "Disengaging with rattle"
+            "male": "Log out with rattle",
+            "female": "Log out with rattle"
         },
         {
             "key": "2542",
@@ -5787,8 +5787,8 @@
         },
         {
             "key": "2544",
-            "male": "Account Settings",
-            "female": "Account Settings"
+            "male": "   Account Settings",
+            "female": "   Account Settings"
         },
         {
             "key": "2545",
@@ -5822,8 +5822,8 @@
         },
         {
             "key": "2557",
-            "male": "What can you do about the account?",
-            "female": "What can you do about the account?"
+            "male": " What can you do about the account?",
+            "female": " What can you do about the account?"
         },
         {
             "key": "2559",
@@ -5887,8 +5887,8 @@
         },
         {
             "key": "2577",
-            "male": "IBAN (this number \\ in) \"",
-            "female": "IBAN (this number \\ in) \""
+            "male": "IBAN",
+            "female": "IBAN"
         },
         {
             "key": "2578",
@@ -6067,13 +6067,13 @@
         },
         {
             "key": "2621",
-            "male": "Withdrawal from the bank",
-            "female": "Withdrawal from the bank"
+            "male": "Withdraw money",
+            "female": "Withdraw money"
         },
         {
             "key": "2622",
-            "male": "Cancel lost / stolen card",
-            "female": "Cancel lost / stolen card"
+            "male": "Cancel\nlost / stolen card",
+            "female": "Cancel\nlost / stolen card"
         },
         {
             "key": "2623",
@@ -6257,18 +6257,18 @@
         },
         {
             "key": "2672",
-            "male": "Existing \"",
-            "female": "Existing \""
+            "male": "Daily interest deposits",
+            "female": "Daily interest deposits"
         },
         {
             "key": "2673",
-            "male": "Add to \\ \"",
-            "female": "Add to \\ \""
+            "male": "Add to deposit",
+            "female": "Add to deposit"
         },
         {
             "key": "2674",
-            "male": "Existing \"",
-            "female": "Existing \""
+            "male": "Daily interest deposit",
+            "female": "Daily interest deposit"
         },
         {
             "key": "2675",
@@ -6987,8 +6987,8 @@
         },
         {
             "key": "2831",
-            "male": "Calc",
-            "female": "Calc"
+            "male": "Cal",
+            "female": "Cal"
         },
         {
             "key": "2832",

@@ -75,20 +75,20 @@
     },
 
     "hebrewMonthsNames":
-        [
-            "January",
-            "February",
-            "March",
-            "April",
-            "May",
-            "Juny",
-            "July",
-            "August",
-            "September",
-            "October",
-            "November",
-            "December"
-        ]
+    [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "Juny",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+    ]
     ,
     "hebrewShortMonthsNames":
     [
@@ -220,9 +220,9 @@
         },
         {
             "codeItem": "1",
-            "nameItem": "Current",
-            "wordButton": "To current",
-            "titleName": "Current"
+            "nameItem": "Balance",
+            "wordButton": "To balance",
+            "titleName": "Balance"
         },
         {
             "codeItem": "13",
