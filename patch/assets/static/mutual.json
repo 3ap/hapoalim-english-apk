@@ -138,35 +138,35 @@
         {
             "name": "menu",
             "lottie": "mainnavbar_hamburgermenu_icon",
-            "title": "Menu"
+            "title": "Меню"
         },
         {
             "name": "settings",
             "lottie": "mainnavbar_mysettings_icon",
-            "title": "Settings"
+            "title": "Настройки"
         },
         {
             "name": "contact",
             "lottie": "mainnavbar_poalimcontact_icon",
-            "title": "Contact"
+            "title": "Обр. связь"
         },
         {
             "name": "recommended",
             "lottie": "mainnavbar_recommended_icon",
-            "title": "Recomm."
+            "title": "Реком."
         },
         {
             "name": "myAccount",
             "lottie": "mainnavbar_myaccount_icon",
-            "title": "Account"
+            "title": "Мой счёт"
         }
     ],
     "popupInformation" : [
         {
             "codeItem": "10",
-            "nameItem": "Loans",
-            "wordButton": "To Loans",
-            "titleName": "Loans"
+            "nameItem": "Кредиты",
+            "wordButton": "К кредитам",
+            "titleName": "Кредиты"
         },
         {
             "codeItem": "8",
