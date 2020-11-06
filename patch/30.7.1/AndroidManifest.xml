@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:allowBackup="false" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="com.ideomobile.hapoalim" platformBuildVersionCode="29" platformBuildVersionName="10">
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-feature android:glEsVersion="0x00020000"/>
+    <uses-feature android:name="android.hardware.camera"/>
+    <permission android:name="capitalmarket.fingerprint.contentprovider.READ" android:protectionLevel="signature"/>
+    <permission android:name="capitalmarket.fingerprint.contentprovider.WRITE" android:protectionLevel="signature"/>
+    <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="true"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+    <uses-permission android:name="com.personetics.module.permission.C2D_MESSAGE"/>
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:icon="@mipmap/bankapp_launcher_icon" android:label="@string/app_name" android:name="com.ideomobile.hapoalim.BankApp" android:requestLegacyExternalStorage="true" android:resizeableActivity="false" android:roundIcon="@mipmap/bankapp_launcher_icon_round" android:supportsRtl="true" android:theme="@style/AppTheme" android:usesCleartextTraffic="true">
+        <provider android:authorities="com.ideomobile.hapoalim.features.common.dialogs.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/filepaths"/>
+        </provider>
+        <provider android:authorities="com.ideomobile.hapoalim.BnhpContentProvider" android:exported="true" android:name="com.ideomobile.hapoalim.contentProviders.PermissionContentProvider"/>
+        <provider android:authorities="com.bnhp.commonbankappservices.fingerprint.receivers.FingerprintContentProvider" android:exported="true" android:name="com.ideomobile.hapoalim.contentProviders.fingerPrintContentProvider.FingerPrintProvider" android:readPermission="capitalmarket.fingerprint.contentprovider.READ" android:writePermission="capitalmarket.fingerprint.contentprovider.WRITE"/>
+        <provider android:authorities="com.ideomobile.hapoalim.oneIdentifierProvider" android:exported="true" android:name="com.ideomobile.hapoalim.contentProviders.oneIdentifierContentProvider.OneIdentifierProvider" android:readPermission="capitalmarket.fingerprint.contentprovider.READ" android:writePermission="capitalmarket.fingerprint.contentprovider.WRITE"/>
+        <activity android:name="com.ideomobile.hapoalim.features.auth.splash.SplashActivity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name="com.ideomobile.hapoalim.managers.deeplink.IntentForwardingActivity">
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="static.bankhapoalim.co.il" android:pathPrefix="/account" android:scheme="https"/>
+            </intent-filter>
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="static.bankhapoalim.co.il" android:pathPrefix="/accountfb" android:scheme="https"/>
+            </intent-filter>
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="accountmanagement.poalimlinks.co.il" android:pathPrefix="/deeplink" android:scheme="https"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="accountmanagement.poalimlinks.co.il" android:pathPrefix="/fblink" android:scheme="https"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="account" android:scheme="hapoalimBankait"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="fontScale" android:launchMode="singleTask" android:name="com.ideomobile.hapoalim.features.auth.login.LoginIntroActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.singingForms.FormsSigningActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.singingForms.welcome.WelcomeActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.bottomTabFragments.ActivityContainer" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.upControl.UpControlFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.auth.landing.LandingActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.terminalexchange.TerminalExchangeIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.terminalexchange.TerminalExchangeFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.mailRegistration.MailRegistrationActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.upControl.UpControlIntroActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.checksOrder.ChecksOrderActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.peri.PeriIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.peri.PeriDepositActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.peri.PeriWithdrawalActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.creditCardActivation.CreditCardIntoActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.creditCardActivation.CreditCardActivationActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.upCard.UpCardChargeFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.cancelCreditCard.CancelCreditCardFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.cancelCreditCard.CancelCreditCardIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.currencyExchange.CurrencyExchangeActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.personalDeviceRegistration.PersonalRegistrationIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.personalDeviceRegistration.PersonalRegistrationFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.depositWithdrawal.DepositWithdrawalLobbyActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.depositWithdrawal.DepositWithdrawalFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.newDeposit.NewDepositIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.newDeposit.NewDepositFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.withdrawMoneyNoCard.WithdrawMoneyIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.quickGlance.QuickGlanceIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.quickGlance.QuickGlanceFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.withdrawMoneyNoCard.WithdrawMoneyLobbyActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.transfers.TransfersLobbyActivity2" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.directDebit.DirectDebitFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.directDebit.lobby.DirectDebitLobbyActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.transfers.TransfersFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.transfers.TransfersCloneFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.withdrawMoneyNoCard.WithdrawMoneyNewFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.settings.quickRecognition.QuickRecognitionIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.fingerPrintRegistration.FingerPrintRegistrationIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.fingerPrintRegistration.FingerPrintRegistrationFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.settings.changePassword.ChangePasswordActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.SsoWebViewActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.worlds.transactionsDetails.checks.ChecksViewerActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.sideMenu.SideMenuAllActionsActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.sideMenu.WorldEmptyStateActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.forgotMyPassword.ForgotMyPasswordFlowActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.restoreUserName.RestoreUserNameFlowActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.personalAssistant.PersonalAssistantMessageLobbyActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.personalAssistant.PersoneticsWrapperActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.worlds.transactionsDetails.accountTransaction.AccountTransactionDetailsActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale|keyboardHidden|orientation|screenSize" android:name="com.ideomobile.hapoalim.features.flows.scanChecks.ScanChecksFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.phoneCollection.PhoneCollectionActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.scanChecks.ScanChecksCameraActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.scanChecks.ScanChecksLandScapeActivity" android:screenOrientation="landscape"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.scanChecks.ScanChecksIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.auth.postlogin.PostLoginActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.accessibilityAndLegalTerms.AccessibilityAndLegalTermsActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.updatePermission.UpdatePermissionFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.worlds.creditCardWorld.CardWorldActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.worlds.creditCardWorld.CardWorldTransactionsActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.auth.intro.IntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.contactBeforeLogin.ContactBeforeLoginActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.contactAfterLogin.ContactAfterLoginMyBranchActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.NotificationIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.logOff.LogOffActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.contactAfterLogin.ContactAfterLoginTechnicalSupportActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.generatePhoneNumberCode.GeneratePhoneNumberCodeActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.chargeMyAccount.ChargeMyAccountFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.chargeMyAccount.updatePermission.ChargeMyAccountUpdateFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.chargeMyAccount.DebitAuthorizationLobby" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.updatePersonalInformation.updatePhone.UpdatePersonalInformationPhoneFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.updatePersonalInformation.updateEmail.UpdatePersonalInformationEmailFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.updatePersonalInformation.lobby.UpdateInfoIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.updatePersonalInformation.changeAddress.UpdatePersonalInformationAddressFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.chargeMyAccount.cancelPermission.CancelDebitPermissionFlowActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.OneIdentifierRegistration.OneIdentifierRegistrationIntroActivity" android:screenOrientation="portrait"/>
+        <activity android:configChanges="fontScale" android:name="com.ideomobile.hapoalim.features.flows.OneIdentifierRegistration.OneIdentifierRegistrationFlowActivity" android:screenOrientation="portrait"/>
+        <service android:exported="false" android:name="com.ideomobile.hapoalim.helpers.notification.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="false" android:name="com.poalim.utils.services.ApplicationTimeOutService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <service android:exported="false" android:name="com.clarisite.mobile.GlassboxJob" android:permission="android.permission.BIND_JOB_SERVICE">
+            <meta-data android:name="url" android:value="https://static2.bankhapoalim.co.il"/>
+            <meta-data android:name="appid" android:value="86B6D229-7219-98B9-449F-AA1D946C47CC"/>
+            <meta-data android:name="applicationConfigUrl" android:value="https://static.bankhapoalim.co.il/portalserver/mobile/glassbox"/>
+        </service>
+        <receiver android:exported="true" android:name="com.poalim.utils.SmsReceiver">
+            <intent-filter>
+                <action android:name="com.google.android.gms.auth.api.phone.SMS_RETRIEVED"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.ideomobile.hapoalim.MCE_PROVIDER" android:exported="false" android:name="co.acoustic.mobile.push.sdk.db.Provider"/>
+        <service android:name="co.acoustic.mobile.push.sdk.job.MceJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        <meta-data android:name="com.facebook.sdk.AutoInitEnable" android:value="false"/>
+        <meta-data android:name="com.facebook.sdk.AutoLogAppEventsEnabled" android:value="false"/>
+        <meta-data android:name="firebase_analytics_collection_enabled" android:value="false"/>
+        <meta-data android:name="com.google.firebase.messaging.default_notification_channel_id" android:value="@string/notif_channel_id"/>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.firebase.components.ComponentDiscoveryService">
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.iid.Registrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+            <meta-data android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar" android:value="com.google.firebase.components.ComponentRegistrar"/>
+        </service>
+        <service android:directBootAware="true" android:exported="false" android:name="com.google.firebase.messaging.FirebaseMessagingService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.ideomobile.hapoalim.FacebookInitProvider" android:exported="false" android:name="com.facebook.internal.FacebookInitProvider"/>
+        <receiver android:exported="false" android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize" android:name="com.facebook.FacebookActivity" android:theme="@style/com_facebook_activity_theme"/>
+        <activity android:name="com.facebook.CustomTabMainActivity"/>
+        <activity android:exported="true" android:name="com.facebook.CustomTabActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="cct.com.ideomobile.hapoalim" android:scheme="fbconnect"/>
+            </intent-filter>
+        </activity>
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+        <receiver android:enabled="true" android:exported="true" android:name="co.acoustic.mobile.push.sdk.location.GeofenceBroadcastReceiver"/>
+        <receiver android:enabled="true" android:exported="true" android:name="co.acoustic.mobile.push.sdk.location.LocationBroadcastReceiver"/>
+        <receiver android:name="co.acoustic.mobile.push.sdk.notification.NotifActionReceiver"/>
+        <receiver android:name="co.acoustic.mobile.push.sdk.wi.AlarmReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REPLACED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="co.acoustic.mobile.push.sdk.messaging.fcm.FcmMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <receiver android:name="co.acoustic.mobile.push.sdk.location.LocationUpdateCaller"/>
+        <service android:name="co.acoustic.mobile.push.sdk.events.EventsAlarmListener"/>
+        <service android:name="co.acoustic.mobile.push.sdk.registration.PhoneHomeIntentService"/>
+        <service android:name="co.acoustic.mobile.push.sdk.registration.RegistrationIntentService"/>
+        <service android:name="co.acoustic.mobile.push.sdk.attributes.AttributesQueueConsumer"/>
+        <service android:name="co.acoustic.mobile.push.sdk.location.LocationRetrieveService"/>
+        <service android:name="co.acoustic.mobile.push.sdk.location.LocationEventsIntentService"/>
+        <service android:name="co.acoustic.mobile.push.sdk.location.LocationSyncAlarmListener"/>
+        <service android:name="co.acoustic.mobile.push.sdk.beacons.MceBluetoothScanner"/>
+        <service android:name="co.acoustic.mobile.push.sdk.beacons.BeaconsVerifier"/>
+        <provider android:authorities="com.creditloans.BnhpContentProvider" android:exported="true" android:grantUriPermissions="true" android:name="com.creditloans.base.CreditContentProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/filepaths"/>
+        </provider>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.features.newCustomers.NewCustomersLoadingActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.features.newCustomers.NewCustomersBlockActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.features.newCustomers.NewCustomersIntroActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.features.newCustomers.NewCustomersActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.features.greenCredit.GreenCreditFlowActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.features.greenCredit.CreditLobbyActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.features.greenCredit.MomentCreditFlowActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.features.paymentPostponed.PaymentPostponedFlowActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.base.SsoWebViewActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize"/>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.features.loanRepayment.LoanRepaymentFlowActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
+        <activity android:configChanges="fontScale" android:name="com.creditloans.features.paymentPostponed.PaymentPostponedIntroActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
+        <activity android:configChanges="orientation" android:launchMode="singleInstance" android:name="scanovatecheque.control.activities.SNChequeScanActivity" android:screenOrientation="landscape" android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity android:configChanges="orientation" android:launchMode="singleInstance" android:name="scanovatecheque.control.activities.SNManuallyEntryActivity" android:screenOrientation="landscape" android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <receiver android:exported="true" android:name="com.google.android.gms.gcm.GcmReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="com.example.gcm"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.personetics.module.push.PersoneticsPushListenerService">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.personetics.module.push.PersoneticsInstanceIDListenerService">
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.personetics.module.push.PersoneticsRegistrationIntentService"/>
+        <activity android:excludeFromRecents="true" android:exported="false" android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <service android:exported="true" android:name="com.google.android.gms.auth.api.signin.RevocationBoundService" android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"/>
+        <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <provider android:authorities="com.ideomobile.hapoalim.firebaseinitprovider" android:exported="false" android:initOrder="100" android:name="com.google.firebase.provider.FirebaseInitProvider"/>
+        <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <service android:exported="false" android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery">
+            <meta-data android:name="backend:com.google.android.datatransport.cct.CctBackendFactory" android:value="cct"/>
+        </service>
+        <service android:exported="false" android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:exported="false" android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"/>
+        <provider android:authorities="com.ideomobile.hapoalim.lifecycle-process" android:exported="false" android:multiprocess="true" android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"/>
+        <meta-data android:name="com.android.vending.derived.apk.id" android:value="1"/>
+    </application>
+</manifest>
