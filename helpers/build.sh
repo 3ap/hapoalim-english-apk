@@ -2,21 +2,23 @@
 set -efux
 
 apk=../hapoalim-20201106.apk
-tempdir=../hapoalim-20201106.apk-decompiled
+apkname=$(basename "${apk}")
+target=com.ideomobile.hapoalimru
+targetdir="../${target}-decompiled"
 
-rm -rf "${tempdir}"
-java -Xmx256m -jar apktool_2.4.1.jar d -o "${tempdir}" "${apk}"
+rm -rf "${targetdir}"
+java -Xmx256m -jar apktool_2.4.1.jar d -o "${targetdir}" "${apk}"
 
 cp -r ../patch/30.7.1/assets \
       ../patch/30.7.1/res \
       ../patch/30.7.1/smali_classes2 \
       ../patch/30.7.1/AndroidManifest.xml \
-      "${tempdir}"
+      "${targetdir}"
 
-ag "com\.ideomobile\.hapoalim" -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,com\.ideomobile\.hapoalim,com\.ideomobile\.hapoalimru,g' {}
-ag "Lcom/ideomobile/hapoalim"  -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,Lcom/ideomobile/hapoalim,Lcom/ideomobile/hapoalimru,g' {}
+ag "com/ideomobile/hapoalim"  -l -r "${targetdir}"  | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,com/ideomobile/hapoalim,com/ideomobile/hapoalimru,g' {}
+ag "com\.ideomobile\.hapoalim" -l -r "${targetdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,com\.ideomobile\.hapoalim,com\.ideomobile\.hapoalimru,g' {}
 
-java -Xmx256m -jar apktool_2.4.1.jar b "${tempdir}"
+java -Xmx256m -jar apktool_2.4.1.jar b "${targetdir}"
 
 keystore=hapoalim.keystore
 alias=hapoalim
@@ -34,6 +36,8 @@ java -Xmx256m -jar uber-apk-signer-1.1.0.jar \
               --ksAlias "${alias}" \
               --ksPass "${storepass}" \
               --ksKeyPass "${keypass}" \
-              -a "${tempdir}/dist/hapoalim-20201106.apk" \
+              -a "${targetdir}/dist/${apkname}" \
               --allowResign \
               --overwrite
+
+cp "${targetdir}/dist/${apkname}" "../${target}.apk"
