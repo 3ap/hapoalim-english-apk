@@ -2,13 +2,13 @@
   "dictionary": [
     {
       "key": "43",
-      "male": "You currently have permission to view information only. To perform banking operations and money, you must update the permissions in your account",
-      "female": "You currently have permission to view information only. To perform banking operations and money, you must update the permissions in your account"
+      "male": "В настоящее время у вас есть разрешение на только просмотр информации. Для выполнения банковских операций и денег необходимо обновить разрешения в своей учетной записи",
+      "female": "В настоящее время у вас есть разрешение на только просмотр информации. Для выполнения банковских операций и денег необходимо обновить разрешения в своей учетной записи"
     },
     {
       "key": "44",
-      "male": "In some accounts, such as accounts for young people, some of the actions cannot be performed.",
-      "female": "In some accounts, such as accounts for young people, some of the actions cannot be performed."
+      "male": "В некоторых учетных записях, таких как учетные записи молодых людей, некоторые действия не могут быть выполнены.",
+      "female": "В некоторых учетных записях, таких как учетные записи молодых людей, некоторые действия не могут быть выполнены."
     },
     {
       "key": "66",
@@ -17,173 +17,173 @@
     },
     {
       "key": "199",
-      "male": "Please note that if there will be another error, a number of actions in your account will be blocked for 24 hours.",
-      "female": "Please note that if there will be another error, a number of actions in your account will be blocked for 24 hours."
+      "male": "Обратите внимание, что в случае возникновения другой ошибки ряд действий в вашей учетной записи будет заблокирован на 24 часа.",
+      "female": "Обратите внимание, что в случае возникновения другой ошибки ряд действий в вашей учетной записи будет заблокирован на 24 часа."
     },
     {
       "key": "200",
-      "male": "Due to incorrect answer, some actions have been blocked in your account",
-      "female": "Due to incorrect answer, some actions have been blocked in your account"
+      "male": "Из-за неправильного ответа некоторые действия были заблокированы в вашем аккаунте",
+      "female": "Из-за неправильного ответа некоторые действия были заблокированы в вашем аккаунте"
     },
     {
       "key": "201",
-      "male": "Blocking will be removed 24 hours later or with the new password being generated at Banket, Branch or Workers at *2409",
-      "female": "Blocking will be removed 24 hours later or with the new password being generated at Banket, Branch or Workers at *2409"
+      "male": "Блокировка будет снята через 24 часа или с новым паролем, сгенерированным в Banket, Branch или Workers на * 2409",
+      "female": "Блокировка будет снята через 24 часа или с новым паролем, сгенерированным в Banket, Branch или Workers на * 2409"
     },
     {
       "key": "1000",
-      "male": "Note that the corners of the check are inside the frame",
-      "female": "Note that the corners of the check are inside the frame"
+      "male": "Обратите внимание, что углы чека находятся внутри рамки.",
+      "female": "Обратите внимание, что углы чека находятся внутри рамки."
     },
     {
       "key": "1001",
-      "male": "Hold the phone firmly",
-      "female": "Hold the phone firmly"
+      "male": "Крепко держите телефон",
+      "female": "Крепко держите телефон"
     },
     {
       "key": "1002",
-      "male": "התאורה חשוכה מדי. הצילום צריך להתבצע במקום מואר",
-      "female": "התאורה חשוכה מדי. הצילום צריך להתבצע במקום מואר"
+      "male": "Освещение слишком темное. Фотографию нужно делать в ярком месте",
+      "female": "Освещение слишком темное. Фотографию нужно делать в ярком месте"
     },
     {
       "key": "1003",
-      "male": "Note that the corners of the check are inside the frame",
-      "female": "Note that the corners of the check are inside the frame"
+      "male": "Обратите внимание, что углы чека находятся внутри рамки.",
+      "female": "Обратите внимание, что углы чека находятся внутри рамки."
     },
     {
       "key": "1004",
-      "male": "Bring the check closer to the limits of the frame",
-      "female": "Bring the check closer to the limits of the frame"
+      "male": "Привести чек ближе к пределам кадра",
+      "female": "Привести чек ближе к пределам кадра"
     },
     {
       "key": "1005",
-      "male": "Note that the corners of the check are inside the frame",
-      "female": "Note that the corners of the check are inside the frame"
+      "male": "Обратите внимание, что углы чека находятся внутри рамки.",
+      "female": "Обратите внимание, что углы чека находятся внутри рамки."
     },
     {
       "key": "1006",
-      "male": "Place the check on a dark surface",
-      "female": "Place the check on a dark surface"
+      "male": "Положите чек на темную поверхность.",
+      "female": "Положите чек на темную поверхность."
     },
     {
       "key": "1007",
-      "male": "The check number cannot be read",
-      "female": "The check number cannot be read"
+      "male": "Номер чека не читается",
+      "female": "Номер чека не читается"
     },
     {
       "key": "1008",
-      "male": "אנא נסה לצלם שוב",
-      "female": "אנא נסי לצלם שוב"
+      "male": "Пожалуйста, попробуйте сделать фото еще раз",
+      "female": "Пожалуйста, попробуйте сделать фото еще раз"
     },
     {
       "key": "1009",
-      "male": "The check belongs to a bank that is not supported by the service",
-      "female": "The check belongs to a bank that is not supported by the service"
+      "male": "Чек принадлежит банку, который не обслуживается сервисом.",
+      "female": "Чек принадлежит банку, который не обслуживается сервисом."
     },
     {
       "key": "1010",
-      "male": "צילום חזית הצ׳ק",
-      "female": "צילום חזית הצ׳ק"
+      "male": "Фото лицевой стороны чека",
+      "female": "Фото лицевой стороны чека"
     },
     {
       "key": "1011",
-      "male": "ניסיון נוסף",
-      "female": "ניסיון נוסף"
+      "male": "еще одна попытка",
+      "female": "еще одна попытка"
     },
     {
       "key": "1012",
-      "male": "לצילום גב הצ׳ק",
-      "female": "לצילום גב הצ׳ק"
+      "male": "Чтобы сфотографировать обратную сторону чека",
+      "female": "Чтобы сфотографировать обратную сторону чека"
     },
     {
       "key": "1013",
-      "male": "חזית הצ׳ק צולמה בהצלחה",
-      "female": "חזית הצ׳ק צולמה בהצלחה"
+      "male": "Лицевая сторона чека была успешно сфотографирована",
+      "female": "Лицевая сторона чека была успешно сфотографирована"
     },
     {
       "key": "1014",
-      "male": "לא ניתן להפקיד את הצ׳ק",
-      "female": "לא ניתן להפקיד את הצ׳ק"
+      "male": "Чек нельзя сдать на хранение",
+      "female": "Чек нельзя сдать на хранение"
     },
     {
       "key": "1015",
-      "male": "סגירה",
-      "female": "סגירה"
+      "male": "закрытие",
+      "female": "закрытие"
     },
     {
       "key": "1016",
-      "male": "סיום",
-      "female": "סיום"
+      "male": "финиш",
+      "female": "финиш"
     },
     {
       "key": "1017",
-      "male": "הצ׳ק צולם בהצלחה",
-      "female": "הצ׳ק צולם בהצלחה"
+      "male": "Чек был успешно скопирован",
+      "female": "Чек был успешно скопирован"
     },
     {
       "key": "1018",
-      "male": "צילום גב הצ׳ק",
-      "female": "צילום גב הצ׳ק"
+      "male": "Фото обратной стороны чека",
+      "female": "Фото обратной стороны чека"
     },
     {
       "key": "1118",
-      "male": "You can order up to %@ checkbooks to your address or up to %@ to the branch.",
-      "female": "You can order up to %@ checkbooks to your address or up to %@ to the branch."
+      "male": "Вы можете заказать до %@ чековых книжек на свой адрес или до %@ в филиале.",
+      "female": "Вы можете заказать до %@ чековых книжек на свой адрес или до %@ в филиале."
     },
     {
       "key": "1120",
-      "male": "You can order up to %@ to the branch. At this time, checkbooks cannot be ordered to your address.",
-      "female": "You can order up to %@ to the branch. At this time, checkbooks cannot be ordered to your address."
+      "male": "Вы можете заказать до %@ в филиал. В настоящее время чековые книжки нельзя заказать на ваш адрес.",
+      "female": "Вы можете заказать до %@ в филиал. В настоящее время чековые книжки нельзя заказать на ваш адрес."
     },
     {
       "key": "1133",
-      "male": "# Upon receipt of check books you must call 03-6501282 # During the call you will be asked to type the check number that appears on the first check in the notebook # This is ... the checks are ready to use",
-      "female": "# Upon receipt of check books you must call 03-6501282 # During the call you will be asked to type the check number that appears on the first check in the notebook # This is ... the checks are ready to use"
+      "male": "# После получения чековых книжек вы должны позвонить по номеру 03-6501282 # Во время разговора вам будет предложено ввести номер чека, который появляется при первой проверке в блокноте # Это ... чеки готовы к использованию",
+      "female": "# После получения чековых книжек вы должны позвонить по номеру 03-6501282 # Во время разговора вам будет предложено ввести номер чека, который появляется при первой проверке в блокноте # Это ... чеки готовы к использованию"
     },
     {
       "key": "1201",
-      "male": "בוצעה משיכה  על סך %@ ₪, היתרה תקפה *עד 22:30*",
-      "female": "בוצעה משיכה  על סך %@ ₪, היתרה תקפה *עד 22:30*"
+      "male": "Вывод средств в размере %@ ₪, баланс действителен *до 22:30*",
+      "female": "Вывод средств в размере %@ ₪, баланс действителен *до 22:30*"
     },
     {
       "key": "1202",
-      "male": "Waiting for withdrawal, * Valid until 22:30 *",
-      "female": "Waiting for withdrawal, * Valid until 22:30 *"
+      "male": "В ожидании вывода, * Действителен до 22:30 *",
+      "female": "В ожидании вывода, * Действителен до 22:30 *"
     },
     {
       "key": "1659",
-      "male": "You have one more attempt. You can generate a new password in the app or in the phone at *2409",
-      "female": "You have one more attempt. You can generate a new password in the app or in the phone at *2409"
+      "male": "У вас есть еще одна попытка. Вы можете создать новый пароль в приложении или в телефоне на * 2409",
+      "female": "У вас есть еще одна попытка. Вы можете создать новый пароль в приложении или в телефоне на * 2409"
     },
     {
       "key": "1661",
-      "male": "For more information, contact the Bankers Acting at *2409",
-      "female": "For more information, contact the Bankers Acting at *2409"
+      "male": "Для получения дополнительной информации, свяжитесь с Банкирами, Действующими в * 2409",
+      "female": "Для получения дополнительной информации, свяжитесь с Банкирами, Действующими в * 2409"
     },
     {
       "key": "2003",
-      "male": "צ'קים שתאריך הפירעון שלהם הוא היום ועד חצי שנה אחורה (לא ניתן להפקיד צ׳קים עתידיים)",
-      "female": "צ'קים שתאריך הפירעון שלהם הוא היום ועד חצי שנה אחורה (לא ניתן להפקיד צ׳קים עתידיים)"
+      "male": "Чеки, срок погашения которых наступает сегодня или до шести месяцев назад (в будущем чеки не подлежат вложению)",
+      "female": "Чеки, срок погашения которых наступает сегодня или до шести месяцев назад (в будущем чеки не подлежат вложению)"
     },
     {
       "key": "2004",
-      "male": "The original check should be kept for 2 business days and make sure your account is credited with the check amount",
-      "female": "The original check should be kept for 2 business days and make sure your account is credited with the check amount"
+      "male": "Оригинал чека должен храниться в течение 2 рабочих дней, и убедитесь, что на ваш счет зачислена сумма чека.",
+      "female": "Оригинал чека должен храниться в течение 2 рабочих дней, и убедитесь, что на ваш счет зачислена сумма чека."
     },
     {
       "key": "2029",
-      "male": "The original checks must be retained for 2 business days from the date of deposit and make sure your account is credited accordingly",
-      "female": "The original checks must be retained for 2 business days from the date of deposit and make sure your account is credited accordingly"
+      "male": "Оригиналы чеков должны быть сохранены в течение 2 рабочих дней с даты депозита, и убедитесь, что на ваш счет зачислены соответствующие деньги.",
+      "female": "Оригиналы чеков должны быть сохранены в течение 2 рабочих дней с даты депозита, и убедитесь, что на ваш счет зачислены соответствующие деньги."
     },
     {
       "key": "2031",
-      "male": "The original check must be kept for 2 business days from the date of deposit and make sure your account is credited to the check amount",
-      "female": "The original check must be kept for 2 business days from the date of deposit and make sure your account is credited to the check amount"
+      "male": "Оригинал чека должен храниться в течение 2 рабочих дней с даты внесения депозита, и убедитесь, что на ваш счет зачислена сумма чека.",
+      "female": "Оригинал чека должен храниться в течение 2 рабочих дней с даты внесения депозита, и убедитесь, что на ваш счет зачислена сумма чека."
     },
     {
       "key": "2033",
-      "male": "Checks in the total amount of up to NIS 100,000 \n on a business day and up to NIS 200,000 per month",
-      "female": "Checks in the total amount of up to NIS 100,000 \n on a business day and up to NIS 200,000 per month"
+      "male": "Чеки на общую сумму до 100 000 шекелей \n в рабочий день и до 200 000 шекелей в месяц.",
+      "female": "Чеки на общую сумму до 100 000 шекелей \n в рабочий день и до 200 000 шекелей в месяц."
     },
     {
       "key": "2036",
@@ -192,38 +192,38 @@
     },
     {
       "key": "2216",
-      "male": "So what do we do?\n # Produce a new password at Bank Hapoalim Bank, or at Workers at 2407 * or at the branch.\n # At the next sign-in account, enter a mobile phone number for identification (we'll remind you)",
-      "female": "So what do we do?\n # Produce a new password at Bank Hapoalim Bank, or at Workers at 2407 * or at the branch.\n # At the next sign-in account, enter a mobile phone number for identification (we'll remind you)"
+      "male": "Так что же нам делать?\n # Создайте новый пароль в банке Hapoalim Bank, или у Workers в 2407 * или в филиале.\n # При следующей учетной записи введите номер мобильного телефона для идентификации (мы напомню)",
+      "female": "Так что же нам делать?\n # Создайте новый пароль в банке Hapoalim Bank, или у Workers в 2407 * или в филиале.\n # При следующей учетной записи введите номер мобильного телефона для идентификации (мы напомню)"
     },
     {
       "key": "2219",
-      "male": "The option to generate a new password has been blocked for 24 hours due to entering an incorrect verification code",
-      "female": "The option to generate a new password has been blocked for 24 hours due to entering an incorrect verification code"
+      "male": "Возможность создания нового пароля была заблокирована на 24 часа из-за ввода неверного кода подтверждения",
+      "female": "Возможность создания нового пароля была заблокирована на 24 часа из-за ввода неверного кода подтверждения"
     },
     {
       "key": "2356",
-      "male": "You have one more try. Your access will then be blocked for 24 hours",
-      "female": "You have one more try. Your access will then be blocked for 24 hours"
+      "male": "У вас есть еще одна попытка. Ваш доступ будет заблокирован на 24 часа",
+      "female": "У вас есть еще одна попытка. Ваш доступ будет заблокирован на 24 часа"
     },
     {
       "key": "2364",
-      "male": "Some actions in the app have been blocked for 24 hours due to typing an incorrect date",
-      "female": "Some actions in the app have been blocked for 24 hours due to typing an incorrect date"
+      "male": "Некоторые действия в приложении были заблокированы на 24 часа из-за ввода неверной даты",
+      "female": "Некоторые действия в приложении были заблокированы на 24 часа из-за ввода неверной даты"
     },
     {
       "key": "2368",
-      "male": "Some actions in the app have been blocked for 24 hours due to typing incorrect code",
-      "female": "Some actions in the app have been blocked for 24 hours due to typing incorrect code"
+      "male": "Некоторые действия в приложении были заблокированы на 24 часа из-за ввода неверного кода",
+      "female": "Некоторые действия в приложении были заблокированы на 24 часа из-за ввода неверного кода"
     },
     {
       "key": "3196",
-      "male": "לקוחות קונקט,\nאנו פועלים עבורכם לשדרוג ערוץ הצ׳אט,\nנשוב בקרוב בגרסה משופרת.",
-      "female": "לקוחות קונקט,\nאנו פועלים עבורכם לשדרוג ערוץ הצ׳אט,\nנשוב בקרוב בגרסה משופרת."
+      "male": "Подключите клиентов.\nМы работаем для вас, чтобы обновить канал чата,\nМы скоро вернемся с улучшенной версией.",
+      "female": "Подключите клиентов.\nМы работаем для вас, чтобы обновить канал чата,\nМы скоро вернемся с улучшенной версией."
     },
     {
       "key": "3298",
-      "male": "באפשרותך לשלם את העיקולים על-ידי פנייה אל הגורמים המעקלים או באמצעות ׳פועלים בטלפון׳ (אם יש לך יתרה מספקת בחשבון).\n\nאם העיקולים כבר הוסדרו, הודעה זו אינה בתוקף.",
-      "female": "באפשרותך לשלם את העיקולים על-ידי פנייה אל הגורמים המעקלים או באמצעות ׳פועלים בטלפון׳ (אם יש לך יתרה מספקת בחשבון).\n\nאם העיקולים כבר הוסדרו, הודעה זו אינה בתוקף."
+      "male": "Вы можете оплатить лишение права выкупа, связавшись с ним или по телефону (если у вас есть достаточный баланс на счете).\n\nЕсли потери права выкупа уже урегулированы, это сообщение недействительно.",
+      "female": "Вы можете оплатить лишение права выкупа, связавшись с ним или по телефону (если у вас есть достаточный баланс на счете).\n\nЕсли потери права выкупа уже урегулированы, это сообщение недействительно."
     },
     {
       "key": "3299",
@@ -232,203 +232,203 @@
     },
     {
       "key": "3303",
-      "male": "Please note: Your %@ check returned to your account. Check number %@",
-      "female": "Please note: Your %@ check returned to your account. Check number %@"
+      "male": "Обратите внимание: ваш %@ чек вернулся в вашу учетную запись. Номер чека %@",
+      "female": "Обратите внимание: ваш %@ чек вернулся в вашу учетную запись. Номер чека %@"
     },
     {
       "key": "3304",
-      "male": "You received a %@ account of %@. Last due date: %@",
-      "female": "You received a %@ account of %@. Last due date: %@"
+      "male": "Вы получили %@ аккаунт %@. Дата последнего платежа: %@",
+      "female": "Вы получили %@ аккаунт %@. Дата последнего платежа: %@"
     },
     {
       "key": "3305",
-      "male": "On %@, your account will be charged an estimated amount of %@ under the loan repayment \"%@\"",
-      "female": "On %@, your account will be charged an estimated amount of %@ under the loan repayment \"%@\""
+      "male": "На %@ с вашего счета будет списана приблизительная сумма %@ при погашении кредита \" %@\".",
+      "female": "На %@ с вашего счета будет списана приблизительная сумма %@ при погашении кредита \" %@\"."
     },
     {
       "key": "3306",
-      "male": "Due to insufficient funds, your account was not charged a loan of %@",
-      "female": "Due to insufficient funds, your account was not charged a loan of %@"
+      "male": "Из-за нехватки средств с вашего счета не был списан кредит в размере %@",
+      "female": "Из-за нехватки средств с вашего счета не был списан кредит в размере %@"
     },
     {
       "key": "3307",
-      "male": "Your Personal Code for Workers on the Phone has changed. If you did not instruct to change it, please let us know.",
-      "female": "Your Personal Code for Workers on the Phone has changed. If you did not instruct to change it, please let us know."
+      "male": "Ваш персональный код для работников на телефоне изменился. Если вы не дали указание изменить его, сообщите нам об этом.",
+      "female": "Ваш персональный код для работников на телефоне изменился. Если вы не дали указание изменить его, сообщите нам об этом."
     },
     {
       "key": "3308",
-      "male": "On %@, the authorization for a permanent beneficiary in the account expires. You can renew it at the branch.",
-      "female": "On %@, the authorization for a permanent beneficiary in the account expires. You can renew it at the branch."
+      "male": "На %@ срок действия разрешения для постоянного бенефициара в учетной записи истекает. Вы можете продлить его в филиале.",
+      "female": "На %@ срок действия разрешения для постоянного бенефициара в учетной записи истекает. Вы можете продлить его в филиале."
     },
     {
       "key": "3309",
-      "male": "On %@, the authorization for transfers to the occasional beneficiaries will expire. You can renew it at the branch.",
-      "female": "On %@, the authorization for transfers to the occasional beneficiaries will expire. You can renew it at the branch."
+      "male": "На %@ срок действия разрешений на переводы случайным получателям истекает. Вы можете продлить его в филиале.",
+      "female": "На %@ срок действия разрешений на переводы случайным получателям истекает. Вы можете продлить его в филиале."
     },
     {
       "key": "3310",
-      "male": "On %@, your password will expire on the Bank Hapoalim website and app.",
-      "female": "On %@, your password will expire on the Bank Hapoalim website and app."
+      "male": "На %@ срок действия вашего пароля истечет на веб-сайте и в приложении Bank Hapoalim.",
+      "female": "На %@ срок действия вашего пароля истечет на веб-сайте и в приложении Bank Hapoalim."
     },
     {
       "key": "3311",
-      "male": "On %@, your password to Workers on the Phone expires.",
-      "female": "On %@, your password to Workers on the Phone expires."
+      "male": "На %@ истекает срок действия пароля «Рабочие на телефоне».",
+      "female": "На %@ истекает срок действия пароля «Рабочие на телефоне»."
     },
     {
       "key": "3312",
-      "male": "On %@, the initial password you received for \"Workers on the Phone\" expires.",
-      "female": "On %@, the initial password you received for \"Workers on the Phone\" expires."
+      "male": "На %@ срок действия первоначального пароля, который вы получили для «Рабочих по телефону», истекает.",
+      "female": "На %@ срок действия первоначального пароля, который вы получили для «Рабочих по телефону», истекает."
     },
     {
       "key": "3313",
-      "male": "פנקסי הצ'קים החדשים נשלחו לכתובת המשויכת לחשבון. הצ'קים יגיעו כשהם חסומים לשימוש, בצירוף  דף הנחיות להסרת החסימה",
-      "female": "פנקסי הצ'קים החדשים נשלחו לכתובת המשויכת לחשבון. הצ'קים יגיעו כשהם חסומים לשימוש, בצירוף  דף הנחיות להסרת החסימה"
+      "male": "Новые чековые книжки были отправлены на адрес, связанный с учетной записью. Чеки будут доставлены, когда они заблокированы для использования, вместе с инструкциями по снятию блокировки.",
+      "female": "Новые чековые книжки были отправлены на адрес, связанный с учетной записью. Чеки будут доставлены, когда они заблокированы для использования, вместе с инструкциями по снятию блокировки."
     },
     {
       "key": "3314",
-      "male": "Your multichannel loan application is pending.",
-      "female": "Your multichannel loan application is pending."
+      "male": "Ваша заявка на получение многоканального кредита находится на рассмотрении.",
+      "female": "Ваша заявка на получение многоканального кредита находится на рассмотрении."
     },
     {
       "key": "3315",
-      "male": "Good news!\n Your %@ multi-channel loan application has been approved. You can use it until %@",
-      "female": "Good news!\n Your %@ multi-channel loan application has been approved. You can use it until %@"
+      "male": "Хорошие новости!\n Ваша заявка на получение многоканального кредита %@ была одобрена. Вы можете использовать его до %@",
+      "female": "Хорошие новости!\n Ваша заявка на получение многоканального кредита %@ была одобрена. Вы можете использовать его до %@"
     },
     {
       "key": "3316",
-      "male": "Your request for a multi-channel loan has been approved in principle subject to a safe invention. To complete the process, please contact your branch.",
-      "female": "Your request for a multi-channel loan has been approved in principle subject to a safe invention. To complete the process, please contact your branch."
+      "male": "Ваш запрос на многоканальный кредит был в принципе одобрен при условии безопасного изобретения. Чтобы завершить процесс, пожалуйста, свяжитесь с вашим филиалом.",
+      "female": "Ваш запрос на многоканальный кредит был в принципе одобрен при условии безопасного изобретения. Чтобы завершить процесс, пожалуйста, свяжитесь с вашим филиалом."
     },
     {
       "key": "3317",
-      "male": "Your multichannel loan application has been disapproved",
-      "female": "Your multichannel loan application has been disapproved"
+      "male": "Ваша заявка на получение многоканального кредита была отклонена",
+      "female": "Ваша заявка на получение многоканального кредита была отклонена"
     },
     {
       "key": "3318",
-      "male": "Your multichannel loan application has been submitted for execution",
-      "female": "Your multichannel loan application has been submitted for execution"
+      "male": "Ваша заявка на получение многоканального кредита отправлена ​​на исполнение",
+      "female": "Ваша заявка на получение многоканального кредита отправлена ​​на исполнение"
     },
     {
       "key": "3319",
-      "male": "The card you ordered (\"%@\") is awaiting collection at the %@-%@ branch",
-      "female": "The card you ordered (\"%@\") is awaiting collection at the %@-%@ branch"
+      "male": "Заказанная вами карта (\" %@\") ожидает сбора в ветви %@ - %@",
+      "female": "Заказанная вами карта (\" %@\") ожидает сбора в ветви %@ - %@"
     },
     {
       "key": "3320",
-      "male": "The card you ordered (\"%@\") is awaiting collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled",
-      "female": "The card you ordered (\"%@\") is awaiting collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled"
+      "male": "Заказанная вами карта (\" %@\") ожидает сбора в ветви %@ - %@. Вы можете забрать его в течение следующего месяца. Карта будет аннулирована",
+      "female": "Заказанная вами карта (\" %@\") ожидает сбора в ветви %@ - %@. Вы можете забрать его в течение следующего месяца. Карта будет аннулирована"
     },
     {
       "key": "3321",
-      "male": "The card that was booked for you (\"%@\") is awaiting collection at the %@-%@ branch",
-      "female": "The card that was booked for you (\"%@\") is awaiting collection at the %@-%@ branch"
+      "male": "Карта, которая была забронирована для вас (\" %@\"), ожидает сбора в ветви %@ - %@",
+      "female": "Карта, которая была забронирована для вас (\" %@\"), ожидает сбора в ветви %@ - %@"
     },
     {
       "key": "3322",
-      "male": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled",
-      "female": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled"
+      "male": "Зарезервированная для вас карта (\" %@\") ожидает сбора в ветви %@ - %@. Вы можете забрать его в течение следующего месяца. Карта будет аннулирована",
+      "female": "Зарезервированная для вас карта (\" %@\") ожидает сбора в ветви %@ - %@. Вы можете забрать его в течение следующего месяца. Карта будет аннулирована"
     },
     {
       "key": "3323",
-      "male": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. In order for you to collect it, %@ %@ must access the branch and sign the card receipt",
-      "female": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. In order for you to collect it, %@ %@ must access the branch and sign the card receipt"
+      "male": "Зарезервированная для вас карта (\" %@\") ожидает сбора в ветви %@ - %@. Чтобы вы могли его получить, %@ %@ должен войти в филиал и подписать квитанцию ​​карты.",
+      "female": "Зарезервированная для вас карта (\" %@\") ожидает сбора в ветви %@ - %@. Чтобы вы могли его получить, %@ %@ должен войти в филиал и подписать квитанцию ​​карты."
     },
     {
       "key": "3324",
-      "male": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled. To collect the card on %@ %@ access the branch and sign the receipt of receipt",
-      "female": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled. To collect the card on %@ %@ access the branch and sign the receipt of receipt"
+      "male": "Зарезервированная для вас карта (\" %@\") ожидает сбора в ветви %@ - %@. Вы можете забрать его в течение следующего месяца. Карта будет аннулирована. Для получения карты на %@ %@ зайдите в ветку и подпишите квитанцию ​​о получении",
+      "female": "Зарезервированная для вас карта (\" %@\") ожидает сбора в ветви %@ - %@. Вы можете забрать его в течение следующего месяца. Карта будет аннулирована. Для получения карты на %@ %@ зайдите в ветку и подпишите квитанцию ​​о получении"
     },
     {
       "key": "3325",
-      "male": "Invited to %@ account %@ card. To allow %@ %@ to collect it, you must access the branch and sign the card receipt",
-      "female": "Invited to %@ account %@ card. To allow %@ %@ to collect it, you must access the branch and sign the card receipt"
+      "male": "Приглашен на %@ account %@ card. Чтобы %@ %@ получил его, необходимо войти в филиал и подписать квитанцию ​​карты.",
+      "female": "Приглашен на %@ account %@ card. Чтобы %@ %@ получил его, необходимо войти в филиал и подписать квитанцию ​​карты."
     },
     {
       "key": "3326",
-      "male": "The card you ordered (\"%@\") arrived at the branch. To allow %@ %@ to collect it, you must access the branch and sign the card receipt",
-      "female": "The card you ordered (\"%@\") arrived at the branch. To allow %@ %@ to collect it, you must access the branch and sign the card receipt"
+      "male": "Заказанная вами карта (\" %@\") поступила в филиал. Чтобы %@ %@ получил его, необходимо войти в филиал и подписать квитанцию ​​карты.",
+      "female": "Заказанная вами карта (\" %@\") поступила в филиал. Чтобы %@ %@ получил его, необходимо войти в филиал и подписать квитанцию ​​карты."
     },
     {
       "key": "3327",
-      "male": "%@'s \"One-sided Additional\" frame has been approved in your account. The framework will be valid until %@ day",
-      "female": "%@'s \"One-sided Additional\" frame has been approved in your account. The framework will be valid until %@ day"
+      "male": "Рамка %@ \"Односторонняя дополнительная\" была одобрена в вашем аккаунте. Каркас будет действовать до %@ дня",
+      "female": "Рамка %@ \"Односторонняя дополнительная\" была одобрена в вашем аккаунте. Каркас будет действовать до %@ дня"
     },
     {
       "key": "3328",
-      "male": "The current account frame expires on %@. You can renew it at the branch",
-      "female": "The current account frame expires on %@. You can renew it at the branch"
+      "male": "Срок действия текущего аккаунта истекает %@. Вы можете продлить его в филиале",
+      "female": "Срок действия текущего аккаунта истекает %@. Вы можете продлить его в филиале"
     },
     {
       "key": "3329",
-      "male": "On %@, the height of the current account rate will be updated according to the average salaries deposited there. The new frame will be %@",
-      "female": "On %@, the height of the current account rate will be updated according to the average salaries deposited there. The new frame will be %@"
+      "male": "На %@ высота ставки текущего счета будет обновляться в соответствии со средней заработной платой, размещенной там. Новый кадр будет %@",
+      "female": "На %@ высота ставки текущего счета будет обновляться в соответствии со средней заработной платой, размещенной там. Новый кадр будет %@"
     },
     {
       "key": "3330",
-      "male": "In the last few months, no salary has gone into the account. Therefore, on %@, the current framework will be updated to stand on %@",
-      "female": "In the last few months, no salary has gone into the account. Therefore, on %@, the current framework will be updated to stand on %@"
+      "male": "В последние несколько месяцев зарплата не учитывается. Поэтому на %@ текущая структура будет обновлена, чтобы стоять на %@",
+      "female": "В последние несколько месяцев зарплата не учитывается. Поэтому на %@ текущая структура будет обновлена, чтобы стоять на %@"
     },
     {
       "key": "3332",
-      "male": "You have received a reply to your request to authorize %@ to debit your account",
-      "female": "You have received a reply to your request to authorize %@ to debit your account"
+      "male": "Вы получили ответ на свой запрос на разрешение %@ на списание средств со своего счета.",
+      "female": "Вы получили ответ на свой запрос на разрешение %@ на списание средств со своего счета."
     },
     {
       "key": "3333",
-      "male": "Updates",
-      "female": "Updates"
+      "male": "Обновления",
+      "female": "Обновления"
     },
     {
       "key": "3334",
-      "male": "Read the whole post",
-      "female": "Read the whole post"
+      "male": "Читать весь пост",
+      "female": "Читать весь пост"
     },
     {
       "key": "3335",
-      "male": "The checkbook you ordered is awaiting collection at the %@ branch",
-      "female": "The checkbook you ordered is awaiting collection at the %@ branch"
+      "male": "Заказанная вами чековая книжка ожидает сбора в филиале %@",
+      "female": "Заказанная вами чековая книжка ожидает сбора в филиале %@"
     },
     {
       "key": "3336",
-      "male": "To view the fetus and return",
-      "female": "To view the fetus and return"
+      "male": "Для просмотра плода и возвращения",
+      "female": "Для просмотра плода и возвращения"
     },
     {
       "key": "3337",
-      "male": "To make a payment on site",
-      "female": "To make a payment on site"
+      "male": "Сделать платеж на сайте",
+      "female": "Сделать платеж на сайте"
     },
     {
       "key": "3338",
-      "male": "To view your loans",
-      "female": "To view your loans"
+      "male": "Для просмотра ваших кредитов",
+      "female": "Для просмотра ваших кредитов"
     },
     {
       "key": "3339",
-      "male": "To change password",
-      "female": "To change password"
+      "male": "Сменить пароль",
+      "female": "Сменить пароль"
     },
     {
       "key": "3341",
-      "male": "View the status of the request",
-      "female": "View the status of the request"
+      "male": "Просмотр статуса запроса",
+      "female": "Просмотр статуса запроса"
     },
     {
       "key": "3342",
-      "male": "To realize the loan",
-      "female": "To realize the loan"
+      "male": "Реализовать заем",
+      "female": "Реализовать заем"
     },
     {
       "key": "3343",
-      "male": "View the application status on the site",
-      "female": "View the application status on the site"
+      "male": "Посмотреть статус приложения на сайте",
+      "female": "Посмотреть статус приложения на сайте"
     },
     {
       "key": "3345",
-      "male": "Awaiting payment in the payment system",
-      "female": "Awaiting payment in the payment system"
+      "male": "Ожидание оплаты в платежной системе",
+      "female": "Ожидание оплаты в платежной системе"
     },
     {
       "key": "3346",
@@ -442,13 +442,13 @@
     },
     {
       "key": "3348",
-      "male": "%@ Foreclosures found in this account:\n",
-      "female": "%@ Foreclosures found in this account:\n"
+      "male": "%@ Потери права выкупа в этом аккаунте:\n",
+      "female": "%@ Потери права выкупа в этом аккаунте:\n"
     },
     {
       "key": "3349",
-      "male": "Forecast received on %@ from %@ at %@\n",
-      "female": "Forecast received on %@ from %@ at %@\n"
+      "male": "Прогноз получен %@ от %@ в %@\n",
+      "female": "Прогноз получен %@ от %@ в %@\n"
     }
   ]
 }

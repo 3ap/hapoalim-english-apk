@@ -13,9 +13,8 @@ cp -r ../patch/30.7.1/assets \
       ../patch/30.7.1/AndroidManifest.xml \
       "${tempdir}"
 
-ag "com\.ideomobile\.hapoalim" -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,com\.ideomobile\.hapoalim,com\.ideomobile\.hapoalimalt,g' {}
-ag "Lcom/ideomobile/hapoalim"  -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,Lcom/ideomobile/hapoalim,Lcom/ideomobile/hapoalimalt,g' {}
-#mv "${tempdir}/smali_classes2/com/ideomobile/hapoalim" "${tempdir}/smali_classes2/com/ideomobile/hapoalimalt"
+ag "com\.ideomobile\.hapoalim" -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,com\.ideomobile\.hapoalim,com\.ideomobile\.hapoalimru,g' {}
+ag "Lcom/ideomobile/hapoalim"  -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,Lcom/ideomobile/hapoalim,Lcom/ideomobile/hapoalimru,g' {}
 
 java -Xmx256m -jar apktool_2.4.1.jar b "${tempdir}"
 

@@ -76,97 +76,97 @@
 
     "hebrewMonthsNames":
     [
-        "January",
-        "February",
-        "March",
-        "April",
-        "May",
-        "Juny",
-        "July",
-        "August",
-        "September",
-        "October",
-        "November",
-        "December"
+        "Январь",
+        "Февраль",
+        "Март",
+        "Апрель",
+        "Май",
+        "Июнь",
+        "Июль",
+        "Август",
+        "Сентябрь",
+        "Октябрь",
+        "Ноябрь",
+        "Декабрь"
     ]
-    ,
+,
     "hebrewShortMonthsNames":
     [
-        "Jan",
-        "Feb",
-        "Mar",
-        "Apr",
-        "May",
-        "Jun",
-        "Jul",
-        "Aug",
-        "Sep",
-        "Oct",
-        "Nov",
-        "Dec"
+        "Янв",
+        "Фев",
+        "Мар",
+        "Апр",
+        "Май",
+        "Июн",
+        "Июл",
+        "Авг",
+        "Сен",
+        "Окт",
+        "Ноя",
+        "Дек"
     ]
 ,
     "monthsNames": {
-        "1": "January",
-        "2": "February",
-        "3": "March",
-        "4": "April",
-        "5": "May",
-        "6": "Juny",
-        "7": "July",
-        "8": "August",
-        "9": "September",
-        "10": "October",
-        "11": "November",
-        "12": "December"
+        "1": "Январь",
+        "2": "Февраль",
+        "3": "Март",
+        "4": "Апрель",
+        "5": "Май",
+        "6": "Июнь",
+        "7": "Июль",
+        "8": "Август",
+        "9": "Сентябрь",
+        "10": "Октябрь",
+        "11": "Ноябрь",
+        "12": "Декабрь"
     },
     "shortMonthsNames": {
-        "1": "Jan",
-        "2": "Feb",
-        "3": "Mar",
-        "4": "Apr",
-        "5": "May",
-        "6": "Jun",
-        "7": "Jul",
-        "8": "Aug",
-        "9": "Sep",
-        "10": "Oct",
-        "11": "Nov",
-        "12": "Dec"
+        "1": "Янв",
+        "2": "Фев",
+        "3": "Мар",
+        "4": "Апр",
+        "5": "Май",
+        "6": "Июн",
+        "7": "Июл",
+        "8": "Авг",
+        "9": "Сен",
+        "10": "Окт",
+        "11": "Ноя",
+        "12": "Дек"
     },
     "bottomLottieMenuBar" : [
         {
             "name": "menu",
             "lottie": "mainnavbar_hamburgermenu_icon",
-            "title": "Menu"
+            "title": "Меню"
         },
         {
             "name": "settings",
             "lottie": "mainnavbar_mysettings_icon",
-            "title": "Settings"
+            "title": "Настройки"
         },
         {
             "name": "contact",
             "lottie": "mainnavbar_poalimcontact_icon",
-            "title": "Contact"
+            "title": "Обр. связь"
         },
         {
             "name": "recommended",
             "lottie": "mainnavbar_recommended_icon",
-            "title": "Recomm."
+            "title": "Реком."
         },
         {
             "name": "myAccount",
             "lottie": "mainnavbar_myaccount_icon",
-            "title": "Account"
+            "title": "Мой счёт"
         }
     ],
     "popupInformation" : [
         {
             "codeItem": "10",
-            "nameItem": "Loans",
-            "wordButton": "To Loans",
-            "titleName": "Loans"
+            "nameItem": "Кредиты",
+            "wordButton": "К кредитам",
+            "titleName": "Кредиты"
         },
         {
             "codeItem": "8",
@@ -243,7 +243,8 @@
         "touchIDLegal": "htmls/touchIDLegal.htm",
         "security": "htmls/security.htm",
         "accessibility": "htmls/AccessibilityStatement.html",
-        "legalTerms": "htmls/legal.html"
+        "legalTerms": "htmls/legal.html",
+        "legal_login_password": "htmls/legal_login_password.htm"
     },
     "depositChecks": {
         "maximumDepositChecks": 20
@@ -263,9 +264,9 @@
         "bankingCallCenter": "*2407"
     },
     "techSupportCallCenterSchedule": {
-        "workDays": "Sun - Thu",
+        "workDays": "Вс - Чт",
         "workDaysHours": "17:00 - 09:00",
-        "halfDays": "Fridays and holiday evenings",
+        "halfDays": "Пятница и праздники",
         "halfDaysHours": "12:30 - 08:30",
         "regularStartDay": 1,
         "regularFinishDay": 5,
@@ -277,9 +278,9 @@
         "weekendFinishTime": "13:00"
     },
     "callBackCenterScheduleClient": {
-        "workDays": "Sun - Thu",
+        "workDays": "Вс - Чт",
         "workDaysHours": "19:00 - 08:00",
-        "halfDays": "Fridays and holiday evenings",
+        "halfDays": "Пятница и праздники",
         "halfDaysHours": "13:00 - 08:00"
     },
     "openAccount" : {
@@ -311,7 +312,8 @@
                     }
 
                 ],
-                "Couple": [
+                "Couple" :
+                [
 
                     {
                         "title": "Read the account opening request and general account management terms",
@@ -338,7 +340,7 @@
 
                     }
                 ],
-                "Single": [
+                "Single" :  [
 
                     {
                         "title": "Read the account opening request and general account management terms",
@@ -370,6 +372,7 @@
             },
             "switchText": "I hereby agree to receive offers, information on benefits, promotions, products and/or new services, professional reviews and anything from the Bank which is advertising, by means of means, as defined in the Communications Law (Bezeq and Services) (Amendment 40), 2008 (hereinafter ״Information״)",
             "acceptText": "I confirm that I have been given the opportunity to review the above documents, they are correct and I undertake to comply with them"
+
         },
         "orderPlasticCardsLink":"https://login.bankhapoalim.co.il/ng-portals-bt/rb/he/plastic-cards/order",
         "youtubeLink":"https://youtu.be/glhShHu2k50",

@@ -7,22 +7,18 @@ curl -L "https://docs.google.com/spreadsheets/d/1sYOnptgxa07OjTEfMGcHCy8G9dLBG7K
 
 patchdir=../patch/30.7.1
 
-./mutual_dictionary.py "english" > "${patchdir}/assets/static/mutual_dictionary_new.json"
+./mutual_dictionary.py "russian" > "${patchdir}/assets/static/mutual_dictionary_new.json"
 
-mkdir -p "${patchdir}/res/values-en"
-mkdir -p "${patchdir}/res/values-ru"
+mkdir -p "${patchdir}/res/values"
 
-./arrays.py "english" > "${patchdir}/res/values-en/arrays.xml"
-./arrays.py "russian" > "${patchdir}/res/values-ru/arrays.xml"
+./arrays.py "russian" > "${patchdir}/res/values/arrays.xml"
+./strings.py "russian" > "${patchdir}/res/values/strings.xml"
 
-./strings.py "english" > "${patchdir}/res/values-en/strings.xml"
-./strings.py "russian" > "${patchdir}/res/values-ru/strings.xml"
+sed -i -e 's/<?xml version="1.0" ?><resources>/<?xml version="1.0" encoding="utf-8"?>\n<resources>/g' "${patchdir}/res/values/strings.xml"
+sed -i -e 's/<?xml version="1.0" ?><resources>/<?xml version="1.0" encoding="utf-8"?>\n<resources>/g' "${patchdir}/res/values/arrays.xml"
 
-sed -i -e 's/<?xml version="1.0" ?><resources>/<?xml version="1.0" encoding="utf-8"?>\n<resources>/g' "${patchdir}/res/values-en/strings.xml"
-sed -i -e 's/<?xml version="1.0" ?><resources>/<?xml version="1.0" encoding="utf-8"?>\n<resources>/g' "${patchdir}/res/values-ru/strings.xml"
-
-unix2dos "${patchdir}/res/values-en/strings.xml"
-unix2dos "${patchdir}/res/values-ru/strings.xml"
+unix2dos "${patchdir}/res/values/strings.xml"
+unix2dos "${patchdir}/res/values/arrays.xml"
 
 ./mutual_dictionary.py csv > new-mutual_dictionary_new.csv
 ./arrays.py csv > new-arrays.xml.csv
