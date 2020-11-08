@@ -15,8 +15,6 @@
     <uses-permission android:name="android.permission.CAMERA"/>
     <uses-feature android:glEsVersion="0x00020000"/>
     <uses-feature android:name="android.hardware.camera"/>
-    <permission android:name="capitalmarket.fingerprint.contentprovider.READ" android:protectionLevel="signature"/>
-    <permission android:name="capitalmarket.fingerprint.contentprovider.WRITE" android:protectionLevel="signature"/>
     <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="true"/>
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
     <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
@@ -28,8 +26,7 @@
             <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/filepaths"/>
         </provider>
         <provider android:authorities="com.ideomobile.hapoalim.BnhpContentProvider" android:exported="true" android:name="com.ideomobile.hapoalim.contentProviders.PermissionContentProvider"/>
-        <provider android:authorities="com.bnhp.commonbankappservices.fingerprint.receivers.FingerprintContentProvider" android:exported="true" android:name="com.ideomobile.hapoalim.contentProviders.fingerPrintContentProvider.FingerPrintProvider" android:readPermission="capitalmarket.fingerprint.contentprovider.READ" android:writePermission="capitalmarket.fingerprint.contentprovider.WRITE"/>
-        <provider android:authorities="com.ideomobile.hapoalim.oneIdentifierProvider" android:exported="true" android:name="com.ideomobile.hapoalim.contentProviders.oneIdentifierContentProvider.OneIdentifierProvider" android:readPermission="capitalmarket.fingerprint.contentprovider.READ" android:writePermission="capitalmarket.fingerprint.contentprovider.WRITE"/>
+        <provider android:authorities="com.ideomobile.hapoalim.oneIdentifierProvider" android:exported="true" android:name="com.ideomobile.hapoalim.contentProviders.oneIdentifierContentProvider.OneIdentifierProvider"/>
         <activity android:name="com.ideomobile.hapoalim.features.auth.splash.SplashActivity" android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -236,9 +233,6 @@
         <service android:name="co.acoustic.mobile.push.sdk.location.LocationSyncAlarmListener"/>
         <service android:name="co.acoustic.mobile.push.sdk.beacons.MceBluetoothScanner"/>
         <service android:name="co.acoustic.mobile.push.sdk.beacons.BeaconsVerifier"/>
-        <provider android:authorities="com.creditloans.BnhpContentProvider" android:exported="true" android:grantUriPermissions="true" android:name="com.creditloans.base.CreditContentProvider">
-            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/filepaths"/>
-        </provider>
         <activity android:configChanges="fontScale" android:name="com.creditloans.features.newCustomers.NewCustomersLoadingActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
         <activity android:configChanges="fontScale" android:name="com.creditloans.features.newCustomers.NewCustomersBlockActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
         <activity android:configChanges="fontScale" android:name="com.creditloans.features.newCustomers.NewCustomersIntroActivity" android:screenOrientation="portrait" android:theme="@style/NoAnimation"/>
