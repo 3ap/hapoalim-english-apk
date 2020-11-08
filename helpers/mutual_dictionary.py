@@ -12,7 +12,7 @@ def generate_json(mutual_dictionary, translates, language):
             obj["male"] = translates[key][language]
             obj["female"] = translates[key][language]
 
-    dump = json.dumps(mutual_dictionary, ensure_ascii = False, indent = 4)
+    dump = json.dumps(mutual_dictionary, ensure_ascii = False, indent = 2)
     dump = dump.replace("\\\\n", "\\n")
     print(dump)
 
@@ -29,14 +29,14 @@ def print_spreadsheet(mutual_dictionary, translates):
 
 if __name__ == "__main__":
     mutual_dictionary = {}
-    with open('mutual_dictionary.json') as f:
+    with open('mutual_dictionary_new.json') as f:
         mutual_dictionary = json.load(f)
 
     translates = {}
     for obj in mutual_dictionary["dictionary"]:
         translates[obj["key"]] = { "hebrew": obj["male"].replace('\n', '\\n').strip() }
 
-    with open('mutual_dictionary.json.csv') as f:
+    with open('mutual_dictionary_new.json.csv') as f:
         csv_reader = csv.reader(f, delimiter=',')
 
         for row in csv_reader:
