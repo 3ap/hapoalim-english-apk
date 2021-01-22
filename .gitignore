@@ -9,6 +9,6 @@ helpers/arrays.xml.csv
 helpers/apktool_2.4.1.jar
 helpers/uber-apk-signer-1.1.0.jar
 helpers/new-*.csv
-hapoalim.keystore
+debug.keystore
 *-decompiled*
 *.apk
