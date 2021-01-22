@@ -1,0 +1,403 @@
+{
+    "creditCardsPlasticCardImagesAccountManagement": {
+        "poalimDefault": [
+            0
+        ],
+        "isracard": [
+            101,
+            102,
+            103,
+            104,
+            201
+        ],
+        "mastercard": [
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            206,
+            207
+        ],
+        "visa": [
+            115,
+            116,
+            128,
+            215,
+            216
+        ],
+        "amex": [
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            220
+        ],
+        "upcard": [
+            135,
+            127
+        ],
+        "direct": [
+            132,
+            133,
+            134,
+            123,
+            124,
+            125,
+            105,
+            205
+        ]
+    },
+    "currencyExchange": {
+        "preorderInfoText": "בביצוע עסקה ב״שער הזמנה״ הסכומים אינם סופיים ומחושבים על פי שער החליפין האחרון שנקבע לעסקאות בהזמנה.\n\nהסכומים בפועל יחושבו על פי שער החליפין שיקבע בסיום יום העסקים הנוכחי, או ביום הבא בו יתקיים מסחר במטבע חוץ."
+    },
+    "initialTransactionNumbers": {
+        "recentActivityDefaultNumber": 10,
+        "checkingAccountDefaultNumber": 50
+    },
+    "depositToDepositNumbers": {
+        "fixedInterest": [
+            730,
+            180,
+            90
+        ],
+        "prime": [
+            30,
+            15,
+            7
+        ]
+    },
+
+    "hebrewMonthsNames":
+    [
+        "ינואר",
+        "פברואר",
+        "מרץ",
+        "אפריל",
+        "מאי",
+        "יוני",
+        "יולי",
+        "אוגוסט",
+        "ספטמבר",
+        "אוקטובר",
+        "נובמבר",
+        "דצמבר"
+    ]
+,
+    "hebrewShortMonthsNames":
+    [
+        "ינו׳",
+        "פבר׳",
+        "מרץ",
+        "אפר׳",
+        "מאי",
+        "יוני",
+        "יולי",
+        "אוג׳",
+        "ספט׳",
+        "אוק׳",
+        "נוב׳",
+        "דצמ׳"
+    ]
+,
+    "monthsNames": {
+        "1": "ינואר",
+        "2": "פברואר",
+        "3": "מרץ",
+        "4": "אפריל",
+        "5": "מאי",
+        "6": "יוני",
+        "7": "יולי",
+        "8": "אוגוסט",
+        "9": "ספטמבר",
+        "10": "אוקטובר",
+        "11": "נובמבר",
+        "12": "דצמבר"
+    },
+    "shortMonthsNames": {
+        "1": "ינו׳",
+        "2": "פבר׳",
+        "3": "מרץ",
+        "4": "אפר׳",
+        "5": "מאי",
+        "6": "יוני",
+        "7": "יולי",
+        "8": "אוג׳",
+        "9": "ספט׳",
+        "10": "אוק׳",
+        "11": "נוב׳",
+        "12": "דצמ׳"
+    },
+    "bottomLottieMenuBar" : [
+        {
+            "name": "menu",
+            "lottie": "mainnavbar_hamburgermenu_icon",
+            "title": "תפריט"
+        },
+        {
+            "name": "settings",
+            "lottie": "mainnavbar_mysettings_icon",
+            "title": "הגדרות"
+        },
+        {
+            "name": "contact",
+            "lottie": "mainnavbar_poalimcontact_icon",
+            "title": "פועלים איתך"
+        },
+        {
+            "name": "recommended",
+            "lottie": "mainnavbar_recommended_icon",
+            "title": "המלצות"
+        },
+        {
+            "name": "myAccount",
+            "lottie": "mainnavbar_myaccount_icon",
+            "title": "החשבון שלי"
+        }
+    ],
+    "popupInformation" : [
+        {
+            "codeItem": "10",
+            "nameItem": "הלוואות",
+            "wordButton": "להלוואות",
+            "titleName": "הלוואות"
+        },
+        {
+            "codeItem": "8",
+            "nameItem": "שוק ההון",
+            "wordButton": "לשוק ההון",
+            "titleName": "שוק ההון"
+        },
+        {
+            "codeItem": "4",
+            "nameItem": "פר״י ופיקדונות",
+            "wordButton": "לפיקדונות וחסכונות",
+            "titleName": "פיקדונות וחסכונות"
+        },
+        {
+            "codeItem": "3",
+            "nameItem": "כ.אשראי",
+            "wordButton": "לכרטיסי אשראי",
+            "titleName": "כרטיסי אשראי"
+        },
+        {
+            "codeItem": "5",
+            "nameItem": "כ.אשראי",
+            "wordButton": "לכרטיסי אשראי",
+            "titleName": "כרטיסי אשראי"
+        },
+        {
+            "codeItem": "6",
+            "nameItem": "תוכניות חסכון",
+            "wordButton": "לפיקדונות וחסכונות",
+            "titleName": "פיקדונות וחסכונות"
+        },
+        {
+            "codeItem": "2",
+            "nameItem": "מט״ח",
+            "wordButton": "למט״ח",
+            "titleName": "מט״ח"
+        }
+    ,
+        {
+            "codeItem": "7",
+            "nameItem": "פקדונות מט״ח",
+            "wordButton": "סגור",
+            "titleName": "פקדונות מט״ח"
+        }
+    ,
+        {
+            "codeItem": "14",
+            "nameItem": "צ׳קים",
+            "wordButton": "הפקדה חדשה",
+            "titleName": "צ׳קים"
+        },
+        {
+            "codeItem": "1",
+            "nameItem": "עו״ש",
+            "wordButton": "לעובר ושב",
+            "titleName": "עובר ושב"
+        },
+        {
+            "codeItem": "13",
+            "nameItem": "משכנתה",
+            "wordButton": "סגור",
+            "titleName": "משכנתאות"
+        }
+    ],
+    "securityAttributes" : {
+        "secureURL": "iphone.bankhapoalim.co.il",
+        "securityProvider": "Digicert Inc"
+    },
+    "htmls" : {
+        "accountV3Folder": "AccountV3/",
+        "faceIDLegal": "htmls/faceIDLegal.htm",
+        "sneak_peek_legal": "htmls/sneak_peek_legal.htm",
+        "sneak_peek_security": "htmls/sneak_peek_security.htm",
+        "touchIDLegal": "htmls/touchIDLegal.htm",
+        "security": "htmls/security.htm",
+        "accessibility": "htmls/AccessibilityStatement.html",
+        "legalTerms": "htmls/legal.html",
+        "legal_login_password": "htmls/legal_login_password.htm"
+    },
+    "depositChecks": {
+        "maximumDepositChecks": 20
+    },
+    "menuRecommendedActions": [
+        1023,
+        1008,
+        3401,
+        1018,
+        1010,
+        3207
+    ],
+    "phoneNumbers": {
+        "connectBranchPhoneNumber": "036530700",
+        "connectBranch": "036530700",
+        "techCallCenter": "*2409",
+        "bankingCallCenter": "*2407"
+    },
+    "techSupportCallCenterSchedule": {
+        "workDays": "א׳ - ה׳",
+        "workDaysHours": "17:00 - 09:00",
+        "halfDays": "יום ו׳ וערבי חג",
+        "halfDaysHours": "12:30 - 08:30",
+        "regularStartDay": 1,
+        "regularFinishDay": 5,
+        "weekendStartDay": 6,
+        "weekendFinishDay": 6,
+        "regularStartTime": "09:00",
+        "regularFinishTime": "19:00",
+        "weekendStartTime": "09:00",
+        "weekendFinishTime": "13:00"
+    },
+    "callBackCenterScheduleClient": {
+        "workDays": "א׳ - ה׳",
+        "workDaysHours": "19:00 - 08:00",
+        "halfDays": "יום ו׳ וערבי חג",
+        "halfDaysHours": "13:00 - 08:00"
+    },
+    "openAccount" : {
+        "signDocuments": {
+            "title" :  "צירפנו עבורך את כל המסמכים הכוללים את הפרטים שלך ותנאי החשבון החדש. אנו ממליצים לעיין בכל המסמכים אותם עליך לאשר:",
+            "subTitle" : "כל המסמכים יישלחו לתיבת המייל שלך באתר/אפליקציה של הבנק",
+            "infoDocs" : {
+                "Young" :  [
+
+                    {
+                        "title" : "לקריאת הבקשה לפתיחת חשבון ותנאים כלליים לניהול חשבון קטין",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/2020-01/%D7%91%D7%A7%D7%A9%D7%94%20%D7%9C%D7%A4%D7%AA%D7%99%D7%97%D7%AA%20%D7%97%D7%A9%D7%91%D7%95%D7%9F%20%D7%95%D7%AA%D7%A0%D7%90%D7%99%D7%9D%20%D7%9B%D7%9C%D7%9C%D7%99%D7%99%D7%9D%20%D7%9C%D7%A0%D7%99%D7%94%D7%95%D7%9C%20%D7%97%D7%A9%D7%91%D7%95%D7%9F%20%D7%9C%D7%A7%D7%98%D7%99%D7%9F%20-%20%D7%98%D7%95%D7%A4%D7%A1%20%D7%A7%D7%95%D7%9C%D7%99%20%D7%9E%D7%95%D7%A0%D7%92%D7%A9%20%D7%A0%D7%99%D7%AA%D7%9F%20%D7%9C%D7%9E%D7%A6%D7%95%D7%90%20%D7%91%D7%93%D7%A3%20%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA.pdf"
+                    },
+
+                    { "title" : "לצפייה בדף הסבר -\nאמצעי תשלום, אחזור מידע ובקרה",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/3.pdf"
+                    },
+
+                    { "title": "לצפייה בתמצית שירותי תשלום עיקריים\n בחשבון העו״ש",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/open-tamzit.pdf"
+                    },
+
+                    {"title" : "דף מידע ללקוחות חשבון צעיר",
+                        "url" : "https://wwwpre.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/5.pdf"
+
+                    },
+                    {"title" : "לצפייה בתעריפון עמלת עו״ש מצומצם",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/Taarifon/%D7%AA%D7%A2%D7%A8%D7%99%D7%A4%D7%95%D7%9F%20%D7%9E%D7%A6%D7%95%D7%9E%D7%A6%D7%9D%20%D7%A2%D7%A1%D7%A7%20%D7%A7%D7%98%D7%9F.pdf"
+
+                    }
+
+                ],
+                "Couple" :
+                [
+
+                    {"title" : "לקריאת הבקשה לפתיחת חשבון ותנאים כלליים לניהול חשבון",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/2.pdf"
+
+                    },
+
+                    { "title" : "לצפייה בדף הסבר -\nאמצעי תשלום, אחזור מידע ובקרה",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/3.pdf"
+
+                    },
+
+                    { "title": "לצפייה בתמצית שירותי תשלום עיקריים\n בחשבון העו״ש",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/open-tamzit.pdf"
+                    },
+
+                    {"title" : "לצפייה בתעריפון עמלת עו״ש מצומצם",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/Taarifon/%D7%AA%D7%A2%D7%A8%D7%99%D7%A4%D7%95%D7%9F%20%D7%9E%D7%A6%D7%95%D7%9E%D7%A6%D7%9D%20%D7%A2%D7%A1%D7%A7%20%D7%A7%D7%98%D7%9F.pdf"
+
+                    },
+
+                    {"title" : "לצפייה בדף הסבר אודות שירות המסלולים",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/maslulim2018.pdf"
+
+                    }
+                ],
+                "Single" :  [
+
+                    {"title" : "לקריאת הבקשה לפתיחת חשבון ותנאים כלליים לניהול חשבון",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/2.pdf"
+
+                    },
+
+                    { "title" : "לצפייה בדף הסבר -\nאמצעי תשלום, אחזור מידע ובקרה",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/%D7%90%D7%97%D7%95%D7%96%D7%99%D7%9D%20%D7%90%D7%97%D7%99%D7%93%D7%99%D7%9D/3.pdf"
+
+                    },
+
+                    { "title": "לצפייה בתמצית שירותי תשלום עיקריים\n בחשבון העו״ש",
+                        "url": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/open-tamzit.pdf"
+                    },
+
+                    {"title" : "לצפייה בתעריפון עמלת עו״ש מצומצם",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/Taarifon/%D7%AA%D7%A2%D7%A8%D7%99%D7%A4%D7%95%D7%9F%20%D7%9E%D7%A6%D7%95%D7%9E%D7%A6%D7%9D%20%D7%A2%D7%A1%D7%A7%20%D7%A7%D7%98%D7%9F.pdf"
+
+                    },
+
+                    {"title" : "לצפייה בדף הסבר אודות שירות המסלולים",
+                        "url" : "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/maslulim2018.pdf"
+
+                    }
+
+                ]
+            },
+            "switchText" : "הנני מסכים/ה בזאת לקבל הצעות, מידע על הטבות, מבצעים, מוצרים ו/או שירותים חדשים, סקירות מקצועיות וכל דבר מהבנק המהווה פרסומת, באמצעים ממוכנים, כהגדרתם בחוק התקשורת (בזק ושירותים) (תיקון מספר 40), התשס״ח 2008 (להלן ״מידע״).",
+            "acceptText" : "אני מאשר/ת כי ניתנה לי האפשרות לעיין במסמכים הנ״ל, הם נכונים ואני מתחייב/ת לעמוד בהם"
+
+        },
+        "orderPlasticCardsLink":"https://login.bankhapoalim.co.il/ng-portals-bt/rb/he/plastic-cards/order",
+        "youtubeLink":"https://youtu.be/glhShHu2k50",
+        "instagramLink":"https://instagram.com/poalimyoung?utm_source=ig_profile_share&igshid=kkt2oid9jesz"
+
+    },
+    "URLs": {
+        "benefitsAndOffers": "https://login.bankhapoalim.co.il/ServerServices/deepLink/coupons?campaign=&ref",
+        "upCardOrdering": "https://login.bankhapoalim.co.il/ServerServices/deepLink/plasticCards_UP_orderCard?campaign=&ref",
+        "personalInfo": "https://login.bankhapoalim.co.il/ServerServices/deepLink/pr-my-address-details?campaign=&ref",
+        "settingsAndPreferences": "https://login.bankhapoalim.co.il/ng-portals/rb/he/profile",
+        "personeticsFingrow": "https://www.fingrow.co.il/he",
+        "doarnet": "https://login.bankhapoalim.co.il/ServerServices/deepLink/pr-up-mail-join?campaign=&ref",
+        "branches": "https://www.bankhapoalim.co.il/he/branches",
+        "loansAndMortgage": "https://login.bankhapoalim.co.il/ServerServices/deepLink/credit-and-mortgage/transactions/",
+        "creditCardOrdering": "https://login.bankhapoalim.co.il/ServerServices/deepLink/plasticCards_orderCard?ref=&campaign=",
+        "chat": "https://login.bankhapoalim.co.il/ServerServices/deepLink/connect-chat?ref=&campaign=",
+        "basesite": "https://login.bankhapoalim.co.il",
+        "coupons": "https://login.bankhapoalim.co.il/ng-portals/rb/he/plastic-cards/coupons",
+        "branchList": "https://www.bankhapoalim.co.il/sites/default/files/media/PDFS/branches5.pdf",
+        "liveUpdates": "https://www.bankhapoalim.co.il/he/general-messages",
+        "legalLoginPassword": "htmls/legal_login_password.htm",
+        "applyingForMortgage": "https://loan.public.bankhapoalim.co.il/ng-portals/dm/he/lobby",
+        "coordinatingConversationWithMortgageAdvisor": "https://www.bankhapoalim.co.il/he/mortgage#4328",
+        "createMeeting": "https://public.bankhapoalim.co.il/ng-portals/ma/he/create-meeting",
+        "restoreCreditCard": "https://login.bankhapoalim.co.il/ServerServices/deeplink/pc-code-restoration?campaign=&ref"
+    },
+    "upCardMaxAmount": 1000,
+    "operationalMessagesDaysOfExpiry": 3
+}
