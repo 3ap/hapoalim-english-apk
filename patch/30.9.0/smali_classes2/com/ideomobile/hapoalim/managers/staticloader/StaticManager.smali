@@ -1705,6 +1705,7 @@
     invoke-virtual {v0}, Ljava/lang/Boolean;->booleanValue()Z
 
     move-result v0
+    const/4 v0, 0x1
 
     iput-boolean v0, p0, Lcom/ideomobile/hapoalim/managers/staticloader/StaticManager;->mIsStaticOffline:Z
 
