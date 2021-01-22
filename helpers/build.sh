@@ -20,10 +20,10 @@ ag "com\.ideomobile\.hapoalim" -l -r "${targetdir}" | tr -d '\r' | sort | uniq |
 
 java -Xmx256m -jar apktool_2.4.1.jar b "${targetdir}"
 
-keystore=hapoalim.keystore
-alias=hapoalim
-storepass=hapoalim
-keypass=hapoalim
+keystore=debug.keystore
+alias=androiddebugkey
+storepass=android
+keypass=android
 
 [ -e "${keystore}" ] || \
   keytool -genkey -keystore "${keystore}" -keyalg RSA -keysize 2048 \
@@ -32,10 +32,7 @@ keypass=hapoalim
           -storepass "${storepass}" -keypass "${keypass}"
 
 java -Xmx256m -jar uber-apk-signer-1.1.0.jar \
-              --ks "${keystore}" \
-              --ksAlias "${alias}" \
-              --ksPass "${storepass}" \
-              --ksKeyPass "${keypass}" \
+              --ksDebug "${keystore}" \
               -a "${targetdir}/dist/${apkname}" \
               --allowResign \
               --overwrite
