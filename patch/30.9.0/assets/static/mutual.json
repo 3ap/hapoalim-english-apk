@@ -55,7 +55,7 @@
         ]
     },
     "currencyExchange": {
-        "preorderInfoText": "בביצוע עסקה ב״שער הזמנה״ הסכומים אינם סופיים ומחושבים על פי שער החליפין האחרון שנקבע לעסקאות בהזמנה.\n\nהסכומים בפועל יחושבו על פי שער החליפין שיקבע בסיום יום העסקים הנוכחי, או ביום הבא בו יתקיים מסחר במטבע חוץ."
+        "preorderInfoText": "In making a transaction on the Order Rate the amounts are not finalized and calculated according to the last exchange rate set for the order transactions.\n\nThe actual amounts will be calculated at the exchange rate to be determined at the end of the current business day, or the day on which foreign exchange trading takes place."
     },
     "initialTransactionNumbers": {
         "recentActivityDefaultNumber": 10,
@@ -76,159 +76,159 @@
 
     "hebrewMonthsNames":
     [
-        "ינואר",
-        "פברואר",
-        "מרץ",
-        "אפריל",
-        "מאי",
-        "יוני",
-        "יולי",
-        "אוגוסט",
-        "ספטמבר",
-        "אוקטובר",
-        "נובמבר",
-        "דצמבר"
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "Juny",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
     ]
 ,
     "hebrewShortMonthsNames":
     [
-        "ינו׳",
-        "פבר׳",
-        "מרץ",
-        "אפר׳",
-        "מאי",
-        "יוני",
-        "יולי",
-        "אוג׳",
-        "ספט׳",
-        "אוק׳",
-        "נוב׳",
-        "דצמ׳"
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
     ]
 ,
     "monthsNames": {
-        "1": "ינואר",
-        "2": "פברואר",
-        "3": "מרץ",
-        "4": "אפריל",
-        "5": "מאי",
-        "6": "יוני",
-        "7": "יולי",
-        "8": "אוגוסט",
-        "9": "ספטמבר",
-        "10": "אוקטובר",
-        "11": "נובמבר",
-        "12": "דצמבר"
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "Juny",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
     },
     "shortMonthsNames": {
-        "1": "ינו׳",
-        "2": "פבר׳",
-        "3": "מרץ",
-        "4": "אפר׳",
-        "5": "מאי",
-        "6": "יוני",
-        "7": "יולי",
-        "8": "אוג׳",
-        "9": "ספט׳",
-        "10": "אוק׳",
-        "11": "נוב׳",
-        "12": "דצמ׳"
+        "1": "Jan",
+        "2": "Feb",
+        "3": "Mar",
+        "4": "Apr",
+        "5": "May",
+        "6": "Jun",
+        "7": "Jul",
+        "8": "Aug",
+        "9": "Sep",
+        "10": "Oct",
+        "11": "Nov",
+        "12": "Dec"
     },
     "bottomLottieMenuBar" : [
         {
             "name": "menu",
             "lottie": "mainnavbar_hamburgermenu_icon",
-            "title": "תפריט"
+            "title": "Menu"
         },
         {
             "name": "settings",
             "lottie": "mainnavbar_mysettings_icon",
-            "title": "הגדרות"
+            "title": "Settings"
         },
         {
             "name": "contact",
             "lottie": "mainnavbar_poalimcontact_icon",
-            "title": "פועלים איתך"
+            "title": "Contact"
         },
         {
             "name": "recommended",
             "lottie": "mainnavbar_recommended_icon",
-            "title": "המלצות"
+            "title": "Recomm."
         },
         {
             "name": "myAccount",
             "lottie": "mainnavbar_myaccount_icon",
-            "title": "החשבון שלי"
+            "title": "Account"
         }
     ],
     "popupInformation" : [
         {
             "codeItem": "10",
-            "nameItem": "הלוואות",
-            "wordButton": "להלוואות",
-            "titleName": "הלוואות"
+            "nameItem": "Loans",
+            "wordButton": "To Loans",
+            "titleName": "Loans"
         },
         {
             "codeItem": "8",
-            "nameItem": "שוק ההון",
-            "wordButton": "לשוק ההון",
-            "titleName": "שוק ההון"
+            "nameItem": "Capital Market",
+            "wordButton": "To Capital Market",
+            "titleName": "Capital Market"
         },
         {
             "codeItem": "4",
-            "nameItem": "פר״י ופיקדונות",
-            "wordButton": "לפיקדונות וחסכונות",
-            "titleName": "פיקדונות וחסכונות"
+            "nameItem": "Daily interest deposit and deposits",
+            "wordButton": "To Deposits",
+            "titleName": "Daily interest deposit and deposits"
         },
         {
             "codeItem": "3",
-            "nameItem": "כ.אשראי",
-            "wordButton": "לכרטיסי אשראי",
-            "titleName": "כרטיסי אשראי"
+            "nameItem": "Credit cards",
+            "wordButton": "To Credit Cards",
+            "titleName": "Credit cards"
         },
         {
             "codeItem": "5",
-            "nameItem": "כ.אשראי",
-            "wordButton": "לכרטיסי אשראי",
-            "titleName": "כרטיסי אשראי"
+            "nameItem": "Credit cards",
+            "wordButton": "To Credit Cards",
+            "titleName": "Credit cards"
         },
         {
             "codeItem": "6",
-            "nameItem": "תוכניות חסכון",
-            "wordButton": "לפיקדונות וחסכונות",
-            "titleName": "פיקדונות וחסכונות"
+            "nameItem": "Savings plans",
+            "wordButton": "To Deposits and savings",
+            "titleName": "Deposits and savings"
         },
         {
             "codeItem": "2",
-            "nameItem": "מט״ח",
-            "wordButton": "למט״ח",
-            "titleName": "מט״ח"
+            "nameItem": "Foreign Exchange",
+            "wordButton": "To Foreign Exchange",
+            "titleName": "Foreign Exchange"
         }
     ,
         {
             "codeItem": "7",
-            "nameItem": "פקדונות מט״ח",
-            "wordButton": "סגור",
-            "titleName": "פקדונות מט״ח"
+            "nameItem": "Deposits in foreign currency",
+            "wordButton": "Close",
+            "titleName": "Deposits in foreign currency"
         }
     ,
         {
             "codeItem": "14",
-            "nameItem": "צ׳קים",
-            "wordButton": "הפקדה חדשה",
-            "titleName": "צ׳קים"
+            "nameItem": "Checks",
+            "wordButton": "New deposit",
+            "titleName": "Checks"
         },
         {
             "codeItem": "1",
-            "nameItem": "עו״ש",
-            "wordButton": "לעובר ושב",
-            "titleName": "עובר ושב"
+            "nameItem": "Balance",
+            "wordButton": "To balance",
+            "titleName": "Balance"
         },
         {
             "codeItem": "13",
-            "nameItem": "משכנתה",
-            "wordButton": "סגור",
-            "titleName": "משכנתאות"
+            "nameItem": "Mortgage",
+            "wordButton": "Close",
+            "titleName": "Mortgages"
         }
     ],
     "securityAttributes" : {
@@ -264,9 +264,9 @@
         "bankingCallCenter": "*2407"
     },
     "techSupportCallCenterSchedule": {
-        "workDays": "א׳ - ה׳",
+        "workDays": "Sun - Thu",
         "workDaysHours": "17:00 - 09:00",
-        "halfDays": "יום ו׳ וערבי חג",
+        "halfDays": "Fridays and holiday evenings",
         "halfDaysHours": "12:30 - 08:30",
         "regularStartDay": 1,
         "regularFinishDay": 5,
@@ -278,20 +278,20 @@
         "weekendFinishTime": "13:00"
     },
     "callBackCenterScheduleClient": {
-        "workDays": "א׳ - ה׳",
+        "workDays": "Sun - Thu",
         "workDaysHours": "19:00 - 08:00",
-        "halfDays": "יום ו׳ וערבי חג",
+        "halfDays": "Fridays and holiday evenings",
         "halfDaysHours": "13:00 - 08:00"
     },
     "openAccount" : {
         "signDocuments": {
-            "title" :  "צירפנו עבורך את כל המסמכים הכוללים את הפרטים שלך ותנאי החשבון החדש. אנו ממליצים לעיין בכל המסמכים אותם עליך לאשר:",
-            "subTitle" : "כל המסמכים יישלחו לתיבת המייל שלך באתר/אפליקציה של הבנק",
+            "title": "We have attached to you all documents containing your details and new account terms. We recommend that you review all the documents you need to approve:",
+            "subTitle": "All documents will be sent to your mailbox on the bank's website / app",
             "infoDocs" : {
                 "Young" :  [
 
                     {
-                        "title" : "לקריאת הבקשה לפתיחת חשבון ותנאים כלליים לניהול חשבון קטין",
+                        "title": "Read the request to open an account and general terms for managing a minor account",
                         "url" : "https://www.bankhapoalim.co.il/sites/default/files/2020-01/%D7%91%D7%A7%D7%A9%D7%94%20%D7%9C%D7%A4%D7%AA%D7%99%D7%97%D7%AA%20%D7%97%D7%A9%D7%91%D7%95%D7%9F%20%D7%95%D7%AA%D7%A0%D7%90%D7%99%D7%9D%20%D7%9B%D7%9C%D7%9C%D7%99%D7%99%D7%9D%20%D7%9C%D7%A0%D7%99%D7%94%D7%95%D7%9C%20%D7%97%D7%A9%D7%91%D7%95%D7%9F%20%D7%9C%D7%A7%D7%98%D7%99%D7%9F%20-%20%D7%98%D7%95%D7%A4%D7%A1%20%D7%A7%D7%95%D7%9C%D7%99%20%D7%9E%D7%95%D7%A0%D7%92%D7%A9%20%D7%A0%D7%99%D7%AA%D7%9F%20%D7%9C%D7%9E%D7%A6%D7%95%D7%90%20%D7%91%D7%93%D7%A3%20%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA.pdf"
                     },
 
@@ -368,9 +368,8 @@
 
                 ]
             },
-            "switchText" : "הנני מסכים/ה בזאת לקבל הצעות, מידע על הטבות, מבצעים, מוצרים ו/או שירותים חדשים, סקירות מקצועיות וכל דבר מהבנק המהווה פרסומת, באמצעים ממוכנים, כהגדרתם בחוק התקשורת (בזק ושירותים) (תיקון מספר 40), התשס״ח 2008 (להלן ״מידע״).",
-            "acceptText" : "אני מאשר/ת כי ניתנה לי האפשרות לעיין במסמכים הנ״ל, הם נכונים ואני מתחייב/ת לעמוד בהם"
-
+            "switchText": "I hereby agree to receive offers, information on benefits, promotions, products and/or new services, professional reviews and anything from the Bank which is advertising, by means of means, as defined in the Communications Law (Bezeq and Services) (Amendment 40), 2008 (hereinafter ״Information״)",
+            "acceptText": "I confirm that I have been given the opportunity to review the above documents, they are correct and I undertake to comply with them"
         },
         "orderPlasticCardsLink":"https://login.bankhapoalim.co.il/ng-portals-bt/rb/he/plastic-cards/order",
         "youtubeLink":"https://youtu.be/glhShHu2k50",
