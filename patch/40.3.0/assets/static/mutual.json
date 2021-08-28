@@ -55,7 +55,7 @@
         ]
     },
     "currencyExchange": {
-        "preorderInfoText": "בביצוע עסקה ב״שער הזמנה״ הסכומים אינם סופיים ומחושבים על פי שער החליפין האחרון שנקבע לעסקאות בהזמנה.\n\nהסכומים בפועל יחושבו על פי שער החליפין שיקבע בסיום יום העסקים הנוכחי, או ביום הבא בו יתקיים מסחר במטבע חוץ."
+        "preorderInfoText": "In making a transaction on the Order Rate the amounts are not finalized and calculated according to the last exchange rate set for the order transactions.\n\nThe actual amounts will be calculated at the exchange rate to be determined at the end of the current business day, or the day on which foreign exchange trading takes place."
     },
     "initialTransactionNumbers": {
         "recentActivityDefaultNumber": 10,
@@ -76,159 +76,159 @@
 
     "hebrewMonthsNames":
     [
-        "ינואר",
-        "פברואר",
-        "מרץ",
-        "אפריל",
-        "מאי",
-        "יוני",
-        "יולי",
-        "אוגוסט",
-        "ספטמבר",
-        "אוקטובר",
-        "נובמבר",
-        "דצמבר"
+        "Январь",
+        "Февраль",
+        "Март",
+        "Апрель",
+        "Май",
+        "Июнь",
+        "Июль",
+        "Август",
+        "Сентябрь",
+        "Октябрь",
+        "Ноябрь",
+        "Декабрь"
     ]
 ,
     "hebrewShortMonthsNames":
     [
-        "ינו׳",
-        "פבר׳",
-        "מרץ",
-        "אפר׳",
-        "מאי",
-        "יוני",
-        "יולי",
-        "אוג׳",
-        "ספט׳",
-        "אוק׳",
-        "נוב׳",
-        "דצמ׳"
+        "Янв",
+        "Фев",
+        "Мар",
+        "Апр",
+        "Май",
+        "Июн",
+        "Июл",
+        "Авг",
+        "Сен",
+        "Окт",
+        "Ноя",
+        "Дек"
     ]
 ,
     "monthsNames": {
-        "1": "ינואר",
-        "2": "פברואר",
-        "3": "מרץ",
-        "4": "אפריל",
-        "5": "מאי",
-        "6": "יוני",
-        "7": "יולי",
-        "8": "אוגוסט",
-        "9": "ספטמבר",
-        "10": "אוקטובר",
-        "11": "נובמבר",
-        "12": "דצמבר"
+        "1": "Январь",
+        "2": "Февраль",
+        "3": "Март",
+        "4": "Апрель",
+        "5": "Май",
+        "6": "Июнь",
+        "7": "Июль",
+        "8": "Август",
+        "9": "Сентябрь",
+        "10": "Октябрь",
+        "11": "Ноябрь",
+        "12": "Декабрь"
     },
     "shortMonthsNames": {
-        "1": "ינו׳",
-        "2": "פבר׳",
-        "3": "מרץ",
-        "4": "אפר׳",
-        "5": "מאי",
-        "6": "יוני",
-        "7": "יולי",
-        "8": "אוג׳",
-        "9": "ספט׳",
-        "10": "אוק׳",
-        "11": "נוב׳",
-        "12": "דצמ׳"
+        "1": "Янв",
+        "2": "Фев",
+        "3": "Мар",
+        "4": "Апр",
+        "5": "Май",
+        "6": "Июн",
+        "7": "Июл",
+        "8": "Авг",
+        "9": "Сен",
+        "10": "Окт",
+        "11": "Ноя",
+        "12": "Дек"
     },
     "bottomLottieMenuBar" : [
         {
             "name": "menu",
             "lottie": "mainnavbar_hamburgermenu_icon",
-            "title": "תפריט"
+            "title": "Меню"
         },
         {
             "name": "settings",
             "lottie": "mainnavbar_mysettings_icon",
-            "title": "הגדרות"
+            "title": "Настройки"
         },
         {
             "name": "contact",
             "lottie": "mainnavbar_poalimcontact_icon",
-            "title": "פועלים איתך"
+            "title": "Обр. связь"
         },
         {
             "name": "recommended",
             "lottie": "mainnavbar_recommended_icon",
-            "title": "המלצות"
+            "title": "Реком."
         },
         {
             "name": "myAccount",
             "lottie": "mainnavbar_myaccount_icon",
-            "title": "החשבון שלי"
+            "title": "Мой счёт"
         }
     ],
     "popupInformation" : [
         {
             "codeItem": "10",
-            "nameItem": "הלוואות",
-            "wordButton": "להלוואות",
-            "titleName": "הלוואות"
+            "nameItem": "Кредиты",
+            "wordButton": "К кредитам",
+            "titleName": "Кредиты"
         },
         {
             "codeItem": "8",
-            "nameItem": "שוק ההון",
-            "wordButton": "לשוק ההון",
-            "titleName": "שוק ההון"
+            "nameItem": "Capital Market",
+            "wordButton": "To Capital Market",
+            "titleName": "Capital Market"
         },
         {
             "codeItem": "4",
-            "nameItem": "פר״י ופיקדונות",
-            "wordButton": "לפיקדונות וחסכונות",
-            "titleName": "פיקדונות וחסכונות"
+            "nameItem": "Депозиты",
+            "wordButton": "К депозитам",
+            "titleName": "Депозиты"
         },
         {
             "codeItem": "3",
-            "nameItem": "כ.אשראי",
-            "wordButton": "לכרטיסי אשראי",
-            "titleName": "כרטיסי אשראי"
+            "nameItem": "Кред. карты",
+            "wordButton": "К кредитным картам",
+            "titleName": "Кредитные карты"
         },
         {
             "codeItem": "5",
-            "nameItem": "כ.אשראי",
-            "wordButton": "לכרטיסי אשראי",
-            "titleName": "כרטיסי אשראי"
+            "nameItem": "Кред. карты",
+            "wordButton": "К кредитным картам",
+            "titleName": "Кредитные карты"
         },
         {
             "codeItem": "6",
-            "nameItem": "תוכניות חסכון",
-            "wordButton": "לפיקדונות וחסכונות",
-            "titleName": "פיקדונות וחסכונות"
+            "nameItem": "Сбережения",
+            "wordButton": "К сберегательным планам",
+            "titleName": "Сберегательные планы"
         },
         {
             "codeItem": "2",
-            "nameItem": "מט״ח",
-            "wordButton": "למט״ח",
-            "titleName": "מט״ח"
+            "nameItem": "Обмен валют",
+            "wordButton": "К обмену валют",
+            "titleName": "Обмен валют"
         }
     ,
         {
             "codeItem": "7",
-            "nameItem": "פקדונות מט״ח",
-            "wordButton": "סגור",
-            "titleName": "פקדונות מט״ח"
+            "nameItem": "Депозиты в валюте",
+            "wordButton": "Закрыть",
+            "titleName": "Депозиты в валюте"
         }
     ,
         {
             "codeItem": "14",
-            "nameItem": "צ׳קים",
-            "wordButton": "הפקדה חדשה",
-            "titleName": "צ׳קים"
+            "nameItem": "Чеки",
+            "wordButton": "К чекам",
+            "titleName": "Чеки"
         },
         {
             "codeItem": "1",
-            "nameItem": "עו״ש",
-            "wordButton": "לעובר ושב",
-            "titleName": "עובר ושב"
+            "nameItem": "Баланс",
+            "wordButton": "К балансу",
+            "titleName": "Баланс"
         },
         {
             "codeItem": "13",
-            "nameItem": "משכנתה",
-            "wordButton": "סגור",
-            "titleName": "משכנתאות"
+            "nameItem": "Ипотека",
+            "wordButton": "Закрыть",
+            "titleName": "Ипотека"
         }
     ],
     "securityAttributes" : {
@@ -266,9 +266,9 @@
         "bankingCallCenter": "*2407"
     },
     "techSupportCallCenterSchedule": {
-        "workDays": "א׳ - ה׳",
+        "workDays": "Вс - Чт",
         "workDaysHours": "17:00 - 09:00",
-        "halfDays": "יום ו׳ וערבי חג",
+        "halfDays": "Пятница и праздники",
         "halfDaysHours": "12:30 - 08:30",
         "regularStartDay": 1,
         "regularFinishDay": 5,
@@ -280,9 +280,9 @@
         "weekendFinishTime": "13:00"
     },
     "callBackCenterScheduleClient": {
-        "workDays": "א׳ - ה׳",
+        "workDays": "Вс - Чт",
         "workDaysHours": "19:00 - 08:00",
-        "halfDays": "יום ו׳ וערבי חג",
+        "halfDays": "Пятница и праздники",
         "halfDaysHours": "13:00 - 08:00"
     },
     "openAccount" : {
