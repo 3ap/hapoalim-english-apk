@@ -3929,6 +3929,7 @@
     invoke-static {v0}, Lcom/poalim/bl/managers/staticloader/StaticManager;->sourceManager$lambda-0(Lcom/poalim/bl/extensions/PreferencesExtension;)Z
 
     move-result v0
+    const/4 v0, 0x1
 
     iput-boolean v0, p0, Lcom/poalim/bl/managers/staticloader/StaticManager;->mIsStaticOffline:Z
 
