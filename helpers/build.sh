@@ -1,7 +1,7 @@
 #!/bin/sh
 set -efux
 
-version=30.9.0
+version=40.3.0
 apk="../hapoalim-${version}.apk"
 tempdir="../hapoalim-${version}.apk-decompiled"
 
