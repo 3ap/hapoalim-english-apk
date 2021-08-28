@@ -2,8 +2,8 @@
     "dictionary": [
         {
             "key": "43",
-            "male": "כרגע יש לך הרשאה לצפייה במידע בלבד. לביצוע פעולות בנקאיות והעברות כספים לגורם אחר עליך לעדכן את ההרשאות בחשבון שלך",
-            "female": "כרגע יש לך הרשאה לצפייה במידע בלבד. לביצוע פעולות בנקאיות והעברות כספים לגורם אחר עלייך לעדכן את ההרשאות בחשבון שלך"
+            "male": "You currently have permission to view information only. To perform banking operations and money, you must update the permissions in your account",
+            "female": "You currently have permission to view information only. To perform banking operations and money, you must update the permissions in your account"
         },
         {
             "key": "44",
@@ -17,153 +17,153 @@
         },
         {
             "key": "199",
-            "male": "לתשומת לבך, אם תהיה שגיאה נוספת ייחסמו מספר פעולות בחשבונך למשך 24 שעות.",
-            "female": "לתשומת לבך, אם תהיה שגיאה נוספת ייחסמו מספר פעולות בחשבונך למשך 24 שעות."
+            "male": "Please note that if there will be another error, a number of actions in your account will be blocked for 24 hours.",
+            "female": "Please note that if there will be another error, a number of actions in your account will be blocked for 24 hours."
         },
         {
             "key": "200",
-            "male": "עקב מענה שגוי, נחסמו מספר פעולות בחשבונך",
-            "female": "עקב מענה שגוי, נחסמו מספר פעולות בחשבונך"
+            "male": "Due to incorrect answer, some actions have been blocked in your account",
+            "female": "Due to incorrect answer, some actions have been blocked in your account"
         },
         {
             "key": "201",
-            "male": "החסימה תוסר כעבור 24 שעות או עם הפקת סיסמה חדשה בבנקט, בסניף או בפועלים בטלפון במספר 2409*",
-            "female": "החסימה תוסר כעבור 24 שעות או עם הפקת סיסמה חדשה בבנקט, בסניף או בפועלים בטלפון במספר 2409*"
+            "male": "Blocking will be removed 24 hours later or with the new password being generated at Banket, Branch or Workers at *2409",
+            "female": "Blocking will be removed 24 hours later or with the new password being generated at Banket, Branch or Workers at *2409"
         },
         {
             "key": "1000",
-            "male": "שים לב שפינות הצ׳ק בתוך המסגרת",
-            "female": "שימי לב שפינות הצ׳ק בתוך המסגרת"
+            "male": "Note that the corners of the check are inside the frame",
+            "female": "Note that the corners of the check are inside the frame"
         },
         {
             "key": "1001",
-            "male": "החזק את הטלפון באופן יציב",
-            "female": "החזיקי את הטלפון באופן יציב"
+            "male": "Hold the phone firmly",
+            "female": "Hold the phone firmly"
         },
         {
             "key": "1002",
-            "male": "התאורה חשוכה מדי. הצילום צריך להתבצע במקום מואר",
-            "female": "התאורה חשוכה מדי. הצילום צריך להתבצע במקום מואר"
+            "male": "The lighting is too dark. Photography should be done in a bright place",
+            "female": "The lighting is too dark. Photography should be done in a bright place"
         },
         {
             "key": "1003",
-            "male": "שים לב שפינות הצ׳ק בתוך המסגרת",
-            "female": "שימי לב שפינות הצ׳ק בתוך המסגרת"
+            "male": "Note that the corners of the check are inside the frame",
+            "female": "Note that the corners of the check are inside the frame"
         },
         {
             "key": "1004",
-            "male": "קרב את הצ׳ק אל גבולות המסגרת",
-            "female": "קרבי את הצ׳ק אל גבולות המסגרת"
+            "male": "Bring the check closer to the limits of the frame",
+            "female": "Bring the check closer to the limits of the frame"
         },
         {
             "key": "1005",
-            "male": "שים לב שפינות הצ׳ק בתוך המסגרת",
-            "female": "שימי לב שפינות הצ׳ק בתוך המסגרת"
+            "male": "Note that the corners of the check are inside the frame",
+            "female": "Note that the corners of the check are inside the frame"
         },
         {
             "key": "1006",
-            "male": "הנח את הצ׳ק על משטח כהה",
-            "female": "הניחי את הצ׳ק על משטח כהה"
+            "male": "Place the check on a dark surface",
+            "female": "Place the check on a dark surface"
         },
         {
             "key": "1007",
-            "male": "לא ניתן לקרוא את מספר הצ׳ק",
-            "female": "לא ניתן לקרוא את מספר הצ׳ק"
+            "male": "The check number cannot be read",
+            "female": "The check number cannot be read"
         },
         {
             "key": "1008",
-            "male": "אנא נסה לצלם שוב",
-            "female": "אנא נסי לצלם שוב"
+            "male": "Please try to make photo again",
+            "female": "Please try to make photo again"
         },
         {
             "key": "1009",
-            "male": "הצ׳ק שייך לבנק שלא נתמך בשירות",
-            "female": "הצ׳ק שייך לבנק שלא נתמך בשירות"
+            "male": "The check belongs to a bank that is not supported by the service",
+            "female": "The check belongs to a bank that is not supported by the service"
         },
         {
             "key": "1010",
-            "male": "צילום חזית הצ׳ק",
-            "female": "צילום חזית הצ׳ק"
+            "male": "Photo of the front of the check",
+            "female": "Photo of the front of the check"
         },
         {
             "key": "1011",
-            "male": "ניסיון נוסף",
-            "female": "ניסיון נוסף"
+            "male": "another try",
+            "female": "another try"
         },
         {
             "key": "1012",
-            "male": "לצילום גב הצ׳ק",
-            "female": "לצילום גב הצ׳ק"
+            "male": "To photograph the back of the check",
+            "female": "To photograph the back of the check"
         },
         {
             "key": "1013",
-            "male": "חזית הצ׳ק צולמה בהצלחה",
-            "female": "חזית הצ׳ק צולמה בהצלחה"
+            "male": "The front of the check was successfully photographed",
+            "female": "The front of the check was successfully photographed"
         },
         {
             "key": "1014",
-            "male": "לא ניתן להפקיד את הצ׳ק",
-            "female": "לא ניתן להפקיד את הצ׳ק"
+            "male": "The check cannot be deposited",
+            "female": "The check cannot be deposited"
         },
         {
             "key": "1015",
-            "male": "סגירה",
-            "female": "סגירה"
+            "male": "closure",
+            "female": "closure"
         },
         {
             "key": "1016",
-            "male": "סיום",
-            "female": "סיום"
+            "male": "finish",
+            "female": "finish"
         },
         {
             "key": "1017",
-            "male": "הצ׳ק צולם בהצלחה",
-            "female": "הצ׳ק צולם בהצלחה"
+            "male": "The check was successfully photocopied",
+            "female": "The check was successfully photocopied"
         },
         {
             "key": "1018",
-            "male": "צילום גב הצ׳ק",
-            "female": "צילום גב הצ׳ק"
+            "male": "Photo of the back of the check",
+            "female": "Photo of the back of the check"
         },
         {
             "key": "1118",
-            "male": "אפשר להזמין עד %@ פנקסים לכתובת שלך או עד %@ לסניף.",
-            "female": "אפשר להזמין עד %@ פנקסים לכתובת שלך או עד %@ לסניף."
+            "male": "You can order up to %@ checkbooks to your address or up to %@ to the branch.",
+            "female": "You can order up to %@ checkbooks to your address or up to %@ to the branch."
         },
         {
             "key": "1120",
-            "male": "אתה יכול להזמין עד %@ לסניף. כרגע לא ניתן להזמין פנקסים לכתובת שלך.",
-            "female": "את יכולה להזמין עד %@ לסניף. כרגע לא ניתן להזמין פנקסים לכתובת שלך."
+            "male": "You can order up to %@ to the branch. At this time, checkbooks cannot be ordered to your address.",
+            "female": "You can order up to %@ to the branch. At this time, checkbooks cannot be ordered to your address."
         },
         {
             "key": "1133",
-            "male": "#עם קבלת פנקסי הצ'קים עליך להתקשר ל 03-6501282 #במהלך השיחה תתבקש להקליד את מספר הצ'ק המופיע על הצ'ק הראשון בפנקס#זהו... הצ'קים מוכנים לשימוש",
-            "female": "#עם קבלת פנקסי הצ'קים עלייך להתקשר ל 03-6501282 #במהלך השיחה תתבקשי להקליד את מספר הצ'ק המופיע על הצ'ק הראשון בפנקס#זהו... הצ'קים מוכנים לשימוש"
+            "male": "# Upon receipt of check books you must call 03-6501282 # During the call you will be asked to type the check number that appears on the first check in the notebook # This is ... the checks are ready to use",
+            "female": "# Upon receipt of check books you must call 03-6501282 # During the call you will be asked to type the check number that appears on the first check in the notebook # This is ... the checks are ready to use"
         },
         {
             "key": "1201",
-            "male": "בוצעה משיכה  על סך %@ ₪, היתרה תקפה *עד 22:30*",
-            "female": "בוצעה משיכה  על סך %@ ₪, היתרה תקפה *עד 22:30*"
+            "male": "Withdrawal of funds in the amount of %@ ₪, the balance is valid *until 22:30*",
+            "female": "Withdrawal of funds in the amount of %@ ₪, the balance is valid *until 22:30*"
         },
         {
             "key": "1202",
-            "male": "ממתין למשיכה, *תקף עד 22:30*",
-            "female": "ממתין למשיכה, *תקף עד 22:30*"
+            "male": "Waiting for withdrawal, *Valid until 22:30*",
+            "female": "Waiting for withdrawal, *Valid until 22:30*"
         },
         {
             "key": "1659",
-            "male": "יש לך עוד ניסיון אחד. ניתן להפיק סיסמה חדשה באפליקציה או בפועלים בטלפון 2409*",
-            "female": "יש לך עוד ניסיון אחד. ניתן להפיק סיסמה חדשה באפליקציה או בפועלים בטלפון 2409*"
+            "male": "You have one more attempt. You can generate a new password in the app or in the phone at *2409",
+            "female": "You have one more attempt. You can generate a new password in the app or in the phone at *2409"
         },
         {
             "key": "1661",
-            "male": "למידע נוסף ניתן לפנות לבנקאי בפועלים בטלפון 2409*",
-            "female": "למידע נוסף ניתן לפנות לבנקאי בפועלים בטלפון 2409*"
+            "male": "For more information, contact the Bankers Acting at *2409",
+            "female": "For more information, contact the Bankers Acting at *2409"
         },
         {
             "key": "2003",
-            "male": "צ'קים שתאריך הפירעון שלהם הוא היום ועד חצי שנה אחורה (לא ניתן להפקיד צ׳קים עתידיים)",
-            "female": "צ'קים שתאריך הפירעון שלהם הוא היום ועד חצי שנה אחורה (לא ניתן להפקיד צ׳קים עתידיים)"
+            "male": "Checks whose due date is today and up to six months back (future checks cannot be deposited)",
+            "female": "Checks whose due date is today and up to six months back (future checks cannot be deposited)"
         },
         {
             "key": "2004",
@@ -182,8 +182,8 @@
         },
         {
             "key": "2033",
-            "male": "צ׳קים בסכום כולל של עד 100,000 ₪\n ביום עסקים ועד 200,000 ₪ בחודש",
-            "female": "צ׳קים בסכום כולל של עד 100,000 ₪\n ביום עסקים ועד 200,000 ₪ בחודש"
+            "male": "Checks in the total amount of up to NIS 100,000 \n on a business day and up to NIS 200,000 per month",
+            "female": "Checks in the total amount of up to NIS 100,000 \n on a business day and up to NIS 200,000 per month"
         },
         {
             "key": "2036",
@@ -192,33 +192,33 @@
         },
         {
             "key": "2216",
-            "male": "אז מה עושים?\n# מפיקים סיסמה חדשה בבנקט של בנק הפועלים, או בפועלים בטלפון 2407* או בסניף.\n# בכניסה הבאה לחשבון, מגדירים מספר טלפון נייד לצורך זיהוי (אנחנו נזכיר לך)",
-            "female": "אז מה עושים?\n# מפיקים סיסמה חדשה בבנקט של בנק הפועלים, או בפועלים בטלפון 2407* או בסניף.\n# בכניסה הבאה לחשבון, מגדירים מספר טלפון נייד לצורך זיהוי (אנחנו נזכיר לך)"
+            "male": "So what do we do?\n # Produce a new password at Bank Hapoalim Bank, or at Workers at 2407 * or at the branch.\n # At the next sign-in account, enter a mobile phone number for identification (we'll remind you)",
+            "female": "So what do we do?\n # Produce a new password at Bank Hapoalim Bank, or at Workers at 2407 * or at the branch.\n # At the next sign-in account, enter a mobile phone number for identification (we'll remind you)"
         },
         {
             "key": "2219",
-            "male": "האפשרות להפיק סיסמה חדשה נחסמה ל-24 שעות עקב הזנת קוד אימות שגוי",
-            "female": "האפשרות להפיק סיסמה חדשה נחסמה ל-24 שעות עקב הזנת קוד אימות שגוי"
+            "male": "The option to generate a new password has been blocked for 24 hours due to entering an incorrect verification code",
+            "female": "The option to generate a new password has been blocked for 24 hours due to entering an incorrect verification code"
         },
         {
             "key": "2356",
-            "male": "נותר לך עוד נסיון אחד. לאחר מכן תחסם הגישה שלך ל-24 שעות",
-            "female": "נותר לך עוד נסיון אחד. לאחר מכן תחסם הגישה שלך ל-24 שעות"
+            "male": "You have one more try. Your access will then be blocked for 24 hours",
+            "female": "You have one more try. Your access will then be blocked for 24 hours"
         },
         {
             "key": "2364",
-            "male": "חלק מהפעולות באפליקציה נחסמו ל-24 שעות עקב הקלדת תאריך שגוי",
-            "female": "חלק מהפעולות באפליקציה נחסמו ל-24 שעות עקב הקלדת תאריך שגוי"
+            "male": "Some actions in the app have been blocked for 24 hours due to typing an incorrect date",
+            "female": "Some actions in the app have been blocked for 24 hours due to typing an incorrect date"
         },
         {
             "key": "2368",
-            "male": "חלק מהפעולות באפליקציה נחסמו ל-24 שעות עקב הקלדת קוד שגוי",
-            "female": "חלק מהפעולות באפליקציה נחסמו ל-24 שעות עקב הקלדת קוד שגוי"
+            "male": "Some actions in the app have been blocked for 24 hours due to typing incorrect code",
+            "female": "Some actions in the app have been blocked for 24 hours due to typing incorrect code"
         },
         {
             "key": "2481",
-            "male": "תשובות לשאלות על משיכת מזומן ללא כרטיס",
-            "female": "תשובות לשאלות על משיכת מזומן ללא כרטיס"
+            "male": "Answers to questions about withdrawing cash without a card",
+            "female": "Answers to questions about withdrawing cash without a card"
         },
         {
             "key": "2485",
@@ -227,8 +227,8 @@
         },
         {
             "key": "2486",
-            "male": "תשובות לשאלות על הזמנת מט״ח בטרמינל",
-            "female": "תשובות לשאלות על הזמנת מט״ח בטרמינל"
+            "male": "Answers to questions about ordering foreign currency at the terminal",
+            "female": "Answers to questions about ordering foreign currency at the terminal"
         },
         {
             "key": "3170",
@@ -237,223 +237,223 @@
         },
         {
             "key": "3196",
-            "male": "לקוחות קונקט,\nאנו פועלים עבורכם לשדרוג ערוץ הצ׳אט,\nנשוב בקרוב בגרסה משופרת.",
-            "female": "לקוחות קונקט,\nאנו פועלים עבורכם לשדרוג ערוץ הצ׳אט,\nנשוב בקרוב בגרסה משופרת."
+            "male": "Connect customers,\nWe are working for you to upgrade the chat channel,\nWe will be back soon with an improved version.",
+            "female": "Connect customers,\nWe are working for you to upgrade the chat channel,\nWe will be back soon with an improved version."
         },
         {
             "key": "3298",
-            "male": "באפשרותך לשלם את העיקולים על-ידי פנייה אל הגורמים המעקלים או באמצעות ׳פועלים בטלפון׳ (אם יש לך יתרה מספקת בחשבון).\n\nאם העיקולים כבר הוסדרו, הודעה זו אינה בתוקף.",
-            "female": "באפשרותך לשלם את העיקולים על-ידי פנייה אל הגורמים המעקלים או באמצעות ׳פועלים בטלפון׳ (אם יש לך יתרה מספקת בחשבון).\n\nאם העיקולים כבר הוסדרו, הודעה זו אינה בתוקף."
+            "male": "You can pay the foreclosures by contacting the foreclosures or by working on the phone (if you have a sufficient balance in the account).\n\nIf the foreclosures have already been settled, this notice is not valid.",
+            "female": "You can pay the foreclosures by contacting the foreclosures or by working on the phone (if you have a sufficient balance in the account).\n\nIf the foreclosures have already been settled, this notice is not valid."
         },
         {
             "key": "3299",
-            "male": "באפשרותך לשלם את העיקולים על-ידי פנייה אל הגורמים המעקלים או באמצעות ׳פועלים בטלפון׳ (אם יש לך יתרה מספקת בחשבון).\nחשוב שתדע שעד להסדרת העיקול, באפשרותך לבצע רק מספר פעולות בחשבון באתר האינטרנט, באפליקציה, ב׳פועלים בטלפון׳ ובמענה הקולי.\n\nלאחר הסדרת העיקולים ניתן יהיה לבצע את כל הפעולות. אם העיקולים כבר הוסדרו, הודעה זו אינה בתוקף.",
-            "female": "באפשרותך לשלם את העיקולים על-ידי פנייה אל הגורמים המעקלים או באמצעות ׳פועלים בטלפון׳ (אם יש לך יתרה מספקת בחשבון).\nחשוב שתדעי שעד להסדרת העיקול, באפשרותך לבצע רק מספר פעולות בחשבון באתר האינטרנט, באפליקציה, ב׳פועלים בטלפון׳ ובמענה הקולי.\n\nלאחר הסדרת העיקולים ניתן יהיה לבצע את כל הפעולות. אם העיקולים כבר הוסדרו, הודעה זו אינה בתוקף."
+            "male": "You can pay the foreclosures by contacting the foreclosure agents or by using 'Workers on the Phone' (if you have a sufficient balance in the account). Voice. \n \nAfter arranging the curves, all actions can be performed. If the foreclosures have already been settled, this notice is not valid.",
+            "female": "You can pay the foreclosures by contacting the foreclosure agents or by using 'Workers on the Phone' (if you have a sufficient balance in the account). Voice. \n \nAfter arranging the curves, all actions can be performed. If the foreclosures have already been settled, this notice is not valid."
         },
         {
             "key": "3303",
-            "male": "שים לב: בחשבונך חזר צ׳ק בסך %@. מספר הצ׳ק %@",
-            "female": "שימי לב: בחשבונך חזר צ׳ק בסך %@. מספר הצ׳ק %@"
+            "male": "Please note: Your %@ check returned to your account. Check number %@",
+            "female": "Please note: Your %@ check returned to your account. Check number %@"
         },
         {
             "key": "3304",
-            "male": "קיבלת חשבון %@ בסך %@. תאריך אחרון לתשלום: %@",
-            "female": "קיבלת חשבון %@ בסך %@. תאריך אחרון לתשלום: %@"
+            "male": "You received a %@ account of %@. Last due date: %@",
+            "female": "You received a %@ account of %@. Last due date: %@"
         },
         {
             "key": "3305",
-            "male": "בתאריך %@ יחויב חשבונך בסכום משוער של %@ במסגרת החזר ההלוואה ״%@״",
-            "female": "בתאריך %@ יחויב חשבונך בסכום משוער של %@ במסגרת החזר ההלוואה ״%@״"
+            "male": "On %@, your account will be charged an estimated amount of %@ under the loan repayment \"%@\"",
+            "female": "On %@, your account will be charged an estimated amount of %@ under the loan repayment \"%@\""
         },
         {
             "key": "3306",
-            "male": "בשל יתרה לא מספיקה, חשבונך לא חויב בתשלום הלוואה בסך %@",
-            "female": "בשל יתרה לא מספיקה, חשבונך לא חויב בתשלום הלוואה בסך %@"
+            "male": "Due to insufficient funds, your account was not charged a loan of %@",
+            "female": "Due to insufficient funds, your account was not charged a loan of %@"
         },
         {
             "key": "3307",
-            "male": "הקוד האישי שלך ל'פועלים בטלפון' השתנה. אם לא נתת הוראה לשנות אותו, אנא עדכן אותנו. ",
-            "female": "הקוד האישי שלך ל'פועלים בטלפון' השתנה. אם לא נתת הוראה לשנות אותו, אנא עדכני אותנו. "
+            "male": "Your Personal Code for Workers on the Phone has changed. If you did not instruct to change it, please let us know.",
+            "female": "Your Personal Code for Workers on the Phone has changed. If you did not instruct to change it, please let us know."
         },
         {
             "key": "3308",
-            "male": "בתאריך %@ יפוג תוקף ההרשאה למוטב קבוע בחשבון. תוכל לחדש אותו בסניף.",
-            "female": "בתאריך %@ יפוג תוקף ההרשאה למוטב קבוע בחשבון. תוכלי לחדש אותו בסניף."
+            "male": "On %@, the authorization for a permanent beneficiary in the account expires. You can renew it at the branch.",
+            "female": "On %@, the authorization for a permanent beneficiary in the account expires. You can renew it at the branch."
         },
         {
             "key": "3309",
-            "male": "בתאריך %@ יפוג תוקף ההרשאה להעברות למוטבים המזדמנים בחשבון. תוכל לחדש אותו בסניף.",
-            "female": "בתאריך %@ יפוג תוקף ההרשאה להעברות למוטבים המזדמנים בחשבון. תוכלי לחדש אותו בסניף."
+            "male": "On %@, the authorization for transfers to the occasional beneficiaries will expire. You can renew it at the branch.",
+            "female": "On %@, the authorization for transfers to the occasional beneficiaries will expire. You can renew it at the branch."
         },
         {
             "key": "3310",
-            "male": "בתאריך %@ יפוג תוקף סיסמתך לאתר ולאפליקציית 'בנק הפועלים'.",
-            "female": "בתאריך %@ יפוג תוקף סיסמתך לאתר ולאפליקציית 'בנק הפועלים'."
+            "male": "On %@, your password will expire on the Bank Hapoalim website and app.",
+            "female": "On %@, your password will expire on the Bank Hapoalim website and app."
         },
         {
             "key": "3311",
-            "male": "בתאריך %@ יפוג תוקף סיסמתך ל'פועלים בטלפון'.",
-            "female": "בתאריך %@ יפוג תוקף סיסמתך ל'פועלים בטלפון'."
+            "male": "On %@, your password to Workers on the Phone expires.",
+            "female": "On %@, your password to Workers on the Phone expires."
         },
         {
             "key": "3312",
-            "male": "בתאריך %@ יפוג תוקף הסיסמה הראשונית שקיבלת ל'פועלים בטלפון'.",
-            "female": "בתאריך %@ יפוג תוקף הסיסמה הראשונית שקיבלת ל'פועלים בטלפון'."
+            "male": "On %@, the initial password you received for \"Workers on the Phone\" expires.",
+            "female": "On %@, the initial password you received for \"Workers on the Phone\" expires."
         },
         {
             "key": "3313",
-            "male": "פנקסי הצ'קים החדשים נשלחו לכתובת המשויכת לחשבון. הצ'קים יגיעו כשהם חסומים לשימוש, בצירוף  דף הנחיות להסרת החסימה",
-            "female": "פנקסי הצ'קים החדשים נשלחו לכתובת המשויכת לחשבון. הצ'קים יגיעו כשהם חסומים לשימוש, בצירוף  דף הנחיות להסרת החסימה"
+            "male": "The new checkbooks were sent to the address associated with the account. The checks will arrive when they are blocked for use, along with an instruction sheet for removing the block",
+            "female": "The new checkbooks were sent to the address associated with the account. The checks will arrive when they are blocked for use, along with an instruction sheet for removing the block"
         },
         {
             "key": "3314",
-            "male": "בקשתך להלוואה רב ערוצית נמצאת בטיפול.",
-            "female": "בקשתך להלוואה רב ערוצית נמצאת בטיפול."
+            "male": "Your multichannel loan application is pending.",
+            "female": "Your multichannel loan application is pending."
         },
         {
             "key": "3315",
-            "male": "חדשות טובות!\nבקשתך להלוואה רב ערוצית בסך %@ אושרה. תוכל לממש אותה עד לתאריך %@",
-            "female": "חדשות טובות!\nבקשתך להלוואה רב ערוצית בסך %@ אושרה. תוכלי לממש אותה עד לתאריך %@"
+            "male": "Good news!\n Your %@ multi-channel loan application has been approved. You can use it until %@",
+            "female": "Good news!\n Your %@ multi-channel loan application has been approved. You can use it until %@"
         },
         {
             "key": "3316",
-            "male": "בקשתך להלוואה רב ערוצית אושרה עקרונית בכפוף להמצאת בטוחה. להשלמת התהליך אנא פנה לסניפך.",
-            "female": "בקשתך להלוואה רב ערוצית אושרה עקרונית בכפוף להמצאת בטוחה. להשלמת התהליך אנא פני לסניפך."
+            "male": "Your request for a multi-channel loan has been approved in principle subject to a safe invention. To complete the process, please contact your branch.",
+            "female": "Your request for a multi-channel loan has been approved in principle subject to a safe invention. To complete the process, please contact your branch."
         },
         {
             "key": "3317",
-            "male": "בקשתך להלוואה רב ערוצית לא אושרה",
-            "female": "בקשתך להלוואה רב ערוצית לא אושרה"
+            "male": "Your multichannel loan application has been disapproved",
+            "female": "Your multichannel loan application has been disapproved"
         },
         {
             "key": "3318",
-            "male": "בקשתך להלוואה רב ערוצית הועברה לביצוע",
-            "female": "בקשתך להלוואה רב ערוצית הועברה לביצוע"
+            "male": "Your multichannel loan application has been submitted for execution",
+            "female": "Your multichannel loan application has been submitted for execution"
         },
         {
             "key": "3319",
-            "male": "הכרטיס שהזמנת (״%@״) ממתין לאיסוף בסניף %@-%@",
-            "female": "הכרטיס שהזמנת (״%@״) ממתין לאיסוף בסניף %@-%@"
+            "male": "The card you ordered (\"%@\") is awaiting collection at the %@-%@ branch",
+            "female": "The card you ordered (\"%@\") is awaiting collection at the %@-%@ branch"
         },
         {
             "key": "3320",
-            "male": "הכרטיס שהזמנת (״%@״) ממתין לאיסוף בסניף %@-%@. תוכל לאסוף אותו במהלך החודש הקרוב. לאחר מכן, הכרטיס יבוטל",
-            "female": "הכרטיס שהזמנת (״%@״) ממתין לאיסוף בסניף %@-%@. תוכלי לאסוף אותו במהלך החודש הקרוב. לאחר מכן, הכרטיס יבוטל"
+            "male": "The card you ordered (\"%@\") is awaiting collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled",
+            "female": "The card you ordered (\"%@\") is awaiting collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled"
         },
         {
             "key": "3321",
-            "male": "הכרטיס שהוזמן עבורך (״%@״) ממתין לאיסוף בסניף %@-%@",
-            "female": "הכרטיס שהוזמן עבורך (״%@״) ממתין לאיסוף בסניף %@-%@"
+            "male": "The card that was booked for you (\"%@\") is awaiting collection at the %@-%@ branch",
+            "female": "The card that was booked for you (\"%@\") is awaiting collection at the %@-%@ branch"
         },
         {
             "key": "3322",
-            "male": "הכרטיס שהוזמן עבורך (״%@״) ממתין לאיסוף בסניף %@-%@. תוכל לאסוף אותו במהלך החודש הקרוב. לאחר מכן, הכרטיס יבוטל",
-            "female": "הכרטיס שהוזמן עבורך (״%@״) ממתין לאיסוף בסניף %@-%@. תוכלי לאסוף אותו במהלך החודש הקרוב. לאחר מכן, הכרטיס יבוטל"
+            "male": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled",
+            "female": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled"
         },
         {
             "key": "3323",
-            "male": "הכרטיס שהוזמן עבורך (״%@״) ממתין לאיסוף בסניף %@-%@. כדי שתוכל לאסוף אותו, על %@ %@ לגשת לסניף ולחתום על אישור קבלת הכרטיס",
-            "female": "הכרטיס שהוזמן עבורך (״%@״) ממתין לאיסוף בסניף %@-%@. כדי שתוכלי לאסוף אותו, על %@ %@ לגשת לסניף ולחתום על אישור קבלת הכרטיס"
+            "male": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. In order for you to collect it, %@ %@ must access the branch and sign the card receipt",
+            "female": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. In order for you to collect it, %@ %@ must access the branch and sign the card receipt"
         },
         {
             "key": "3324",
-            "male": "הכרטיס שהוזמן עבורך (״%@״) ממתין לאיסוף בסניף %@-%@. תוכל לאסוף אותו במהלך החודש הקרוב. לאחר מכן, הכרטיס יבוטל. לצורך איסוף הכרטיס על %@ %@ לגשת לסניף ולחתום על אישור קבלתו",
-            "female": "הכרטיס שהוזמן עבורך (״%@״) ממתין לאיסוף בסניף %@-%@. תוכלי לאסוף אותו במהלך החודש הקרוב. לאחר מכן, הכרטיס יבוטל. לצורך איסוף הכרטיס על %@ %@ לגשת לסניף ולחתום על אישור קבלתו"
+            "male": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled. To collect the card on %@ %@ access the branch and sign the receipt of receipt",
+            "female": "The card that was booked for you (\"%@\") awaits collection at the %@-%@ branch. You can pick it up over the next month. The card will then be canceled. To collect the card on %@ %@ access the branch and sign the receipt of receipt"
         },
         {
             "key": "3325",
-            "male": "הוזמן לחשבון %@ כרטיס %@. כדי שיתאפשר ל- %@ %@ לאסוף אותו, עליך לגשת לסניף ולחתום על אישור קבלת הכרטיס",
-            "female": "הוזמן לחשבון %@ כרטיס %@. כדי שיתאפשר ל- %@ %@ לאסוף אותו, עלייך לגשת לסניף ולחתום על אישור קבלת הכרטיס"
+            "male": "Invited to %@ account %@ card. To allow %@ %@ to collect it, you must access the branch and sign the card receipt",
+            "female": "Invited to %@ account %@ card. To allow %@ %@ to collect it, you must access the branch and sign the card receipt"
         },
         {
             "key": "3326",
-            "male": "הכרטיס שהזמנת (״%@״) הגיע לסניף. כדי לאפשר ל%@ %@ לאסוף אותו, עליך לגשת לסניף ולחתום על אישור קבלת הכרטיס",
-            "female": "הכרטיס שהזמנת (״%@״) הגיע לסניף. כדי לאפשר ל%@ %@ לאסוף אותו, עלייך לגשת לסניף ולחתום על אישור קבלת הכרטיס"
+            "male": "The card you ordered (\"%@\") arrived at the branch. To allow %@ %@ to collect it, you must access the branch and sign the card receipt",
+            "female": "The card you ordered (\"%@\") arrived at the branch. To allow %@ %@ to collect it, you must access the branch and sign the card receipt"
         },
         {
             "key": "3327",
-            "male": "אושרה בחשבונך מסגרת עו״ש מסוג ׳נוספת חד צדדית׳ בסך %@ . המסגרת תהיה בתוקף עד יום %@",
-            "female": "אושרה בחשבונך מסגרת עו״ש מסוג ׳נוספת חד צדדית׳ בסך %@ . המסגרת תהיה בתוקף עד יום %@"
+            "male": "%@'s \"One-sided Additional\" frame has been approved in your account. The framework will be valid until %@ day",
+            "female": "%@'s \"One-sided Additional\" frame has been approved in your account. The framework will be valid until %@ day"
         },
         {
             "key": "3328",
-            "male": "תוקף מסגרת העו״ש בחשבון יפוג בתאריך %@. תוכל לחדש אותה בסניף",
-            "female": "תוקף מסגרת העו״ש בחשבון יפוג בתאריך %@. תוכלי לחדש אותה בסניף"
+            "male": "The current account frame expires on %@. You can renew it at the branch",
+            "female": "The current account frame expires on %@. You can renew it at the branch"
         },
         {
             "key": "3329",
-            "male": "בתאריך %@ יעודכן גובה מסגרת העו״ש בחשבון בהתאם לממוצע המשכורות המופקדות בו. המסגרת החדשה תהיה בסך %@ ",
-            "female": "בתאריך %@ יעודכן גובה מסגרת העו״ש בחשבון בהתאם לממוצע המשכורות המופקדות בו. המסגרת החדשה תהיה בסך %@ "
+            "male": "On %@, the height of the current account rate will be updated according to the average salaries deposited there. The new frame will be %@",
+            "female": "On %@, the height of the current account rate will be updated according to the average salaries deposited there. The new frame will be %@"
         },
         {
             "key": "3330",
-            "male": "בחודשים האחרונים לא נכנסה משכורת לחשבון. לכן בתאריך %@ מסגרת העו״ש תתעדכן ותעמוד על %@ ",
-            "female": "בחודשים האחרונים לא נכנסה משכורת לחשבון. לכן בתאריך %@ מסגרת העו״ש תתעדכן ותעמוד על %@ "
+            "male": "In the last few months, no salary has gone into the account. Therefore, on %@, the current framework will be updated to stand on %@",
+            "female": "In the last few months, no salary has gone into the account. Therefore, on %@, the current framework will be updated to stand on %@"
         },
         {
             "key": "3332",
-            "male": "קיבלת תשובה על בקשתך לתת ל-%@ הרשאה לחיוב חשבונך",
-            "female": "קיבלת תשובה על בקשתך לתת ל-%@ הרשאה לחיוב חשבונך"
+            "male": "You have received a reply to your request to authorize %@ to debit your account",
+            "female": "You have received a reply to your request to authorize %@ to debit your account"
         },
         {
             "key": "3333",
-            "male": "עדכונים",
-            "female": "עדכונים"
+            "male": "Updates",
+            "female": "Updates"
         },
         {
             "key": "3334",
-            "male": "לקריאת כל ההודעה",
-            "female": "לקריאת כל ההודעה"
+            "male": "Read the whole post",
+            "female": "Read the whole post"
         },
         {
             "key": "3335",
-            "male": "פנקס הצ'קים שהזמנת ממתין לאיסוף בסניף %@",
-            "female": "פנקס הצ'קים שהזמנת ממתין לאיסוף בסניף %@"
+            "male": "The checkbook you ordered is awaiting collection at the %@ branch",
+            "female": "The checkbook you ordered is awaiting collection at the %@ branch"
         },
         {
             "key": "3336",
-            "male": "לצפייה בעובר ושב",
-            "female": "לצפייה בעובר ושב"
+            "male": "To view the fetus and return",
+            "female": "To view the fetus and return"
         },
         {
             "key": "3337",
-            "male": "לביצוע תשלום באתר",
-            "female": "לביצוע תשלום באתר"
+            "male": "To make a payment on site",
+            "female": "To make a payment on site"
         },
         {
             "key": "3338",
-            "male": "לצפייה בהלוואות שלך",
-            "female": "לצפייה בהלוואות שלך"
+            "male": "To view your loans",
+            "female": "To view your loans"
         },
         {
             "key": "3339",
-            "male": "להחלפת סיסמה",
-            "female": "להחלפת סיסמה"
+            "male": "To change password",
+            "female": "To change password"
         },
         {
             "key": "3341",
-            "male": "לצפייה בסטטוס הבקשה",
-            "female": "לצפייה בסטטוס הבקשה"
+            "male": "View the status of the request",
+            "female": "View the status of the request"
         },
         {
             "key": "3342",
-            "male": "למימוש ההלוואה",
-            "female": "למימוש ההלוואה"
+            "male": "To realize the loan",
+            "female": "To realize the loan"
         },
         {
             "key": "3343",
-            "male": "לצפייה בסטטוס הבקשה",
-            "female": "לצפייה בסטטוס הבקשה"
+            "male": "To view the status of the application",
+            "female": "To view the status of the application"
         },
         {
             "key": "3345",
-            "male": "ממתין לך תשלום במערכת התשלומים",
-            "female": "ממתין לך תשלום במערכת התשלומים"
+            "male": "Awaiting payment in the payment system",
+            "female": "Awaiting payment in the payment system"
         },
         {
             "key": "3346",
-            "male": "בחשבון זה התקבל בתאריך %@ עיקול מ%@ בגובה %@.\nבאפשרותך לשלם את העיקול על-ידי פנייה ל%@ או באמצעות ׳פועלים בטלפון׳ (אם יש לך יתרה מספקת בחשבון).\n\nאם העיקול כבר הוסדר, הודעה זו אינה בתוקף.",
-            "female": "בחשבון זה התקבל בתאריך %@ עיקול מ%@ בגובה %@.\nבאפשרותך לשלם את העיקול על-ידי פנייה ל%@ או באמצעות ׳פועלים בטלפון׳ (אם יש לך יתרה מספקת בחשבון).\n\nאם העיקול כבר הוסדר, הודעה זו אינה בתוקף."
+            "male": "This account was received on %@ a lien from %@ at %@.\nYou can pay the lien by contacting %@ or using 'Phone Operators' (if you have a sufficient account balance).\n\nIf the lien has already been settled, message This is not valid.",
+            "female": "This account was received on %@ a lien from %@ at %@.\nYou can pay the lien by contacting %@ or using 'Phone Operators' (if you have a sufficient account balance).\n\nIf the lien has already been settled, message This is not valid."
         },
         {
             "key": "3347",
@@ -462,13 +462,13 @@
         },
         {
             "key": "3348",
-            "male": "בחשבון זה נמצאו %@ עיקולים:\n",
-            "female": "בחשבון זה נמצאו %@ עיקולים:\n"
+            "male": "%@ Foreclosures found in this account:\n",
+            "female": "%@ Foreclosures found in this account:\n"
         },
         {
             "key": "3349",
-            "male": "עיקול שהתקבל בתאריך %@ מ%@ בגובה %@\n",
-            "female": "עיקול שהתקבל בתאריך %@ מ%@ בגובה %@\n"
+            "male": "Forecast received on %@ from %@ at %@\n",
+            "female": "Forecast received on %@ from %@ at %@\n"
         }
     ]
 }
