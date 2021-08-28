@@ -12,7 +12,7 @@ def generate_json(mutual_dictionary, translates, language):
             obj["male"] = translates[key][language]
             obj["female"] = translates[key][language]
 
-    dump = json.dumps(mutual_dictionary, ensure_ascii = False, indent = 2)
+    dump = json.dumps(mutual_dictionary, ensure_ascii = False, indent = 4)
     dump = dump.replace("\\\\n", "\\n")
     print(dump)
 
