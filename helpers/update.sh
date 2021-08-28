@@ -7,7 +7,7 @@ curl -L "https://docs.google.com/spreadsheets/d/1sYOnptgxa07OjTEfMGcHCy8G9dLBG7K
 
 version=40.3.0
 patchdir=../patch/40.3.0
-language=english
+language=russian
 
 # Copy original files
 cp -v "${patchdir}/res/values/arrays.xml" .
