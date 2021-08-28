@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accQuickGlancePeekRegister">הרשמה למבט מהיר</string>
+    <string name="accQuickGlancePeekRegistered">מבט מהיר לחשבון, כפתור</string>
+    <string name="accQuickGlanceShimmering">טעינת נתוני מבט מהיר לחשבון</string>
+    <string name="accQuickGlanceUpdateSettings">לחצן עדכון ההגדרות</string>
+    <string name="access_close_x_btn_content_description">סגור</string>
+    <string name="access_green_credit_open_more_options">לפתיחת אפשרויות נוספות</string>
+    <string name="access_screen_announcement_description">מסך %1$s</string>
+    <string name="accessibility_amount">סכום ההלוואה</string>
+    <string name="accessibility_and_legal_terms_accessibility_title">הצהרת נגישות</string>
+    <string name="accessibility_and_legal_terms_legal_terms_title">תנאים משפטיים</string>
+    <string name="accessibility_and_legal_terms_secured_website_title">אתר מאובטח</string>
+    <string name="accessibility_and_legal_terms_security_provider_title">ספק האבטחה</string>
+    <string name="accessibility_and_legal_terms_security_title">אבטחת מידע</string>
+    <string name="accessibility_and_legal_terms_thirdparty_title">ספריות צד שלישי</string>
+    <string name="accessibility_back">כפתור חזור</string>
+    <string name="accessibility_balance_type">יתרה מסוג</string>
+    <string name="accessibility_bit_app">אפליקציית ביט</string>
+    <string name="accessibility_business_app">אפליקציית עסקים</string>
+    <string name="accessibility_button">כפתור</string>
+    <string name="accessibility_calculation_cal">הקשה כפולה לפתיחת תאריכון</string>
+    <string name="accessibility_calculation_interest" formatted="false">ריבית שנתית נומינלית היא %@%</string>
+    <string name="accessibility_calculation_pay">ההחזר החודשי המשוער הוא %@</string>
+    <string name="accessibility_calculation_period">משך ההלוואה %@ חודשים</string>
+    <string name="accessibility_calculation_period_from">מתוך 5</string>
+    <string name="accessibility_calculation_period_other">להוספת משך ההלוואה באופן ידני</string>
+    <string name="accessibility_call_technical_support">כפתור חיוג למוקד הטכני</string>
+    <string name="accessibility_checking_account_filter">סנן תוצאות</string>
+    <string name="accessibility_checking_account_filter_by">סנן תוצאות לפי</string>
+    <string name="accessibility_checking_account_transactions">הצג תנועות מסוג</string>
+    <string name="accessibility_choose_account">בחירת חשבון</string>
+    <string name="accessibility_chosen">נבחר</string>
+    <string name="accessibility_click_for_change">לחץ לשינוי בחירה</string>
+    <string name="accessibility_click_for_change_to">לחץ לשינוי ל</string>
+    <string name="accessibility_click_for_changing_chosen_item">לחץ לשינוי בחירה</string>
+    <string name="accessibility_close">כפתור סגור</string>
+    <string name="accessibility_close_message">כפתור סגור הודעה</string>
+    <string name="accessibility_code_verified">הקוד הוזן בהצלחה</string>
+    <string name="accessibility_collapse_more">לחץ לסגירת מידע נוסף</string>
+    <string name="accessibility_contact_through_facebook">כפתור פניה בפייסבוק</string>
+    <string name="accessibility_date_selected">התאריך הראשון להחזר ההלוואה</string>
+    <string name="accessibility_date_selected_new_deal">מועד סיום העסקאות החדשות</string>
+    <string name="accessibility_date_selected_old_deal">מועד סיום העסקאות הקיימות</string>
+    <string name="accessibility_day">יום</string>
+    <string name="accessibility_displaying_items">הצגת פריטים</string>
+    <string name="accessibility_expand_more">לחץ להצגת מידע נוסף</string>
+    <string name="accessibility_faq">שאלות ותשובות</string>
+    <string name="accessibility_forex_question_mark">כפתור מטבע חוץ - מידע נוסף</string>
+    <string name="accessibility_housing_apartment_me_no">אין ברשותי דירה</string>
+    <string name="accessibility_housing_apartment_me_yes">יש ברשותי דירה</string>
+    <string name="accessibility_housing_apartment_us_no">אין לאף אחד מאיתנו דירה</string>
+    <string name="accessibility_housing_apartment_us_yes">יש לאחד מאיתנו דירה</string>
+    <string name="accessibility_housing_mortgage_me_no">אין לי משכנתא</string>
+    <string name="accessibility_housing_mortgage_me_yes">יש לי משכנתא, לחץ הזנת גובה המשכנתא</string>
+    <string name="accessibility_housing_mortgage_us_no">אין לאף אחד מאיתנו משכנתא</string>
+    <string name="accessibility_housing_mortgage_us_yes">יש לאחד מאיתנו משכנתא, לחץ הזנת גובה המשכנתא</string>
+    <string name="accessibility_housing_no_choice">בשאלה</string>
+    <string name="accessibility_housing_rent_me_no">איני משלם שכירות</string>
+    <string name="accessibility_housing_rent_me_yes">אני משלם שכירות, לחץ להזנת גובה השכירות</string>
+    <string name="accessibility_housing_rent_us_no">אף אחד מאיתנו לא משלם שכירות</string>
+    <string name="accessibility_housing_rent_us_yes">אחד מאיתנו משלם שכירות, לחץ להזנת גובה השכירות</string>
+    <string name="accessibility_how_balances_are_calculated">כפתור מידע נוסף על איך מחושבות היתרות</string>
+    <string name="accessibility_i">אני</string>
+    <string name="accessibility_immediate">הלוואה באישור מיידי</string>
+    <string name="accessibility_income_work">וותק במקום העבודה</string>
+    <string name="accessibility_income_work_me">ההכנסה העיקרית שלי היא מ</string>
+    <string name="accessibility_income_work_partner">ההכנסה העיקרית של %@ היא מ</string>
+    <string name="accessibility_load_more">לחץ לטעינה</string>
+    <string name="accessibility_loans">שם ההלוואה</string>
+    <string name="accessibility_location" formatted="false">מיקום %@ מתוך %@</string>
+    <string name="accessibility_market_app">אפליקציית שוק ההון</string>
+    <string name="accessibility_minus">מינוס</string>
+    <string name="accessibility_open_from_day">פתוח מ</string>
+    <string name="accessibility_open_from_day_and">ו מ</string>
+    <string name="accessibility_open_world">לחץ לפתיחת העולם</string>
+    <string name="accessibility_or">או</string>
+    <string name="accessibility_otp_fifth">הזן סיפרה חמישית מהקוד שנשלך אליך</string>
+    <string name="accessibility_otp_first">הזן סיפרה ראשונה מהקוד שנשלך אליך</string>
+    <string name="accessibility_otp_forth">הזן סיפרה רביעית מהקוד שנשלך אליך</string>
+    <string name="accessibility_otp_second">הזן סיפרה שניה מהקוד שנשלך אליך</string>
+    <string name="accessibility_otp_third">הזן סיפרה שלישית מהקוד שנשלך אליך</string>
+    <string name="accessibility_partial_repayment">אם ביצוע הפרעון אבקש</string>
+    <string name="accessibility_partial_repayment_list1">1 מתוך 2</string>
+    <string name="accessibility_partial_repayment_list2">2 מתוך 2</string>
+    <string name="accessibility_partner_family_status">מה מצב המשפחתי של</string>
+    <string name="accessibility_pdf_file_saved">לחץ להורדת הסכם ההלוואה - הסכם ההלואה יישמר בתיקיית מסמכים</string>
+    <string name="accessibility_pdf_file_saved_repayment">לחץ להורדת הסכם פרעון ההלוואה - הסכם פרעון ההלואה יישמר בתיקיית מסמכים</string>
+    <string name="accessibility_plus">פלוס</string>
+    <string name="accessibility_previous">הקודם</string>
+    <string name="accessibility_questions_and_answers">כפתור שאלות ותשובות</string>
+    <string name="accessibility_refresh">כפתור רענון שער הזמנה</string>
+    <string name="accessibility_repayment_balance">שיתרתה היא</string>
+    <string name="accessibility_shown_results">מציג %1$s תוצאות</string>
+    <string name="accessibility_status" formatted="false">סטטוס ההלוואה מסוג %@ הוא: %@ סכום ההלוואה המבוקשת הוא %@</string>
+    <string name="accessibility_suggestion_continue">רוצה להתקדם עם</string>
+    <string name="accessibility_suggestion_interest1" formatted="false">הריבית לתקופת ההלוואה תהיה %@%</string>
+    <string name="accessibility_suggestion_interest2" formatted="false">הריבית לתקופת ההלוואה תהיה %@ לבין %@%</string>
+    <string name="accessibility_suggestion_more">לחץ לפתיחה</string>
+    <string name="accessibility_suggestion_period1" formatted="false">תקופת ההחזר היא %@%</string>
+    <string name="accessibility_suggestion_period2" formatted="false">תקופת ההחזר היא בין %@ לבין %@ חודשים</string>
+    <string name="accessibility_sum_amount">סכום ההלוואה</string>
+    <string name="accessibility_tab_button">טאב</string>
+    <string name="accessibility_termianl_forigen_currency">בחירת מטבע חוץ</string>
+    <string name="accessibility_withdrawal_money_amount">משיכה על סך</string>
+    <string name="account_name">חשבון על שם</string>
+    <string name="account_number">מספר חשבון</string>
+    <string name="account_number_description">מספר חשבון רק מספרים ללא /</string>
+    <string name="account_view">accountView</string>
+    <string name="action_settings">Settings</string>
+    <string name="active">פעיל</string>
+    <string name="agreement_user_details">"%1$s
+%2$s
+%3$s %4$s"</string>
+    <string name="all_currencies_text">כל המטבעות</string>
+    <string name="app_name">בנק הפועלים</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="approval_monthly_amount_desc">החזר חודשי משוער</string>
+    <string name="attache_new_file">צרף תלוש משכורת</string>
+    <string name="balances_revaluation_text">היתרות משוערכות לפי השער היציג</string>
+    <string name="bank_hapoalim_desc">בנק הפועלים</string>
+    <string name="bank_name">בבנק</string>
+    <string name="banker">שיחה עם בנקאי</string>
+    <string name="banks_dialog_title">מאיזה בנק?</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="branch">סניף</string>
+    <string name="branch_dialog_title">באיזה סניף?</string>
+    <string name="branch_name">סניף</string>
+    <string name="button_text">הבנתי, תודה</string>
+    <string name="calculator_error_amount">אנא הזן סכום בין-</string>
+    <string name="calculator_error_months">אנא הזן מספר בין-</string>
+    <string name="cancel_card_intro_account_relation">(%1$s)</string>
+    <string name="cancel_card_intro_account_title">%1$s %2$s %3$s</string>
+    <string name="cancel_card_intro_card_number_suffix">הכרטיס מסתיים ב</string>
+    <string name="cancel_card_intro_list_switch">החלף</string>
+    <string name="cancel_card_intro_list_title">עבור</string>
+    <string name="cancel_card_intro_owner_name">שם בעל הכרטיס</string>
+    <string name="cancel_card_intro_owner_name_title">שם</string>
+    <string name="cancel_card_parties_dialog_title">"את הכרטיסים של מי
+ תרצה לראות?"</string>
+    <string name="cancel_card_step1_branch_option">אני רוצה לאסוף מסניף אחר</string>
+    <string name="cancel_card_step1_branch_street">%1$s %2$s,</string>
+    <string name="cancel_card_step1_branch_title">סניף %1$s</string>
+    <string name="cancel_card_step1_card_title">כרטיס %1$s</string>
+    <string name="cancel_card_step1_title">"במקום הכרטיס המבוטל
+יישלח כרטיס חדש לסניף"</string>
+    <string name="cancel_card_step2_commission_title">על פעולה זו תחוייב בעמלה של %1$ שח</string>
+    <string name="cancel_card_step2_date_in_month">בחודש</string>
+    <string name="cancel_card_step2_info">לבקשתך, יונפק עבורך כרטיס חלופי</string>
+    <string name="cancel_card_step2_list_card_num">מספר כרטיס</string>
+    <string name="cancel_card_step2_list_card_type">כרטיס מסוג</string>
+    <string name="cancel_card_step2_list_debit_date">מועד לחיוב</string>
+    <string name="cancel_card_step2_list_english_name">שם באנגלית</string>
+    <string name="cancel_card_step2_list_owner_name">שם בעל הכרטיס</string>
+    <string name="cancel_card_step3_branch_address">, %1$s</string>
+    <string name="cancel_card_step3_card_to_cancel">מספר הכרטיס שבוטל %1$s</string>
+    <string name="cancel_card_step3_sub_title">הכרטיס החדש ישלח לסניף:</string>
+    <string name="cancel_card_step3_title">"הזמנת כרטיס חדש
+בהצלחה!"</string>
+    <string name="cancel_card_toolbar_sub_title">החשבון של</string>
+    <string name="cancel_card_toolbar_title">ביטול כרטיס אשראי</string>
+    <string name="capital_market_world_hold">הנתונים מוצגים בהשהיה</string>
+    <string name="capital_market_world_zero_text">"בקרוב תוכלי לצפות בהרכב 
+תיק האחזקות שלך ישירות מכאן"</string>
+    <string name="card_details_title">פרטי הכרטיס</string>
+    <string name="card_owner_details">%1$s %2$s %3$s</string>
+    <string name="card_owner_details_title">פרטי בעל הכרטיס</string>
+    <string name="change_password_current_password">סיסמה נוכחית</string>
+    <string name="change_password_final_step_title">סיסמתך הוחלפה בהצלחה!</string>
+    <string name="change_password_go_to_account">הכנס לחשבונך</string>
+    <string name="change_password_new_password">סיסמה חדשה</string>
+    <string name="change_password_outside_subtitle_text">לצורך השלמת הפעולה יש להפיק סיסמה חדשה</string>
+    <string name="change_password_type_again_new_password">הקלד שנית את הסיסמה החדשה</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="charge_my_account_find_institution_btn">שליחת קוד</string>
+    <string name="charge_my_account_identify_number">מספר מזהה</string>
+    <string name="charge_my_account_institution_code">קוד המוסד / המוטב</string>
+    <string name="charge_my_account_institution_code_chosen">קוד המוסד / המוטב שנבחר הוא:</string>
+    <string name="charge_my_account_purpose">מטרת ההרשאה</string>
+    <string name="check_error_body">לפרטים נוספים ניתן ליצור קשר עם הבנקאים שלנו, שישמחו לעמוד לרשותך במוקד פועלים בטלפון</string>
+    <string name="check_error_title">"מצטערים לא ניתן להצמיג את צ'ק מספר %1$s מתאריך %2$s על סך %3$s"</string>
+    <string name="checks_number">"מספר צ'ק"</string>
+    <string name="checks_order_accept_button">לאישור תנאי משלוח</string>
+    <string name="checks_order_accept_button_2">לאישור הזמנה</string>
+    <string name="checks_order_address_text">לכתובת שלי</string>
+    <string name="checks_order_below_mutav_switch">"רק מי שהצ'ק נרשם לזכותו יוכל להפקיד אותו (לחשבונו בלבד)"</string>
+    <string name="checks_order_below_mutav_switch_motav">על כל שיק יודפס ״למוטב בלבד״ בקרוס.</string>
+    <string name="checks_order_branch_text">לסניף שלי</string>
+    <string name="checks_order_branch_title">הפנקסים יישלחו לסניף שלך</string>
+    <string name="checks_order_error_max_for_address">ניתן לשלוח עד %1$s פנקסים</string>
+    <string name="checks_order_error_max_for_mutav">"כיוון שבחרת צ'קים ללא הגבלה, לא ניתן לשלוח אותם לכתובת שלך"</string>
+    <string name="checks_order_last_step_next_btn">עמוד עו״ש</string>
+    <string name="checks_order_mailing">המשלוח יישלח בדואר רגיל (לא רשום)</string>
+    <string name="checks_order_mutav_only_text">למוטב בלבד</string>
+    <string name="checks_order_personal">%1$s פנקסים אישיים</string>
+    <string name="checks_order_personal_one">פנקסים אישיים</string>
+    <string name="checks_order_second_title">לאן לשלוח את הפנקסים?</string>
+    <string name="checks_order_sms">האם לעדכן אותך ב-SMS כשהפנקסים יישלחו לכתובת שלך?</string>
+    <string name="checks_order_title_how_much">כמה פנקסים?</string>
+    <string name="checks_order_toolbar_title">"הזמנת פנקסי צ'קים"</string>
+    <string name="checks_order_update_address">עדכון כתובת</string>
+    <string name="checks_order_update_button">עדכון כתובת</string>
+    <string name="checks_order_validation_text">אפשר להזמין עד %1$s פנקסים לכתובת שלך או עד %2$s לסניף.</string>
+    <string name="checks_order_validation_text_2">כרגע לא ניתן להזמין הביתה וניתן להזמין עד %1$s פנקסים לסניפך. בכל פנקס 25 שיקים</string>
+    <string name="checks_order_with_out_text">ללא הגבלה</string>
+    <string name="checks_order_your_address_text">לכתובת שלך</string>
+    <string name="checks_order_your_branch_text">לסניף שלך</string>
+    <string name="checks_viewer_turn_over">"הפוך צ'ק"</string>
+    <string name="checks_viewer_turn_over_front">"לצפייה בחזית הצ'ק"</string>
+    <string name="chip_text">Chip text</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="close">סגור</string>
+    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="commissions_all_to_charge">סה״כ לחיוב</string>
+    <string name="commissions_amount">כמות</string>
+    <string name="commissions_amount_to_pay">סכום לתשלום</string>
+    <string name="commissions_collect">תיאור גביה</string>
+    <string name="commissions_collect_description">תיאור גביה</string>
+    <string name="commissions_collect_description_extra">העמלה תיגבה רק לאחר המשיכה בפועל</string>
+    <string name="commissions_collect_title">גביה</string>
+    <string name="commissions_comment">הערות</string>
+    <string name="commissions_date">מועד לחיוב עמלה</string>
+    <string name="commissions_discount_amount">הנחה</string>
+    <string name="commissions_discount_desc">תיאור הנחה</string>
+    <string name="commissions_name">תיאור עמלה</string>
+    <string name="commissions_tarif_value">תעריף</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="connected_to_bank_app">מחובר לאפליקציית בנק הפועלים</string>
+    <string name="contact_after_login_call_banker">%2$s - %1$s</string>
+    <string name="contact_after_login_message_banker_sso__writte_communication_title">שליחת בקשה לבנקאי</string>
+    <string name="contact_after_login_message_banker_sso_title">כתיבת הודעה לבנקאי</string>
+    <string name="contact_after_login_my_branch_address">%1$s %2$s,</string>
+    <string name="contact_after_login_my_branch_details">סניף %2$s %1$s</string>
+    <string name="contact_after_login_my_branch_number">סניף %1$s</string>
+    <string name="contact_after_login_my_mail_sso_title">הדואר שלי</string>
+    <string name="contact_after_login_schedule_meeting_with_banker_sso_title">תיאום פגישה עם בנקאי</string>
+    <string name="contact_before_login_nearby_atm_address">%1$s %2$s, %3$s</string>
+    <string name="coose_number_of_months">אנא בחר מספר חודשים בין %1$s ל- %2$s</string>
+    <string name="correct_card">נשאר רק לבחור שזה הכרטיס הנכון</string>
+    <string name="couple_account_issue_account_expired">"פג הזמן שבמהלכו ניתן להשלים את
+תהליכי פתיחת החשבון של שני
+השותפים. החשבון לא נפתח בפועל.
+
+רוצים לפתוח חשבון מחדש? הורידו את
+אפליקציית ׳פועלים open׳ ופתחו את
+החשבון מחדש"</string>
+    <string name="couple_account_issue_account_still_not_active">"החשבון שלכם עדיין לא פעיל, כי הוא
+ בתהליכי בדיקה שנמשכים יום עסקים אחד.
+ברגע שהבדיקה תושלם והחשבון יהיה פעיל,
+נעדכן אותך ב- SMS.
+
+פתיחת החשבון בפועל מותנית באישור
+ובבקרה של הבנק"</string>
+    <string name="couple_account_issue_first_customer_desc">"החשבון החדש שלכם עדיין לא פעיל,
+משום שהחלק של %1$s בתהליך
+פתיחת החשבון עדיין לא הושלם.
+ברגע שזה יקרה, נעדכן אותך ב-SMS
+ונבקש ממך לחתום על מסמכי פתיחת
+חשבון כאן באפליקציה."</string>
+    <string name="couple_account_issue_partner_desc">"החשבון החדש שלכם עדיין לא פעיל, כי
+יש מסמכים שממתינים באפליקציה
+לחתימת %1$s.
+ברגע שחתימת המסמכים תושלם
+והחשבון יהיה פעיל, נעדכן אותך ב- SMS."</string>
+    <string name="couple_account_issue_title">טוב לראות אותך!</string>
+    <string name="couple_account_issue_title_expired">חלמתם? לא נורא</string>
+    <string name="credit_card_activation_success_title">הכרטיס הופעל בהצלחה!</string>
+    <string name="credit_card_activation_toolbar_title">הפעלת כרטיס אשראי חדש</string>
+    <string name="credit_card_buttons">הפעל כרטיס</string>
+    <string name="currency_change_show_evaluated_balance_text">הצג יתרה משוערכת לפי מטבע</string>
+    <string name="currency_change_text">שינוי מטבע</string>
+    <string name="currency_currency_withdrow">יתרה למשיכה</string>
+    <string name="currency_dialog_title">מאיזה חשבון תרצה למכור?</string>
+    <string name="currency_error">לא ניתן להמיר לאותו סוג מטבע שאתה מוכר</string>
+    <string name="currency_error_sell">לא ניתן למכור את אותו סוג מטבע שאתה קונה</string>
+    <string name="currency_exchange_button_text">המרת מט״ח</string>
+    <string name="currency_exchange_header_title">המרת מט״ח</string>
+    <string name="currency_how_to_byu">כמה תרצה לקנות?</string>
+    <string name="currency_new_ils">שקל חדש</string>
+    <string name="currency_only_ils_account_error">אין לך מט״ח להמיר</string>
+    <string name="currency_pdf_title_text">המרת שקלים למט״ח</string>
+    <string name="currency_step2_continue">לבחירת סוג שער</string>
+    <string name="currency_step3_bye">לקנות</string>
+    <string name="currency_step3_can_add_comments">אפשר להוסיף הערה</string>
+    <string name="currency_step3_immediate_rate_text">שער מהמסחר המבוצע כעת במטבע חוץ</string>
+    <string name="currency_step3_immediate_rate_title">שער מיידי</string>
+    <string name="currency_step3_order_gate_text">שער שיקבע ע״י הבנק בסוף יום העסקים</string>
+    <string name="currency_step3_order_gate_title">שער הזמנה</string>
+    <string name="currency_step3_sell">למכור</string>
+    <string name="currency_step4_amlot_title">סכום עמלות סופי להמרת מט״ח</string>
+    <string name="currency_step4_commissions_gviya">גבייה</string>
+    <string name="currency_step4_expandable_amlot">סכום עמלות סופי להמרת מט״ח</string>
+    <string name="currency_step5_comment">הערה:</string>
+    <string name="currency_step5_left_btn">הזמנת מט״ח בטרמינל</string>
+    <string name="currency_step5_title">ההמרה בוצעה בהצלחה!</string>
+    <string name="currency_step_4_comment">הערות</string>
+    <string name="currency_step_4_dateTitle">תאריך ערך</string>
+    <string name="currency_step_4_date_rate">תאריך קביעת שער</string>
+    <string name="currency_step_4_date_rate_end">שער העסקה סופי וכולל הטבה בשיעור של</string>
+    <string name="currency_step_4_date_rate_transaction">שער העסקה</string>
+    <string name="currency_step_4_grey_view_1">שער מיידי</string>
+    <string name="currency_step_4_grey_view_timer_text">שער העסקה</string>
+    <string name="currency_step_4_hiuv_b">חיוב ב</string>
+    <string name="currency_step_4_sum_summery">סכום סופי כולל עמלות</string>
+    <string name="currency_step_4_zikui_b">זיכוי ב</string>
+    <string name="currency_up_current_currency">יתרה עדכנית</string>
+    <string name="currency_up_current_gray_header">איזה מטבע תרצה לקנות ?</string>
+    <string name="currency_upper_line_string">כמה תרצה לקנות?</string>
+    <string name="currency_upper_line_string2">כמה תרצה למכור?</string>
+    <string name="currency_upper_line_string_step3">לפי איזה שער?</string>
+    <string name="date_from_text">מתאריך</string>
+    <string name="date_to_text">עד תאריך</string>
+    <string name="default_web_client_id">947052949002-1spvpalk1bhpu33nnjl1mi2hmaije7de.apps.googleusercontent.com</string>
+    <string name="delete">מחק</string>
+    <string name="deposit_withdrawal_amount">קרן הפיקדון</string>
+    <string name="deposit_withdrawal_amount_error">אנא הקלד ערך קטן או שווה ל %1$s%2$s</string>
+    <string name="deposit_withdrawal_commission_info">לא תחוייב בעמלה על הפקדה זו</string>
+    <string name="deposit_withdrawal_disabled_comment">"הכסף יעבור אוטו' לעו\"ש"</string>
+    <string name="deposit_withdrawal_header_slot2_title">יתרת פיקדון עדכנית</string>
+    <string name="deposit_withdrawal_time">ב-%2$s ב-%1$s</string>
+    <string name="deposit_withdrawal_toolbar_title">משיכה מפיקדון</string>
+    <string name="dialog_cancel_button">סגירה</string>
+    <string name="dialog_no_internet_default_text_89">קיימת בעיית קליטה</string>
+    <string name="dialog_no_permission_default_text_88">הודעה חשובה</string>
+    <string name="dialog_save_button">שמירה</string>
+    <string name="direct_debit_commission_name">העברת כסף בהוראת קבע</string>
+    <string name="direct_debit_step5_commission_title">העברה בדיגיטל</string>
+    <string name="document">%1$s מסמך</string>
+    <string name="documents">%1$s מסמכים</string>
+    <string name="dollar_symbol">$</string>
+    <string name="download_file">הורדת הקובץ</string>
+    <string name="email">למייל</string>
+    <string name="error">קיימת תקלה זמנית בהצגת הנתונים בדף זה, אנא נסה שנית מאוחר יותר</string>
+    <string name="errorFingerprintChanged">שמנו לב ששינית את טביעת האצבע במכשירך, עליך להזדהות עם סיסמה.</string>
+    <string name="errorFingerprintDeleted">שמנו לב שמחקת את טביעת האצבע במכשירך, עליך להזדהות עם סיסמה.</string>
+    <string name="errorFingerprintNotMatch">טביעת האצבע אינה תואמת</string>
+    <string name="errorGeneral">"לא ניתן להזדהות כרגע עם טביעת האצבע.
+בבקשה הזדהה עם ססמתך."</string>
+    <string name="errorRegister">"לא הצלחנו לזהות את טביעת האצבע שלך.
+נסה שוב מאוחר יותר."</string>
+    <string name="errorRegisterAgain">"לא הצלחנו לזהות את טביעת האצבע שלך.
+עליך להרשם שוב לזיהוי באמצעות טביעת אצבע."</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="error_id">יש להקליד מס ת.ז. בעל 9 ספרות</string>
+    <string name="error_name">יש להקליד תאריך לידה</string>
+    <string name="error_no_selection">לא התבצעה בחירה</string>
+    <string name="error_num_kids">לא התבצעה בחירה</string>
+    <string name="error_spouse_birthday">יש להקליד תאריך לידה של בן/בת הזוג</string>
+    <string name="error_spouse_id">יש להקליד מס ת.ז. בעל 9 ספרות של בן/בת הזוג</string>
+    <string name="error_spouse_name">יש להקליד את שם בן/בת הזוג</string>
+    <string name="error_status">יש לבחור סטטוס</string>
+    <string name="euro_symbol">€</string>
+    <string name="exist_credit_start_pay_hint">מתי תרצה להתחיל לשלם?</string>
+    <string name="explanation_dialog_icon_content_description">תמונה של סימן שאלה</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="facebook_app_id">1990998957819645</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="file">מסמך מספר</string>
+    <string name="file_saved_in_documents_folder">הקובץ נשמר בתיקיית מסמכים</string>
+    <string name="filter_transactions_by_amount_text">לפי סכום</string>
+    <string name="filter_transactions_by_amount_until_text">עד</string>
+    <string name="filter_transactions_free_search_text">חיפוש חופשי</string>
+    <string name="filter_transactions_title">סינון</string>
+    <string name="finger_print_button_text">כניסה בטביעת אצבע</string>
+    <string name="finger_print_toolbar_subtitle">תנאי השירות</string>
+    <string name="finger_print_toolbar_title">זיהוי בטביעת אצבע</string>
+    <string name="fingerprintInstruction">הנח את האצבע על חיישן ההזדהות</string>
+    <string name="fingerprintMatch">זיהינו אותך בהצלחה</string>
+    <string name="fingerprintTitle">הזדהות עם טביעת אצבע</string>
+    <string name="fingerprint_auth_sign_in_permission_desc">Sign in with fingerprint</string>
+    <string name="fingerprint_auth_sign_in_permission_label">Fingerprint - Sign in</string>
+    <string name="fingerprint_auth_sign_up_permission_desc">Sign up to fingerprint authentication service</string>
+    <string name="fingerprint_auth_sign_up_permission_label">Fingerprint - Sign up</string>
+    <string name="finish">סיום</string>
+    <string name="finish_credit_process_text">נותר רק לאשר את תנאי ההלוואה</string>
+    <string name="finish_credit_process_title">עוד קצת וסיימנו</string>
+    <string name="firebase_database_url">https://accountmanagement-241.firebaseio.com</string>
+    <string name="for_more_info_block">למידע נוסף על תהליך פתיחת חשבון ></string>
+    <string name="for_name">עבור</string>
+    <string name="for_purpose">עבור</string>
+    <string name="forgot_my_password_id_number">מספר תעודת זהות / דרכון</string>
+    <string name="forgot_my_password_user_account">קוד משתמש</string>
+    <string name="forms_are_true">נכונים</string>
+    <string name="forms_details_on_the_account">מידע מפורט על החשבון ותנאיו:</string>
+    <string name="forms_i_agree_offers">אני מסכים/ה בזאת לקבל הצעות, מידע על הטבות, מבצעים, מוצרים ו/או שירותים חדשים, סקירות מקצועיות וכל דבר מהבנק המהווה פרסומת, באמצעים ממוכנים, כהגדרתם בחוק התקשורת (בזק ושירותים) (תיקון מספר 40), התשס״ח 2008 (להלן ״מידע״).</string>
+    <string name="forms_i_approve">אני מאשר/ת את</string>
+    <string name="forms_i_approve_details">אני מאשר/ת שהפרטים שמסרתי ומוצגים במסמך</string>
+    <string name="forms_i_approve_option_to_read">אני מאשר/ת כי ניתנה לי האפשרות לעיין connectionבמסמכים הנ״ל, הם נכונים ואני מתחייבת/ת לעמוד בהם</string>
+    <string name="forms_i_approve_the">אני מאשר/ת את ה</string>
+    <string name="forms_know_client">שאלון הכר את הלקוח</string>
+    <string name="forms_loading_view_text">רק עוד רגע... המסמכים לחתימתך נטענים</string>
+    <string name="forms_marketing_error">יש להזין מספר טלפון או מייל</string>
+    <string name="forms_marketing_to_email">למייל</string>
+    <string name="forms_marketing_to_phone">לטלפון</string>
+    <string name="forms_to_sign_desc">כל המסמכים יישלחו לתיבת המייל שלך באתר/אפליקציה של הבנק</string>
+    <string name="forms_to_sign_error">יש לאשר את כל המסמכים</string>
+    <string name="forms_to_sign_title1">צירפנו עבורך את כל המסמכים הכוללים את הפרטים שלך ותנאי החשבון החדש</string>
+    <string name="forms_to_sign_title2">אנו ממליצים לעיין בכל המסמכים אותם עליך לאשר:</string>
+    <string name="forms_your_account_awaits">",
+החשבון החדש שלך מחכה לך!"</string>
+    <string name="fp_button_approve">מאשר</string>
+    <string name="fp_button_authenticate">אשר טביעת אצבע</string>
+    <string name="fp_button_register">הרשם לשירות טביעת אצבע</string>
+    <string name="fp_state_alert_dirty_message">פשוט מנקים את החיישן ומנסים שוב</string>
+    <string name="fp_state_alert_dirty_title">החיישן לא נקי</string>
+    <string name="fp_state_alert_too_fast_message">פשוט מנסים שוב, הפעם יותר לאט</string>
+    <string name="fp_state_alert_too_fast_title">הזזת את האצבע מהר מדי</string>
+    <string name="fp_state_error_title">משהו השתבש בזיהוי</string>
+    <string name="fp_title_state_alert_change_configured_message">להשלמת התהליך נדרשת כניסה חד פעמית עם קוד משתמש וסיסמה</string>
+    <string name="fp_title_state_alert_change_configured_title">ראינו שמשהו השתנה בהגדרות טביעת האצבע</string>
+    <string name="fp_title_state_alert_new_configured_message">להשלמת התהליך נדרשת כניסה חד פעמית עם קוד משתמש וסיסמה</string>
+    <string name="fp_title_state_alert_new_configured_title">ראינו שנוספה טביעת אצבע חדשה</string>
+    <string name="fp_title_state_alert_no_match_message">יש להקליד את פרטי הזיהוי שלך</string>
+    <string name="fp_title_state_alert_no_match_title">טביעת אצבע אינה תואמת לטביעת האצבע המוגדרת במכשיר</string>
+    <string name="fp_title_state_alert_not_configured_message">קפיצה קטנה ל״הגדרות״ והפעלה של ״סריקת טביעת אצבע״ ו… זהו!</string>
+    <string name="fp_title_state_alert_slow_message">פשוט מנסים שוב, הפעם יותר מהר</string>
+    <string name="fp_title_state_alert_slow_title">הזזת את האצבע בצורה איטית מדי</string>
+    <string name="fp_title_state_success_title">טביעת האצבע זוהתה בהצלחה!</string>
+    <string name="from_new_account">מהחשבון החדש</string>
+    <string name="from_other_account">מחשבון אחר</string>
+    <string name="gcm_defaultSenderId">947052949002</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="general_0">0</string>
+    <string name="general_1">1</string>
+    <string name="general_2">2</string>
+    <string name="general_2_place_holder">%1$s %2$s</string>
+    <string name="general_3">3</string>
+    <string name="general_4">4</string>
+    <string name="general_account_to_charge">חשבון לחיוב</string>
+    <string name="general_adapter_amount">סכום התנועה</string>
+    <string name="general_adapter_date">תנועה בתאריך</string>
+    <string name="general_adapter_difference">יתרה</string>
+    <string name="general_adapter_name">שם התנועה</string>
+    <string name="general_add_news">הוסף חדש</string>
+    <string name="general_almost_done_text">כמעט סיימנו…</string>
+    <string name="general_approve">אישור</string>
+    <string name="general_approve_and_continue">אשר והמשך</string>
+    <string name="general_attention">לתשומת ליבך</string>
+    <string name="general_back">חזור</string>
+    <string name="general_balance">עובר ושב</string>
+    <string name="general_cancel">ביטול</string>
+    <string name="general_charge_more">טעינה נוספת</string>
+    <string name="general_close">סגירה</string>
+    <string name="general_comment">הערה</string>
+    <string name="general_commission_title">לפירוט עמלות</string>
+    <string name="general_contacts">אנשי קשר</string>
+    <string name="general_continue">המשך</string>
+    <string name="general_continue_may">אפשר להמשיך</string>
+    <string name="general_date_to_charge">תאריך חיוב החשבון</string>
+    <string name="general_deposits_page">עמוד פקדונות</string>
+    <string name="general_error_dialog_title">יש לך שאלה? יש לנו תשובה!</string>
+    <string name="general_extra_info">מידע נוסף</string>
+    <string name="general_finish">סיום</string>
+    <string name="general_first_var_second_var">%1$s %2$s</string>
+    <string name="general_first_var_second_var_middle">%1$s-%2$s</string>
+    <string name="general_full_name">שם מלא</string>
+    <string name="general_i_want_to_start">אני רוצה להתחיל</string>
+    <string name="general_id">תעודת זהות</string>
+    <string name="general_id_number">מספר תעודת זהות</string>
+    <string name="general_lottie_success_anim_content_description">אנימציית סיום</string>
+    <string name="general_main_button">ראשי</string>
+    <string name="general_my_account">החשבון שלי</string>
+    <string name="general_name_and_last_name">שם פרטי ושם משפחה</string>
+    <string name="general_nis_symbol">₪</string>
+    <string name="general_no">לא</string>
+    <string name="general_osh_slot1_title">יתרת עו״ש</string>
+    <string name="general_osh_slot2_title">יתרה נוכחית בכרטיס</string>
+    <string name="general_other">אחר</string>
+    <string name="general_passport">דרכון</string>
+    <string name="general_passport_number">מספר דרכון</string>
+    <string name="general_percentage">"%1$s%% "</string>
+    <string name="general_popup_check_number_title">מספר צ׳ק</string>
+    <string name="general_popup_check_sum_title">סכום</string>
+    <string name="general_popup_left">שיתוף</string>
+    <string name="general_popup_right">עובר ושב</string>
+    <string name="general_same_transaction_title">תנועות דומות</string>
+    <string name="general_search">חיפוש</string>
+    <string name="general_send">שליחה</string>
+    <string name="general_setting">הגדרות</string>
+    <string name="general_setting_gender">פנו אלי בתור</string>
+    <string name="general_share">שיתוף</string>
+    <string name="general_side_by_side">" %1$s%2$s"</string>
+    <string name="general_terms_mail">תנאי משלוח</string>
+    <string name="general_tips">עוד טיפים</string>
+    <string name="general_updates">עדכונים</string>
+    <string name="general_yes">כן</string>
+    <string name="generic_dialog_default_title">הודעה חשובה</string>
+    <string name="go_to_capital_market_app_text">אפליקציית שוק ההון</string>
+    <string name="go_to_web">בלחיצה על כפתור אישור, תועבר לאתר חיצוני</string>
+    <string name="google_api_key">AIzaSyCFnFS9ePeSMpWtMFuI3Ht3M64Kd2k8LaM</string>
+    <string name="google_app_id">1:947052949002:android:86421e88e05e5e4b</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCFnFS9ePeSMpWtMFuI3Ht3M64Kd2k8LaM</string>
+    <string name="google_storage_bucket">accountmanagement-241.appspot.com</string>
+    <string name="green_credit_abandonment_frag_back_to_agreement_title">חזרה להסכם</string>
+    <string name="green_credit_abandonment_frag_cancel_button">ביטול הבקשה</string>
+    <string name="green_credit_abandonment_frag_sub_title">מצטערים, אבל ללא הסכמתך לא נוכל להתקדם בתהליך הגשת הבקשה</string>
+    <string name="green_credit_abandonment_frag_title">נדרשת הסכמתך</string>
+    <string name="green_credit_accessibility_mortgage1">כמה אתה מחזיר משכנתא לחודש</string>
+    <string name="green_credit_accessibility_rent1">מה גובה השכירות לחודש</string>
+    <string name="green_credit_accessibility_repayment">החזר את ההלוואה בין</string>
+    <string name="green_credit_account_succses_title">הועברו בהצלחה לחשבונך</string>
+    <string name="green_credit_agreement_client_form">טופס הסכמת לקוח למסירת נתוני אשראי לגביו לנותן אשראי לפי תקנה 5 לתקנות נתוני אשראי, התשע״ח 2017:</string>
+    <string name="green_credit_agreement_executed_expire">ואם העסקה תצא לפועל עד</string>
+    <string name="green_credit_agreement_executed_expire_note">ולא יאוחר ממועד סיום עסקת האשראי</string>
+    <string name="green_credit_agreement_expire">הסכמתי זו תעמוד בתוקפה עד תאריך</string>
+    <string name="green_credit_agreement_explanation">לפני שממשיכים, אנחנו מבקשים את הסכמתך לכך שנקבל ממאגר נתוני האשראי, שמופעל ע״י בנק ישראל, נתוני אשראי לגביך. הסכמתך לקבלת הנתונים תסייע לנו לבחון את הבקשה שלך ואת האפשרות להתאים לך את תנאי הצעת האשראי.</string>
+    <string name="green_credit_approval_btn">להסכם ההלוואה</string>
+    <string name="green_credit_approval_legal_txt">ניתן להשלים את הבקשה עד ה- %1$s בתנאי שלא יתקבל מידע שעלול למנוע את אישור ההלוואה</string>
+    <string name="green_credit_approval_sub_title">"רגע לפני שמסיימים,חשוב לבדוק
+שכל הפרטים נכונים"</string>
+    <string name="green_credit_back_button">חזור</string>
+    <string name="green_credit_brunch_approval_btn">העברת הבקשה לבנקאי</string>
+    <string name="green_credit_brunch_approval_legal_txt">אם הבקשה תאושר תוכל להשלים את התהליך תוך 10 ימים קלנדריים, בתנאי שלא יתקבל מידע שיצדיק את ביטול האישור</string>
+    <string name="green_credit_brunch_car_succses_title">בקשתך להלוואה הועברה לבנקאי</string>
+    <string name="green_credit_brunch_succses_title">"בקשתך להלוואה
+הועברה לבנקאי"</string>
+    <string name="green_credit_brunch_title">רגע לפני שהבקשה עוברת לבנקאי, חשוב לבדוק שכל הפרטים נכונים</string>
+    <string name="green_credit_button_close">סגור</string>
+    <string name="green_credit_can_select_between">ניתן לבקש בין %1$s ל-%2$s ש״ח</string>
+    <string name="green_credit_checking_request_title">"במסגרת חוק נתוני אשראי,
+הבנק בודק את פרטי
+ בקשתך להלוואה"</string>
+    <string name="green_credit_credit_loan_amount_title">כמה כסף יעזור לך</string>
+    <string name="green_credit_credit_type_title">איזו הלוואה מתאימה לך?</string>
+    <string name="green_credit_exist_credit_more_transactions">עסקאות נוספות</string>
+    <string name="green_credit_exist_credit_more_transactions_hint">מועד סיום העסקאות הקיימות</string>
+    <string name="green_credit_exist_credit_transactions">עסקאות אשראי קיימות</string>
+    <string name="green_credit_loan_occupation_business_title">מה הותק שלך במקום העבודה?</string>
+    <string name="green_credit_loan_occupation_title">מהו הותק בעיסוק הנוכחי שלך?</string>
+    <string name="green_credit_loan_sub_title">מהי ההכנסה העיקרית שלך?</string>
+    <string name="green_credit_loan_title">בקשת הלוואה</string>
+    <string name="green_credit_loan_title_partner_female">אם אינך בטוחה, הבקשה תועבר לבחינה של בנקאי</string>
+    <string name="green_credit_loan_title_partner_male">אם אינך בטוח, הבקשה תועבר לבחינה של בנקאי</string>
+    <string name="green_credit_more_deals">עסקאות נוספות</string>
+    <string name="green_credit_more_language">קריאה בשפות נוספות</string>
+    <string name="green_credit_new_back_button">חזרה</string>
+    <string name="green_credit_new_credit_more_transactions_hint">מועד סיום העסקאות החדשות</string>
+    <string name="green_credit_new_credit_transaction">עסקת אשראי חדשה</string>
+    <string name="green_credit_not_sure_btn_male">לא בטוח, להעברת הבקשה לבנקאי</string>
+    <string name="green_credit_osh_slot1_title">יתרת עו״ש עדכנית</string>
+    <string name="green_credit_osh_slot2_title">מסגרת עו״ש</string>
+    <string name="green_credit_osh_slot_error">לא זמינה כרגע</string>
+    <string name="green_credit_partner_step4_title">"מהו כרטיס האשראי
+העיקרי של אייל?"</string>
+    <string name="green_credit_renew_credit_bounds">מססגרת אשראי מתחדשת</string>
+    <string name="green_credit_step1_sub_title">לפני כן, כמה שאלות קצרות</string>
+    <string name="green_credit_step1_sub_title_partner">לפני כן, כמה שאלות קצרות על כל בעלי החשבון</string>
+    <string name="green_credit_step1_title">יתכן שמגיעה לך הלוואה מיידית</string>
+    <string name="green_credit_step3_subtitle_apartment">יש דירה בבעלותי</string>
+    <string name="green_credit_step3_subtitle_apartment_accessibility">יש דירה בבעלותי</string>
+    <string name="green_credit_step3_subtitle_apartment_accessibility_selected">יש דירה בבעלותי נבחר</string>
+    <string name="green_credit_step3_subtitle_mortgage">יש לי משכנתא</string>
+    <string name="green_credit_step3_subtitle_other">דיור אחר</string>
+    <string name="green_credit_step3_subtitle_other_accessibility">דיור אחר</string>
+    <string name="green_credit_step3_subtitle_other_accessibility_selected">דיור אחר נבחר</string>
+    <string name="green_credit_step3_subtitle_rent">אני משלם שכירות</string>
+    <string name="green_credit_step3_subtitle_rent_accessibility">אני משלם שכירות</string>
+    <string name="green_credit_step3_subtitle_rent_accessibility_selected">אני משלם שכירות נבחר</string>
+    <string name="green_credit_step3_title">מה לגבי דיור?</string>
+    <string name="green_credit_step4_subtitle_bank">מופיע עליו לוגו של בנק</string>
+    <string name="green_credit_step4_subtitle_direct">מחייב את החשבון מיידית על כל רכישה</string>
+    <string name="green_credit_step4_subtitle_outer">לא מופיע עליו לוגו של בנק</string>
+    <string name="green_credit_step4_title">"מהו כרטיס האשראי
+העיקרי שלך?"</string>
+    <string name="green_credit_step5_title">אני מבקש כסף בשביל</string>
+    <string name="green_credit_step7_approve">מאשר</string>
+    <string name="green_credit_step7_btn_title">להסכם ההלוואה</string>
+    <string name="green_credit_step7_dialog_sub_title">הבקשה הפתוחה תופיע בעולם ההלוואות</string>
+    <string name="green_credit_step7_dialog_title">האם לשמור את הבקשה עד סוף יום העסקים?</string>
+    <string name="green_credit_step7_not_approved">לא מאשר</string>
+    <string name="green_credit_step7_not_now">לא כרגע</string>
+    <string name="green_credit_step7_title">הסכם ההלוואה</string>
+    <string name="hanna_title">הודעה בנוגע לחיווי אשראי</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="helpDirty">חיישן טביעת האצבע מלוכלך</string>
+    <string name="helpFast">הזזה מהירה מדי של האצבע</string>
+    <string name="helpInsufficient">טביעת האצבע לא ניתנת לעיבוד</string>
+    <string name="helpPartial">טביעת האצבע זוהתה חלקית</string>
+    <string name="helpSlow">הזזה איטית מדי של האצבע</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="how_much_money_title">"כמה כסף יעזור לך
+"</string>
+    <string name="i_got_it">הבנתי</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="image">תמונה</string>
+    <string name="inactive">לא פעיל</string>
+    <string name="intro_all_info_screen_sub_title">יתרות, פעולות ותנועות</string>
+    <string name="intro_all_info_screen_top_title">"כל המידע
+במקום אחד"</string>
+    <string name="intro_fast_easy_screen_sub_title">"עובר ושב, כרטיסי אשראי
+ופיקדונות"</string>
+    <string name="intro_fast_easy_screen_top_title">"ניווט קל
+ומהיר"</string>
+    <string name="intro_finish_screen_sub_title">"רצינו להציע לך להתחבר
+בדרך קלה ומהירה יותר"</string>
+    <string name="intro_finish_screen_top_title">"רגע לפני
+שנתחיל"</string>
+    <string name="intro_personal_screen_sub_title">"גישה מהירה לפעולות
+הנפוצות שלך"</string>
+    <string name="intro_personal_screen_top_title">"התאמה
+אישית"</string>
+    <string name="intro_welcome_screen_title">"יש לנו אפליקציה חדשה!
+שנצא לסיור קצר?"</string>
+    <string name="intro_welcome_screen_title_accessibility">שימו לב! חלק מהמסכים, התפריטים והכפתורים השתנה. עשינו מאמצים גדולים להנגיש את כל המידע, התכנים והפעולות באפליקציה, אך ייתכן שתידרש תקופת הסתגלות לשינויים. נשמח לקבל פידבקים בנושא נגישות לכתובת המייל mailbox.negishut@poalim.co.il</string>
+    <string name="iterest_title">ריבית מתואמת</string>
+    <string name="landscape_dialog_2007">לא ניתן להפקיד צ׳ק בסכום גבוה מ %@</string>
+    <string name="landscape_dialog_2008">לא ניתן להפקיד מעל ל %@ בסהכ</string>
+    <string name="legal">"מקובל עלי שכחלק מהתהליך,
+תבדקו את הפרטים שלי
+במאגרי מידע חיצוניים"</string>
+    <string name="legal_text_minus">בעת לקיחת ההלוואה יש לבחון כדאיות לקיחתה וזאת בהתייחס לקיומן של יתרות זכות וחובה וכן נכסים והתחייבויות אחרים, והריבית המשולמת/המתקבלת בגינם, ככל שישנם כאלה. שיעור ריבית החובה בגין הלוואה גבוה משיעור ריבית הזכות בגין הפקדת הפיקדון.</string>
+    <string name="legal_text_minus_tribe">טרם לקיחת ההלוואה, בחן את כדאיות לקיחתה בהתחשב בכל יתרות הזכות והחובה, הנכסים וההתחייבויות, כולל הריבית המתקבלת או משולמת עליהם. שים לב כי שיעור ריבית החובה בגין ההלוואה גבוה משיעור ריבית הזכות בגין הפקדת הפיקדון.</string>
+    <string name="legal_text_targets">באפשרותך לבקש הלוואה למטרות הנ״ל בלבד. לא ניתן לבקש הלוואה לצורך רכישת ניירות ערך.</string>
+    <string name="less_than_year">"עד
+שנה"</string>
+    <string name="loan_amount_description">בכמה חודשים תרצה להחזיר את ההלוואה?</string>
+    <string name="loan_amount_iterest_title">שיעור הריבית על קרן ההלוואה</string>
+    <string name="loan_amount_split_title">סכום משוער מהתשלום השני ואילך</string>
+    <string name="loan_amount_split_title_first">סכום התשלום החודשי הראשון</string>
+    <string name="loan_open_more_options_accessibility">לפתיחת אפשרויות נוספות</string>
+    <string name="loan_open_more_options_selected_accessibility">הוצגו אפשרויות נוספות</string>
+    <string name="loan_period_description">%2$s - %1$s %3$s</string>
+    <string name="loan_repayment_agreement_download">לחץ להורדת הסכם פרעון ההלוואה - הסכם הפרעון יישמר בתיקיית מסמכים</string>
+    <string name="loan_repayment_date_selection">התאריך שנבחר לפרעון ההלוואה</string>
+    <string name="loan_repayment_display_repay">לחץ לפרעון ההלוואה</string>
+    <string name="loan_repayment_display_view_details">לחץ לצפייה בפרטי ההלוואה</string>
+    <string name="loan_repayment_explanation1">"הכסף יעבור אליך רק לאחר שנקבל הרשאה לחיוב.
+תוכל להקים את ההרשאה באתר הבנק שלך או
+במכשירים לשירות עצמי."</string>
+    <string name="loan_repayment_explanation2">עליך לוודא שתהיה יתרה בחשבון על מנת לשלם את ההחזר החודשי של ההלוואה. מרגע זה החשבון ייחשב כפעיל.</string>
+    <string name="loan_repayment_partial_selection">לחץ לבחירת</string>
+    <string name="loan_repayment_slot2_title">יתרת ההלוואה</string>
+    <string name="loan_repayment_title">"מאיזה חשבון נוח לך
+להחזיר את ההלוואה?"</string>
+    <string name="loans_world_existing_loans_title">הלוואות קיימות</string>
+    <string name="loans_world_immediate_credit">להגשת בקשת הלוואה עד %1$s</string>
+    <string name="loans_world_next_payment_date">ב-%1$s</string>
+    <string name="loans_world_requested_loans_title">בקשות להלוואה</string>
+    <string name="loans_world_status_loan_loan_period">%1$s חודשים</string>
+    <string name="login_continue">כניסה לחשבון</string>
+    <string name="login_finger">הרשמה עם טביעת אצבע</string>
+    <string name="login_forgot_password">שכחתי סיסמה</string>
+    <string name="login_good_morning">"בוקר טוב, 
+ שמחים שבאת"</string>
+    <string name="login_intro_waiting_str">"הכניסה האחרונה שלך
+הייתה ב-%2$s, %1$s"</string>
+    <string name="login_not_bank_account_text">לפתיחת חשבון או לקיחת הלוואה,</string>
+    <string name="login_not_bank_account_text_2">יש להוריד אפליקציית open</string>
+    <string name="login_not_bank_account_title">לא לקוח הבנק?</string>
+    <string name="login_password_btn_explanation_text">יש להקליד לפחות 8 תווים</string>
+    <string name="login_password_enter">הרשמה עם סיסמא בלבד</string>
+    <string name="login_validation">1234567890QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm!</string>
+    <string name="logout_from_app">התנתק</string>
+    <string name="mail_net">דואר-נט</string>
+    <string name="marketing_mail_registration_title">קבלת מידע שיווקי</string>
+    <string name="marketing_mail_registration_wizard_header_title">לאן לשלוח לך מידע שיווקי</string>
+    <string name="marketing_mail_registration_wizard_negative_btn">לא מעוניין</string>
+    <string name="marketing_mail_registration_wizard_positive_btn">כן, אני רוצה</string>
+    <string name="middle">אני באמצע תהליך</string>
+    <string name="mobile_poll_key_already_answered">תשובתך לסקר הזה</string>
+    <string name="mobile_poll_key_end">אנו מודים לך על שיתוף הפעולה</string>
+    <string name="moment_credit_astrix_text">"רגע לפני שהכסף אצלך, חשוב לבדוק
+שכל הפרטים נכונים"</string>
+    <string name="moment_credit_brunch_title">%1$s, בקשתך להלוואה אושרה!</string>
+    <string name="moment_credit_edit_text">"המספר ישמש אותנו לשליחת הודעות SMS או להתקשרות
+טלפונית רק בנושא הלוואה"</string>
+    <string name="month">חודשים</string>
+    <string name="months">חודשים</string>
+    <string name="more_targets">למטרות נוספות</string>
+    <string name="mortgage_world_id">מסלול %1$s</string>
+    <string name="mortgage_world_type">%1$s, %2$s</string>
+    <string name="mtrl_badge_numberless_content_description">New notification</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
+    <string name="mtrl_picker_date_format_without_year">MMM dd</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Select a Date</string>
+    <string name="mtrl_picker_date_header_unselected">Selected date</string>
+    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_invalid_format">"Invalid format.
+Use: %1$s"</string>
+    <string name="mtrl_picker_invalid_range">Invalid range.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$s</string>
+    <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Select a Date Range</string>
+    <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
+    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_text_input_date_format">MM/dd/yyyy</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to selecting a day</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
+    <string name="nc_access_blocked_more_details">"ימים א׳-ה׳ בין השעות 08:00-19:00
+יום ו׳ וערבי חג עד השעה 13:00"</string>
+    <string name="nc_access_blocked_subtitle">במידת הצורך, בנקאי שלנו מחכה לסייע לך</string>
+    <string name="nc_access_blocked_subtitle_tel">"במידת הצורך, בנקאי שלנו מחכה
+לסייע לך במוקד הטלפוני"</string>
+    <string name="nc_access_blocked_title">"הגישה שלך נחסמה ל-24 שעות. 
+נשמח לראות אותך מחר"</string>
+    <string name="nc_approval_sub_title">"ניתן להשלים את הבקשה עד ה-%1$s
+בתנאי שלא יתקבל מידע אשר עלול למנוע
+את אישור ההלוואה ובכפוף להשלמת התהליך"</string>
+    <string name="nc_banker_waiting_subtitle">"אחד הבנקאים שלנו ישמח לקבוע לך פגישה
+בסניף ולהעביר אליך את הכסף שביקשת"</string>
+    <string name="nc_banker_waiting_title">בנקאי שלנו מחכה לך</string>
+    <string name="nc_banker_waiting_to_finish">הבנקאים שלנו מחכים לסיים אתך את התהליך</string>
+    <string name="nc_before_18_age">ראינו שעוד לא חגגת 18</string>
+    <string name="nc_calculator_interest">ריבית %%1$f (פריים+ %%2$f)</string>
+    <string name="nc_calculator_tax_desc">"הריבית מורכבת מריבית פריים משתנה (ריבית
+הבסיס של בנק ישראל פלוס המרווח שנקבע על ידי
+הבנקים) פלוס ריבית קבועה של"</string>
+    <string name="nc_calculator_title">"%1$s, אלו תנאי
+ההלוואה שניתן לבקש"</string>
+    <string name="nc_calculator_until">ההצעה תקפה עד ה-%1$s</string>
+    <string name="nc_calculator_until_text">"ניתן להשלים את הבקשה עד ה-%1$s
+בתנאי שלא יתקבל מידע אשר עלול למנוע
+את אישור ההלוואה ובכפוף להשלמת התהליך"</string>
+    <string name="nc_call_banker">שיחה עם בנקאי</string>
+    <string name="nc_cancellation_other_reason">סיבה אחרת? ספרו לנו</string>
+    <string name="nc_cancellation_reason_limit">עד 250 תווים</string>
+    <string name="nc_cancellation_sub_title">אנחנו רוצים להשתפר וחשוב לנו לשמוע אותך</string>
+    <string name="nc_cancellation_title">"עברנו דרך ביחד, נשמח להבין
+ למה נפרדות דרכינו?"</string>
+    <string name="nc_cant_offer_loan">לצערנו, לא נוכל להציע לך הלוואה כרגע</string>
+    <string name="nc_change_amount_text">"הכוונה להערכה בלבד. תוכל לעדכן את
+סכום ההחזר החודשי בהמשך"</string>
+    <string name="nc_checking_request_disclaimer">חשוב לדעת, הבנק יכול לאשר או לסרב לבקשת ההלוואה או לחלק ממנה</string>
+    <string name="nc_checking_request_msg">"אנחנו בודקים את הבקשה שלך.
+ייקח לנו בערך דקה למצוא לך הלוואה"</string>
+    <string name="nc_checking_request_thank_you">תודה, %1$s</string>
+    <string name="nc_close">סגור</string>
+    <string name="nc_credit_cards_title">"מהו כרטיס האשראי
+העיקרי שלך?"</string>
+    <string name="nc_dialog_open_another_account_subtitle1">"במידה והבקשה תאושר עליך
+לפתוח חשבון נוסף בסניפך"</string>
+    <string name="nc_dialog_open_another_account_subtitle2">ניתן להגיש בקשה להלוואה בחשבון</string>
+    <string name="nc_dialog_open_another_account_title">"%1$s, לתשומת ליבך חשבונך אינו
+מתאים לקבל הלוואה בדיגיטל"</string>
+    <string name="nc_dialog_q_and_a_title">יש לך שאלה ? יש לנו תשובה !</string>
+    <string name="nc_dialog_remove_selected_file_message">האם להסיר את התמונה ?</string>
+    <string name="nc_dialog_remove_selected_file_title">הסרת תמונה</string>
+    <string name="nc_dialog_why_are_you_leaving_edittext_hint">סיבה אחרת? ספרו לנו</string>
+    <string name="nc_dialog_why_are_you_leaving_subtitle">אנחנו רוצים להשתפר וחשוב לנו לשמוע אותך</string>
+    <string name="nc_dialog_why_are_you_leaving_title">"עברנו דרך ביחד, נשמח להבין
+למה נפרדות דרכינו?"</string>
+    <string name="nc_file_ext">.%1$s</string>
+    <string name="nc_file_size">%1$s MB</string>
+    <string name="nc_getting_service_at_the_hotline">במוקד ישמחו לענות לך בטלפון 2409*</string>
+    <string name="nc_guard_title">"חשוב לנו לוודא שבאמת מדובר בך
+הכרטיס אשראי לא יחוייב בשום שלב"</string>
+    <string name="nc_happy_to_meet_you">נשמח להכיר אותך</string>
+    <string name="nc_happy_you_are_back_subtitle">להמשך התהליך בנקודה שעצרת</string>
+    <string name="nc_happy_you_are_back_title">שמחים שחזרת</string>
+    <string name="nc_happy_you_are_back_what_is_your_id">מה מספר תעודת הזהות שלך?</string>
+    <string name="nc_have_account_btn">כניסה לחשבון</string>
+    <string name="nc_have_account_description">"ניתן להיכנס לחשבון על מנת להתחיל
+ את תהליך בקשת הלוואה"</string>
+    <string name="nc_have_account_take_loan_title">"כדי לממש את ההלוואה
+יש להכנס לחשבון הבנק שלך"</string>
+    <string name="nc_have_account_title">"יש לך כבר
+חשבון אצלנו"</string>
+    <string name="nc_housing_subtitle">ניתן לבצע יותר מבחירה אחת</string>
+    <string name="nc_housing_title">מה לגבי דיור?</string>
+    <string name="nc_id_desc">9 ספרות כולל ספרת ביקורת</string>
+    <string name="nc_income_alimony_edit_text_accessibility">סכום הכנסה מהכנסה מזונות</string>
+    <string name="nc_income_insurance">מביטוח לאומי / קיצבה</string>
+    <string name="nc_income_insurance_accessibility">מביטוח לאומי / קיצבה</string>
+    <string name="nc_income_insurance_accessibility_selected">מביטוח לאומי / קיצבה נבחר</string>
+    <string name="nc_income_insurance_edit_text_accessibility">סכום הכנסה מביטוח לאומי / קיצבה</string>
+    <string name="nc_income_other">מהכנסה אחרת / ממזונות</string>
+    <string name="nc_income_other_accessibility">מהכנסה אחרת / מזונות</string>
+    <string name="nc_income_other_accessibility_selected">מהכנסה אחרת / מזונות נבחר</string>
+    <string name="nc_income_other_edit_text_accessibility">סכום הכנסה מהכנסה אחרת</string>
+    <string name="nc_income_rent">משכר דירה</string>
+    <string name="nc_income_rent_accessibility">משכר דירה</string>
+    <string name="nc_income_rent_accessibility_selected">משכר דירה נבחר</string>
+    <string name="nc_income_rent_edit_text_accessibility">סכום הכנסה משכר דירה</string>
+    <string name="nc_income_salary">ממשכורת / פנסיה</string>
+    <string name="nc_income_salary_accessibility">משכורת</string>
+    <string name="nc_income_salary_accessibility_selected">משכורת נבחר</string>
+    <string name="nc_income_salary_edit_text_accessibility">סכום הכנסה ממשכורת</string>
+    <string name="nc_income_salary_hint">משכורת נטו לפי תלוש האחרון</string>
+    <string name="nc_income_salary_independent">מהכנסה / פנסיה</string>
+    <string name="nc_income_salary_independent_camera">צלם עכשיו את אישור ההכנסה או אחר כך</string>
+    <string name="nc_income_salary_independent_hint">הכנסה נטו לפי האישור האחרון</string>
+    <string name="nc_income_salary_spouse_edit_text_accessibility">סכום הכנסה בתבן זוג ממשכורת</string>
+    <string name="nc_income_title">כמה כסף נכנס בכל חודש?</string>
+    <string name="nc_intro2_camera_text">מצלמה ומיקרופון תקינים</string>
+    <string name="nc_intro2_card_text">כרטיס אשראי בתוקף</string>
+    <string name="nc_intro2_disclaimer">"מסירת המידע אינה חובה ותלויה ברצונך ובהסכמתך.
+כל עוד לא פתחת חשבון, נשמור את המידע רק לצורך
+התהליך."</string>
+    <string name="nc_intro2_id_text">תעודת זהות</string>
+    <string name="nc_intro2_pay_text">תלוש משכורת / אישור הכנסה</string>
+    <string name="nc_intro2_title">"מה נדרש להכין
+לבקשת הלוואה?"</string>
+    <string name="nc_intro_disclaimer">"לתשומת לבך, כדאי לקחת את ההלוואה רק אם
+באפשרותך לעמוד בהחזרים. אי עמידה בפירעון ההלוואה
+עלול לגרום חיוב בריבית פיגורים והליכי הוצאה לפועל."</string>
+    <string name="nc_intro_first_bullet_text">נכיר אותך</string>
+    <string name="nc_intro_fourth_bullet_text">"נעביר לך את הכסף לאחר
+אישור ההלוואה"</string>
+    <string name="nc_intro_second_bullet_text">נציע לך את ההלוואה המתאימה ביותר</string>
+    <string name="nc_intro_subtitle">עד ₪50,000 ב60 תשלומים.</string>
+    <string name="nc_intro_third_bullet_subtext">כולל חתימת הסכם הלוואה</string>
+    <string name="nc_intro_third_bullet_text">נפתח לך חשבון בסניף</string>
+    <string name="nc_intro_title">"הלוואה בדיגיטל זה פשוט,
+בטוח וקל!"</string>
+    <string name="nc_legal">"מקובל עלי שכחלק מהתהליך,
+תבדקו את הפרטים שלי
+במאגרי מידע חיצוניים"</string>
+    <string name="nc_less_than_year">"עד
+שנה"</string>
+    <string name="nc_loading_text">"גם בהלוואות,
+פועלים איתך בכל החלטה"</string>
+    <string name="nc_loan_amount_max_per_month">"מה הסכום החודשי המקסימלי
+שתוכל להחזיר?"</string>
+    <string name="nc_loan_split_amount">תוך כמה חודשים תוכל להחזיר את ההלוואה?</string>
+    <string name="nc_loan_summary_approval_legal_txt">"ניתן להשלים את הבקשה עד ה-%1$s
+ בתנאי שלא יתקבל מידע שעלול למנוע
+את אישור ההלוואה ובכפוף להשלמת התהליך"</string>
+    <string name="nc_loan_summary_interest_explanation_text">איך נקבעת הריבית?</string>
+    <string name="nc_loan_summary_title">"%1$s, אלו פרטי ההלוואה
+שניתן להגיש"</string>
+    <string name="nc_more">יותר</string>
+    <string name="nc_more_about_you_kids">יש ילדים, עד גיל 19?</string>
+    <string name="nc_more_about_you_kids_edit_text">אנא הזן מספר ילדים עד 99</string>
+    <string name="nc_more_about_you_kids_more">יש לי יותר ילדים עד גיל 19?, לפתיחת הקלדה חופשית</string>
+    <string name="nc_more_about_you_kids_no">אין לי ילדים, עד גיל 19?</string>
+    <string name="nc_more_about_you_kids_one">יש לי ילד, עד גיל 19?</string>
+    <string name="nc_more_about_you_kids_three">יש לי 3 ילדים, עד גיל 19?</string>
+    <string name="nc_more_about_you_kids_two">יש לי 2 ילדים, עד גיל 19?</string>
+    <string name="nc_more_about_you_spouse">נשוי למי?</string>
+    <string name="nc_more_about_you_spouse2">עם מי?</string>
+    <string name="nc_more_about_you_spouse_birth_date">מה תאריך הלידה?</string>
+    <string name="nc_more_about_you_spouse_id">מה מספר תעודת הזהות?</string>
+    <string name="nc_more_about_you_spouse_id_accessibility">מה מספר תעודת הזהות?</string>
+    <string name="nc_more_about_you_status">מה הסטטוס שלך?</string>
+    <string name="nc_more_about_you_title">עוד קצת עליך</string>
+    <string name="nc_more_about_you_what_is_your_date_of_birth">מתי נולדת?</string>
+    <string name="nc_more_about_you_what_is_your_id">מה מספר תעודת הזהות שלך?</string>
+    <string name="nc_nis">₪</string>
+    <string name="nc_no_mortgage">אין משכנתא</string>
+    <string name="nc_nominal_amount">הריבית מורכבת מריבית פריים משתנה (ריבית הבסיס של בנק ישראל פלוס המרווח שנקבע על ידי הבנקים) פלוס הריבית קבועה של</string>
+    <string name="nc_none">אין</string>
+    <string name="nc_not_approved_proceed_button">הבנתי, לסגירת האפליקציה</string>
+    <string name="nc_not_approved_sub_title">נשמח לעזור לך באחד מסניפי הבנק</string>
+    <string name="nc_not_approved_title_canot_give">לא נוכל לתת לך הלוואה בדיגיטל</string>
+    <string name="nc_not_approved_title_sorry">מצטערים</string>
+    <string name="nc_number_of_hotline">*2409</string>
+    <string name="nc_ok_close_app">אוקי, הבנתי</string>
+    <string name="nc_open_account_subtitle">הבנקאים שלנו מחכים לסיים אתך את התהליך</string>
+    <string name="nc_open_account_title">"כדי לממש את ההלוואה נדרש
+לפתוח חשבון בנק"</string>
+    <string name="nc_open_another_account_in_your_branch">"כדי לממש את ההלוואה
+יש לפתוח חשבון נוסף בסניפך"</string>
+    <string name="nc_open_another_account_title">"חשבונך אינו מתאים
+לקבלת הלוואה בדיגיטל"</string>
+    <string name="nc_open_close_branch">לאיתור הסניף הקרוב לביתך</string>
+    <string name="nc_open_time">"בימים א׳-ה׳ בין השעות 08:00-19:00
+יום ו׳ וערבי חג 08:00-13:30"</string>
+    <string name="nc_other_loans_first_edittext">הסכום שנותר לך להחזיר, בערך?</string>
+    <string name="nc_other_loans_no_loans_button_text">אין לי הלוואות</string>
+    <string name="nc_other_loans_second_edittext">כמה בכל חודש, פחות או יותר?</string>
+    <string name="nc_other_loans_subtitle">יש לכלול עבור כל משק הבית, לא כולל משכנתא</string>
+    <string name="nc_other_loans_title">יש הלוואות נוספות?</string>
+    <string name="nc_payroll_add_pay_check">צרף תלוש משכורת</string>
+    <string name="nc_payroll_disclaimer">"נשמור את תלוש המשכורת
+רק לצורך התהליך"</string>
+    <string name="nc_payroll_subtitle">כדי להשלים את הבקשה שלך, נצטרך צילום של תלוש המשכורת האחרון על מנת לוודא שביכולתך לעמוד בהחזר ההלוואה.</string>
+    <string name="nc_payroll_title">כמעט סיימנו</string>
+    <string name="nc_payroll_title_files">תלושי משכורת</string>
+    <string name="nc_per_month">לחודש</string>
+    <string name="nc_phone_will_be_used">המספר ישמש אותנו לשליחת הודעות SMS או התקשרות טלפונית רק בנושא ההלוואה ופתיחת חשבון</string>
+    <string name="nc_preview_selected_file">לצפיה בתמונה שהעלית</string>
+    <string name="nc_request_declined_subtitle">נשמח לעזור לך באחד מסניפי הבנק</string>
+    <string name="nc_request_declined_title">"תודה %1$s,
+לא נוכל לתת לך הלוואה בדיגיטל."</string>
+    <string name="nc_request_not_suitable_sub_title">"כדי לממש את ההלוואה
+יש לפתוח חשבון נוסף בסניפך"</string>
+    <string name="nc_request_not_suitable_sub_title_2">הבנקאים שלנו מחכים לסיים איתך את התהליך ולהעביראת הכסף לחשבונך</string>
+    <string name="nc_request_not_suitable_title">%1$s, חשבונך אינו מתאים לקבלת הלוואה בדיגיטל</string>
+    <string name="nc_request_sms_bottom_text">"כאשר תהיה תשובה נעדכן אותך ב-SMS
+איך להתקדם בבקשה. כמובן שננסה להזדרז"</string>
+    <string name="nc_request_sms_subtitle">"הבדיקה עשויה לקחת עד
+2 ימי עסקים"</string>
+    <string name="nc_request_sms_title">"תודה %1$s, אנחנו עוברים
+על הבקשה שלך"</string>
+    <string name="nc_savings_disclaimer">"עליך לשקול כדאיות לקיחת ההלוואה
+בהתאם לנכסים והתחייבויות אחרות שלך."</string>
+    <string name="nc_savings_no_savings_button_text">אין לי חסכון</string>
+    <string name="nc_savings_subtitle">"יש לכלול עבור כל משק הבית
+תוכניות חיסכון, ניירות ערך ופיקדונות."</string>
+    <string name="nc_savings_title">כמה כסף יש לך בחיסכון?</string>
+    <string name="nc_send">שלח</string>
+    <string name="nc_spouse_salary">מה המשכורת נטו של %1$s ?</string>
+    <string name="nc_targets_title">אני רוצה כסף כדי…</string>
+    <string name="nc_transfer_from_disclaimer_subtitle">"הכסף יעבור אליך רק לאחר שנקבל הרשאה לחיוב.
+תוכל להקים את ההרשאה באתר הבנק שלך או
+במכשירים לשירות עצמי."</string>
+    <string name="nc_transfer_from_disclaimer_title">לתשומת ליבך</string>
+    <string name="nc_transfer_from_title">"מאיזה חשבון נוח לך
+להחזיר את ההלוואה?"</string>
+    <string name="nc_transfer_from_toggle_new">מהחשבון החדש</string>
+    <string name="nc_transfer_from_toggle_other">מחשבון אחר</string>
+    <string name="nc_transfer_to_other_account_name">חשבון על שם</string>
+    <string name="nc_transfer_to_other_account_number">מספר חשבון</string>
+    <string name="nc_transfer_to_other_account_number_bottom_text">רק מספרים ללא /</string>
+    <string name="nc_transfer_to_other_bank">בבנק</string>
+    <string name="nc_transfer_to_other_branch">בסניף</string>
+    <string name="nc_transfer_to_other_for">עבור</string>
+    <string name="nc_transfer_to_other_sms_toggle_text">"האם לשלוח sms 
+כאשר הכסף נכנס לחשבון?"</string>
+    <string name="nc_upload_new_file">העלאת קובץ חדש</string>
+    <string name="nc_welcome_back_title">במהלך התקדמות הבקשה נרצה לשלוח לך עדכונים</string>
+    <string name="nc_whant_to_contact">רוצה לדבר עם בנקאי?</string>
+    <string name="nc_what">איזה?</string>
+    <string name="nc_what_is_your_name">איך קוראים לך?</string>
+    <string name="nc_what_is_your_phone_number">מה מספר הטלפון שלך?</string>
+    <string name="nc_whats_your_phone_number">מה מספר הטלפון שלך?</string>
+    <string name="nc_where_to_transfer_subtitle">"לא נחייב את חשבונך החדש בעמלות כל
+עוד לא יבוצעו בו פעולות. קבלת מידע ללא עלות"</string>
+    <string name="nc_where_to_transfer_title">לאן להעביר את ה-%1$s ש״ח שאושרו?</string>
+    <string name="nc_work_status_line_of_work">באיזה תחום?</string>
+    <string name="nc_work_status_line_of_worked">באיזה תחום עבדת?</string>
+    <string name="nc_work_status_seniority_title">מה הותק שלך בתחום (בשנים)?</string>
+    <string name="nc_work_status_title">מה העיסוק שלך?</string>
+    <string name="nc_you_have_question">יש לך שאלה ? יש לנו תשובה !</string>
+    <string name="new_account_string">"לחשבון החדש
+שפתחתי"</string>
+    <string name="new_deposit_button_text">הפקדה חדשה</string>
+    <string name="new_deposit_choose_deposit_type">באיזה מסלול תרצה להפקיד?</string>
+    <string name="new_deposit_date_today">היום, %1$s</string>
+    <string name="new_deposit_days_period">ימים</string>
+    <string name="new_deposit_interests_header_annual_match">מתואמת שנתית</string>
+    <string name="new_deposit_interests_header_annual_named">נקובה שנתית</string>
+    <string name="new_deposit_interests_header_base">שיעור בסיס הריבית</string>
+    <string name="new_deposit_interests_header_interval">מרווח הריבית</string>
+    <string name="new_deposit_interests_header_type">סוג</string>
+    <string name="new_deposit_min_amount">מינימום להפקדה</string>
+    <string name="new_deposit_min_deposit_amount">מינימום להפקדה ₪%1$d</string>
+    <string name="new_deposit_pass_to_account">תשאירו בפיקדון</string>
+    <string name="new_deposit_pass_to_deposit">תעבירו לעו\"ש</string>
+    <string name="new_deposit_period">תקופת ההפקדה</string>
+    <string name="new_deposit_progress_with">המשך עם %1$s</string>
+    <string name="new_deposit_repeat_deposit_period">לכמה הפקדות חוזרות?</string>
+    <string name="new_deposit_step2_amount_to_repeat">סכום הו\"ק</string>
+    <string name="new_deposit_step2_close_stop">תחנה קרובה</string>
+    <string name="new_deposit_step2_credit_method">אופן זיכוי הריבית</string>
+    <string name="new_deposit_step2_currency">מטבע</string>
+    <string name="new_deposit_step2_deposit_date">תאריך הפקדה</string>
+    <string name="new_deposit_step2_final_date">תאריך פירעון סופי</string>
+    <string name="new_deposit_step2_interest_annual_match">ריבית מתואמת שנתית</string>
+    <string name="new_deposit_step2_interest_annual_named">ריבית נקובה שנתית</string>
+    <string name="new_deposit_step2_interest_interval">מרווח מבסיס הריבית</string>
+    <string name="new_deposit_step2_interest_type">סוג ריבית</string>
+    <string name="new_deposit_step2_payment_method">אופן תשלום הריבית</string>
+    <string name="new_deposit_step2_renewal_num">מספר חידושים</string>
+    <string name="new_deposit_step2_repeat_deposit">הפקדה חוזרת</string>
+    <string name="new_deposit_step3_deposit_agreement">מאשר הפקדה</string>
+    <string name="new_deposit_step3_general_conditions">תנאים כלליים</string>
+    <string name="new_deposit_step4_all_details">לכל פרטי העסקה</string>
+    <string name="new_deposit_step4_deal_num">מספר עסקה</string>
+    <string name="new_deposit_step4_deposits_button">פיקדונות וחסכונות</string>
+    <string name="new_deposit_step4_info_title">"ל-%2$s %1$s   ב-%3$s   ב-%4$s"</string>
+    <string name="new_deposit_step4_reference_num">"מספר אסמכתא  %1$s"</string>
+    <string name="new_deposit_step4_title">הפקדת בהצלחה לפיקדון ריבית קבועה</string>
+    <string name="new_deposit_toolbar_title">פיקדון חדש</string>
+    <string name="new_deposit_what_is_it">מה זה?</string>
+    <string name="next">הבא</string>
+    <string name="next_time">בפעם אחרת</string>
+    <string name="nis_sign">₪</string>
+    <string name="nis_symbol">₪</string>
+    <string name="no">לא</string>
+    <string name="no_amount_negative_account_balance">במינוס</string>
+    <string name="no_amount_positive_account_balance">בפלוס</string>
+    <string name="no_credit_card">אין לך כרגע כרטיסים להפעלה</string>
+    <string name="no_editing">לא, עריכה</string>
+    <string name="nominal_amount">ריבית משתנה בשיעור שנתי של פריים בצירוף תוספת סיכון של %1$s</string>
+    <string name="not_good">לא מתאים</string>
+    <string name="not_sure_btn_female">מה הותק שלך במקום העבודה?</string>
+    <string name="notif_channel_description">My sample notification channel description</string>
+    <string name="notif_channel_id">my-notification-channel</string>
+    <string name="notif_channel_name">My sample notification channel</string>
+    <string name="notifications_count_greater_than_maximum">99</string>
+    <string name="null_" />
+    <string name="offers">מעכשיו הצעות מהבנק יישלחו ל:</string>
+    <string name="ok_proceed">מאושר, המשך</string>
+    <string name="on_condition_text">על תנאי</string>
+    <string name="only_numbers">רק מספרים ללא /</string>
+    <string name="operational_message_loyer">התראת טיפול עורך דין</string>
+    <string name="osh">יתרת עו\"ש</string>
+    <string name="osh_not_available">לא זמינה כרגע</string>
+    <string name="other_account">"לכל חשבון
+אחר"</string>
+    <string name="other_amount">צריך סכום אחר?</string>
+    <string name="other_banks_data_title">הכנסות והוצאות בבנקים אחרים</string>
+    <string name="other_banks_get_updates_title">קבלת עדכון על סטטוס הבקשה</string>
+    <string name="otp_verify_phone">"
+כדי לוודא שזה המספר הנכון"</string>
+    <string name="otp_we_send_message">שלחנו הודעה ל -</string>
+    <string name="override_ca_login_text">"לתשומת לבך - לעת עתה ניתן להיכנס לחשבון עם קוד משתמש וסיסמה בלבד. 
+כמו כן יתכנו שיבושים בביצוע חלק מהפעולות באפליקציה, עמך הסליחה."</string>
+    <string name="password_edit_text">סיסמה</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pay_attention">לתשומת ליבך</string>
+    <string name="pdf_dialog_save_document">שמירת המסמך</string>
+    <string name="peri">פר״י</string>
+    <string name="peri_confirm_deposit_exist">פר״י קיים</string>
+    <string name="peri_confirm_deposit_new">פר״י חדש</string>
+    <string name="peri_how_much">כמה?</string>
+    <string name="peri_interest">ריבית %1$s</string>
+    <string name="peri_interest_adjusted">= %1$s</string>
+    <string name="peri_interest_spread">%1$s0</string>
+    <string name="peri_toolbar_title">הפקדה ומשיכה מפר״י</string>
+    <string name="peri_when">מתי?</string>
+    <string name="peri_withdrawal_amount_error">אנא הקלד ערך קטן או שווה ל%1$s</string>
+    <string name="peri_withdrawal_success">המשיכה בוצעה בהצלחה</string>
+    <string name="permission_first_body">•עוברים במכשיר להגדרות•בוחרים בישומים•בוחרים באפליקציית בנק הפועלים•בוחרים בהרשאות ומאפשרים הרשאות אחסון</string>
+    <string name="permissions_title">בכדי שתוכל לשמור קובץ על מכשירך עליך לאפשר הרשאות אחסון</string>
+    <string name="personal_assistant_lobby_header_description">בהתאמה אישית</string>
+    <string name="personal_assistant_lobby_header_msg">המלצות פיננסיות</string>
+    <string name="personal_assistant_lobby_no_data_text">"כרגע אין המלצות מיוחדות.
+בינתיים, אתה מוזמן להיכנס לאתר המרכז לצמיחה פיננסית, הכולל ידע וכלים לקבלת החלטות פיננסיות טובות יותר."</string>
+    <string name="personal_assistant_more_information">למידע נוסף</string>
+    <string name="personal_assistant_pie_chart_precent_description">אחוז</string>
+    <string name="personal_assistant_pin_chart_date_description">בתאריך</string>
+    <string name="personal_assistant_pin_chart_sum_description">סכום של</string>
+    <string name="personal_assistant_precent_description">אחוז</string>
+    <string name="personal_budget_legal_terms">"השותף הפיננסי מאפשר ליווי דיגיטלי מתמשך במגוון נושאים בעולמות הפיננסיים/ קבלת טיפים להתנהלות שוטפת. השותף הפיננסי יועמד לרשותי ע\"י הבנק במסגרת אפליקציית ניהול חשבון וכל אמצעי דיגיטלי אשר יבחר הבנק להוסיף בעתיד.
+
+השותף הפיננסי מציע ניתוח של הפעילות בחשבון, אשר מבוצע על בסיס רישומי הבנק לגבי הפעולות בחשבון ורישומי הפעולות בכרטיסי החיוב של בנק הפועלים המשויכים לאותו החשבון בלבד. יובהר כי הניתוח אינו מתחשב בפעילות המתבצעת בכרטיסי אשראי חוץ בנקאיים וחיובים חוץ בנקאיים (לדוגמא חיוב של הלוואה חיצונית, הרשאה לחיוב חשבון וכו).
+
+השותף הפיננסי הינו מכשיר שונה מהכלי לניהול תקציב באתר הבנק של בנק הפועלים ויתכנו המלצות שונות ע\"י כל אחד מהמכשירים.
+
+הוצאות ב: אפליקציות תשלומים, כרטיסי אשראי חיצוניים, פעולות המתבצעות במזומן ובצ'קים, העברות לא ניתנות לסיווג עפ\"י קטגוריות.
+
+ניתוח הנתונים בשותף הפיננסי מוצג לפי חישוב קלנדרי (1-31 לכל חודש, בהתאם למספר הימים בחודש). המידע המוצג הינו נכון למועד תאריך הנכונות המוצג.
+
+השימוש בשותף הפיננסי הינו המלצה בלבד ואינו מהווה אישור לקיום היתרה בחשבון או מחליף יעוץ ע\"י יועץ מוסמך/בנקאי, כמו כן מומלץ תמיד לבחון את כלל הנכסים בחשבון.
+
+המידע הבנקאי, הניתוח המוצע, וכל מידע המעודכן על ידך, יישמר בבנק ויכול לשמש את הבנק כדי להציע ללקוחות שירותים ומוצרים נוספים."</string>
+    <string name="personal_registration_finish_step_title_text">"ברכות על
+הצטרפות לשירות"</string>
+    <string name="personal_registration_into_title">פרטיות</string>
+    <string name="personal_registration_negative_button_text">לא, תודה</string>
+    <string name="personal_registration_positive_button_text">מצויין, זכור אותי</string>
+    <string name="phone">לטלפון הנייד</string>
+    <string name="phone_collection_btn_accept">אישור</string>
+    <string name="phone_collection_btn_enter_to_account">הכנס לחשבונך</string>
+    <string name="phone_collection_final_step_text1">"מספר הטלפון
+עודכן בהצלחה"</string>
+    <string name="phone_collection_final_step_text2">מעתה קוד האימות יישלח למספר שהזנת</string>
+    <string name="phone_collection_final_step_text3">תוכל לעדכן את מספר הטלפון בכל שלב בעמוד ההגדרות</string>
+    <string name="phone_collection_final_step_text4">"לעדכון מספר טלפון בחו״ל, יש להתחבר
+לאתר הבנק ולהזין קוד משתמש וסיסמה"</string>
+    <string name="phone_collection_switch_in_country">בארץ</string>
+    <string name="phone_collection_switch_out_of_country">בחו״ל</string>
+    <string name="phone_collection_title">שומרים על החשבון שלך</string>
+    <string name="phone_edittext_default_error">יש להקליד מספר טלפון תקין כולל קידומת</string>
+    <string name="phone_error_text">יש להזין מספר טלפון תקין</string>
+    <string name="phone_num">מספר טלפון</string>
+    <string name="phone_use_explanation">המספר ישמש אותנו לשליחת הודעת SMS או להתקשרות טלפונית רק בנושא ההלוואה. לקבלת ההודעה הקולית יש לענות לשיחה הנכנסת</string>
+    <string name="poalim_mail_create">הרשמה לפועלים במייל</string>
+    <string name="poalim_mail_update">עדכון פרטים פועלים במייל</string>
+    <string name="poalim_phone">פועלים בטלפון</string>
+    <string name="prime">פריים + %1$s</string>
+    <string name="prime_string">פריים</string>
+    <string name="proceed_with_loan">המשך עם הלוואה</string>
+    <string name="project_id">accountmanagement-241</string>
+    <string name="quickGlanceRegister">הרשמה</string>
+    <string name="quick_glance_step1_account_details">%1$s-%2$s</string>
+    <string name="quick_glance_step2_with_amount_switch">עם סכום</string>
+    <string name="quick_glance_step2_without_amount_switch">ללא סכום</string>
+    <string name="quick_glance_step3_security">לאבטחת המידע</string>
+    <string name="quick_glance_toolbar_title">הצצה מהירה לחשבון</string>
+    <string name="quick_recognition_connect">לא, להשאיר</string>
+    <string name="quick_recognition_disconnect">כן, התנתק</string>
+    <string name="quick_recognition_preferred">הזדהות מועדפת</string>
+    <string name="quick_recognition_sign_in">הירשם</string>
+    <string name="quick_recognition_sign_out">התנתק</string>
+    <string name="quick_recognition_toolbar_title">זיהוי מהיר</string>
+    <string name="reAuthenticateTitle">מכיוון שהחלפת סיסמה או קוד משתמש, עליך להזדהות שוב באמצעות טביעת אצבע</string>
+    <string name="registration_status_join">בקשתך התקבלה</string>
+    <string name="registration_status_remove">בקשתך להסרה הושלמה!</string>
+    <string name="remove_offers">מעכשיו לא יישלחו אליך הצעות מהבנק</string>
+    <string name="request_amount">בקש עד</string>
+    <string name="rest_request_failed">בקשת השירות נכשלה</string>
+    <string name="sc_back">חזור</string>
+    <string name="scan_checks_intro_header_title">הפקדת צ׳קים בצילום</string>
+    <string name="scan_checks_intro_title">אילו צ׳קים ניתן להפקיד</string>
+    <string name="scan_checks_step1_header">הסכם שירות</string>
+    <string name="scan_checks_step2_confirm_terms">לאישור התנאים</string>
+    <string name="scan_checks_step3_commission">הפקדה זו</string>
+    <string name="search_branch">חפש סניף</string>
+    <string name="search_menu_title">Search</string>
+    <string name="send_me_code">שלחו לי קוד אימות</string>
+    <string name="send_new_card">שלחנו לך כרטיס חדש</string>
+    <string name="send_sms">"האם לשלוח sms
+כאשר הכסף נכנס לחשבון?"</string>
+    <string name="sharing_bottom_text">לחיצה על ״שיתוף״ תוביל לבחירת האפליקציה שתשמש לשליחת התמונה לנמען. התמונה תישלח באמצעות ספק הרשת שלך. יש לוודא את זהות הנמען לפני השליחה.</string>
+    <string name="signup_pre_flow_waisting_time_title">"כדי לא לבזבז לך את הזמן,
+נבדוק שהתהליך באמת מתאים לך"</string>
+    <string name="spouse">נשוי למי?</string>
+    <string name="spouse2">עם מי?</string>
+    <string name="spouse_birth_date">מה תאריך הלידה?</string>
+    <string name="spouse_id">מה מספר תעודת הזהות?</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="steps">stepsView</string>
+    <string name="stronger_empty_date">כדי להמשיך בביצוע הפעולה אנא השב על שאלת הזיהוי</string>
+    <string name="stronger_validation_birth_day">תאריך לידה</string>
+    <string name="stronger_validation_find">איפה מופיע תאריך ההנפקה</string>
+    <string name="stronger_validation_header">"לפני שנמשיך
+נדרשת הזדהות נוספת"</string>
+    <string name="stronger_validation_issue_day">תאריך הנפקת תעודת הזהות</string>
+    <string name="stupid_stars">****</string>
+    <string name="sub_title_immediate">אשראי ברגע ישירות לחשבונך</string>
+    <string name="surplus_text">יתרה</string>
+    <string name="switch_text">מתג</string>
+    <string name="take_pic">צלם עכשיו את התלוש או אחר כך</string>
+    <string name="tax">ריבית</string>
+    <string name="terminal_dialog_pick_account_title">החשבונות שלי</string>
+    <string name="terminal_dialog_title">המטבע המבוקש</string>
+    <string name="terminal_exchange_button_text">הזמנת מט״ח בטרמינל</string>
+    <string name="terminal_exchange_currency_account_name">%1$s %2$s</string>
+    <string name="terminal_exchange_currency_account_type">%1$s %2$s</string>
+    <string name="terminal_exchange_currency_details">הפרטים נכונים?</string>
+    <string name="terminal_exchange_currency_last_orders">הזמנות אחרונות</string>
+    <string name="terminal_exchange_currency_last_orders_details">יש להזין את פרטי אוסף המט״ח בדיוק כפי שהם רשומים בתעודת הזהות/דרכון. טעות בהזנת הפרטים עלולה למנוע את מסירת המט״ח, על מנת לשמור על חשבונך.</string>
+    <string name="terminal_exchange_currency_last_orders_order_phone">טלפון מזמין המט״ח(רשות)</string>
+    <string name="terminal_exchange_currency_last_orders_order_phone_extra">למספר זה יישלח אישור הזמנה</string>
+    <string name="terminal_exchange_currency_last_orders_receiver_phone">טלפון מקבל המט״ח(רשות)</string>
+    <string name="terminal_exchange_currency_last_orders_receiver_phone_extra">למספר זה תישלח תזכורת ב-SMS יום לפני הטיסה</string>
+    <string name="terminal_exchange_currency_last_orders_title">פרטי אוסף המט״ח</string>
+    <string name="terminal_exchange_currency_owner">בעלי החשבון</string>
+    <string name="terminal_exchange_currency_phone_number_title">מספר טלפון (רשות)</string>
+    <string name="terminal_exchange_currency_presentation">%1$s = %2$s</string>
+    <string name="terminal_exchange_currency_presentation_extra">שער ההמרה מתייחס ליום העסקים הקודם</string>
+    <string name="terminal_exchange_dollar">דולר</string>
+    <string name="terminal_exchange_dot">·</string>
+    <string name="terminal_exchange_euro">אירו</string>
+    <string name="terminal_exchange_flow_toolbar_title">מט״ח בטרמינל</string>
+    <string name="terminal_exchange_info1">בוחרים את המטבע והסכום הרצוי</string>
+    <string name="terminal_exchange_info2">"אוספים את המט״ח בדלפקי הבנק
+הפעילים בנתב״ג לפני הטיסה"</string>
+    <string name="terminal_exchange_info3">טסים ונהנים בחופשה</string>
+    <string name="terminal_exchange_intro_buttons_order">אני רוצה להזמין</string>
+    <string name="terminal_exchange_intro_title">מט״ח בטרמינל</string>
+    <string name="terminal_exchange_other">אחר</string>
+    <string name="terminal_exchange_pick_amount">איזה סכום?</string>
+    <string name="terminal_exchange_pick_currency">איזה מטבע?</string>
+    <string name="terminal_exchange_pick_money">אילו שטרות תרצה לקבל?</string>
+    <string name="terminal_exchange_slot2_title">יתרה למשיכה</string>
+    <string name="terminal_exchange_small_title">איך זה עובד?</string>
+    <string name="terminal_exchange_step2_commission_matah">במט״ח</string>
+    <string name="terminal_exchange_step2_commission_nis">בשקלים</string>
+    <string name="terminal_exchange_step2_error_message">יש לבצע בחירה</string>
+    <string name="terminal_exchange_step2_extra_info">שער מהמסחר המבוצע כעת במט״ח במטבע העסקה ותקף לעסקה הנוכחית בלבד</string>
+    <string name="terminal_exchange_step2_extra_info_math">שער שיקבע על ידי הבנק בסוף יום העסקים</string>
+    <string name="terminal_exchange_step2_how_to_charge">איך לחייב את החשבון שלך?</string>
+    <string name="terminal_exchange_step2_immediate_rate">שער מיידי</string>
+    <string name="terminal_exchange_step2_matah_commission_expand_title">איך לחייב את העמלה?</string>
+    <string name="terminal_exchange_step2_nis_commission_expand_title">באיזה שער המרה?</string>
+    <string name="terminal_exchange_step3_date_extra_text">אפשר להזמין מט״ח עד 30 יום לפני הטיסה</string>
+    <string name="terminal_exchange_step3_flight_attending">מתי הטיסה?</string>
+    <string name="terminal_exchange_step4_pick_money">מי יאסוף את הכסף?</string>
+    <string name="terminal_exchange_step4_pick_money_extra">קבלת המט״ח מתבצעת בכל דלפקי בנק הפועלים בטרמינל 3 ו-1 בנתב״ג</string>
+    <string name="terminal_exchange_step_5_beneficiary">מי יאסוף את הכסף?</string>
+    <string name="terminal_exchange_step_5_beneficiary_name">מקבל המט״ח</string>
+    <string name="terminal_exchange_step_5_beneficiary_phone">טלפון מקבל המט״ח</string>
+    <string name="terminal_exchange_step_5_confirm_btn">אישור והזמנה</string>
+    <string name="terminal_exchange_step_5_currency_title">סוג המטבע והסכום שהזמנתי</string>
+    <string name="terminal_exchange_step_5_date">מתי יאסף המט״ח</string>
+    <string name="terminal_exchange_step_5_delivery_phone">טלפון מזמין המט״ח</string>
+    <string name="terminal_exchange_step_5_header_small_title">השער הינו שער מהמסחר הרציף במט״ח</string>
+    <string name="terminal_exchange_step_6_confirm_title">"הזמנת מט״ח
+בהצלחה"</string>
+    <string name="terminal_exchange_step_6_link">שעות פעילות הדלפקים מופיעות באתר הבנק</string>
+    <string name="terminal_exchange_step_6_order_info_amount">סכום ההזמנה</string>
+    <string name="terminal_exchange_step_6_order_info_currency">מטבע</string>
+    <string name="terminal_exchange_step_6_order_info_date">תאריך איסוף</string>
+    <string name="terminal_exchange_step_6_order_info_payment">כמה אשלם (%1$s)</string>
+    <string name="terminal_exchange_step_6_order_info_person">מי יאסוף</string>
+    <string name="terminal_exchange_step_6_order_num">"בעת האיסוף יש לציין מספר הזמנה
+%1$s"</string>
+    <string name="terminal_exchange_step_6_sub_title">איסוף המט״ח מתבצע בדלפקי בנק הפועלים הפעילים בנתב״ג</string>
+    <string name="terminal_exchange_toolbar_title">רגע לפני שטסים לחו״ל, מזמינים מט״ח באפליקציה</string>
+    <string name="terminal_pick_currency_dialog_subtitle">סכום מצטבר</string>
+    <string name="terminal_pick_currency_dialog_title">בחירת הרכב השטרות</string>
+    <string name="terminal_pick_currency_dialog_title_info">סכום מצטבר</string>
+    <string name="text1953">בוקר טוב</string>
+    <string name="text1954">צהריים טובים</string>
+    <string name="text1955">ערב טוב</string>
+    <string name="text1956">לילה טוב</string>
+    <string name="text2851">נבחר</string>
+    <string name="text2852">לא נבחר</string>
+    <string name="text2878" formatted="false">מיקום %@ מתוך %@</string>
+    <string name="title_activity_otp_blocked_dummy">OtpBlockedDummyActivity</string>
+    <string name="to_my_account">לחשבון שלי</string>
+    <string name="token_receiver_intent_filter">com.personetics.module.token_receiver_intent_filter</string>
+    <string name="tooManyAttempts">עקב מספר נסיונות שגויים, עליך להזדהות עם סיסמה.</string>
+    <string name="tooManyAttemptsRegister">"עקב מספר נסיונות שגויים, לא ניתן להשלים את תהליך ההרשמה להזדהות עם טביעת אצבע.
+באפשרותך לנסות שוב מאוחר יותר."</string>
+    <string name="toolbar">toolbar</string>
+    <string name="transaction_detail_credit_label">המבצע</string>
+    <string name="transaction_detail_currency_long_description">מטבע נגדי</string>
+    <string name="transaction_detail_currency_rate">שער</string>
+    <string name="transaction_detail_debit_label">לטובת</string>
+    <string name="transaction_detail_event_details">פרטים נוספים</string>
+    <string name="transaction_detail_last_rate">שער אחרון</string>
+    <string name="transaction_detail_rate_daily_change_percent">שינוי</string>
+    <string name="transaction_detail_rate_fixing_description">סוג שער</string>
+    <string name="transaction_detail_reference_catenated_number">צרור</string>
+    <string name="transaction_detail_reference_number">מספר עסקת סח״ח</string>
+    <string name="transaction_detail_security_full_name">שם מניה</string>
+    <string name="transaction_detail_value_date">יום ערך</string>
+    <string name="transactions_filter">סינון</string>
+    <string name="transfer_account_title">"רק לוודא,
+ להעביר את הכסף לחשבון הזה?"</string>
+    <string name="transfer_credit_card_number">כרטיס שמסתיים ב</string>
+    <string name="transfer_money_subtitle">"לא נחייב את חשבונך החדש בעמלות כל
+עוד לא יבוצעו בו פעולות. קבלת מידע ללא עלות"</string>
+    <string name="transfer_step3_commission_title">העברת כסף</string>
+    <string name="transfers_account">חשבון</string>
+    <string name="transfers_all_to">כל ההעברות ל%1$s</string>
+    <string name="transfers_all_transfers_to">כל העברות ל</string>
+    <string name="transfers_amount_container_content_description">שקל חדש בוצעה</string>
+    <string name="transfers_card_swap_currency">שינוי מטבע</string>
+    <string name="transfers_empty_state_extra">"להעביר בדיגיטל זה פשוט.
+ כל מה שצריך זה את פרטי החשבון אליו
+ תרצה להעביר. ניתן להעביר
+ לאנשי קשר ולבצע העברות עתידיות."</string>
+    <string name="transfers_empty_state_title">להעביר בדיגיטל זה פשוט</string>
+    <string name="transfers_from_container_content_description">מהחשבון של</string>
+    <string name="transfers_from_content_description">העברה אל</string>
+    <string name="transfers_main_title">העברת כספים</string>
+    <string name="transfers_my_transfers">ההעברות שלי</string>
+    <string name="transfers_new_transfer">העברה חדשה</string>
+    <string name="transfers_on_amount_content_description">העברה על סך</string>
+    <string name="transfers_on_date">בתאריך</string>
+    <string name="transfers_opening_date_with">%1$s ב- %2$s</string>
+    <string name="transfers_order_by">סדר לפי</string>
+    <string name="transfers_reference">אסמכתא</string>
+    <string name="transfers_sort_by_abc">א׳-ב׳</string>
+    <string name="transfers_sort_by_date">תאריך</string>
+    <string name="transfers_sort_by_transfer_amount">סכום ההעברה</string>
+    <string name="transfers_step1_account_number">מס׳ חשבון</string>
+    <string name="transfers_step1_bank_name">בנק</string>
+    <string name="transfers_step1_branch_name">סניף</string>
+    <string name="transfers_step1_name">שם בעל החשבון</string>
+    <string name="transfers_to">הועברו ל%1$s</string>
+    <string name="transfers_to_container_content_description">אל החשבון של</string>
+    <string name="transfers_to_content_description">העברה מ</string>
+    <string name="transfers_to_who">למי להעביר?</string>
+    <string name="transfers_transfer_between_my_accounts">העברה בין חשבונותיי</string>
+    <string name="tryAgain">נסה שוב</string>
+    <string name="up_card_charge_amount_money">סבכום הטעינה</string>
+    <string name="up_card_charge_step1_load">טעינה</string>
+    <string name="up_card_charge_step1_min_max">אפשר להפקיד בין %1$s ל %2$s</string>
+    <string name="up_card_charge_step3_summary_remaining">היתרה בכרטיס לאחר הטעינה %1$s</string>
+    <string name="up_card_discharge_step1_min_max">אפשר להחזיר בין %1$s ל %2$s</string>
+    <string name="up_card_discharge_step1_return">החזרה</string>
+    <string name="up_card_discharge_step3_amount_left">היתרה בכרטיס לאחר ההחזרה</string>
+    <string name="up_card_discharge_step3_summary_remaining">היתרה בכרטיס לאחר ההחזר %1$s</string>
+    <string name="up_card_item_charge">טעינת כרטיס</string>
+    <string name="up_card_step1_card_bubble">כרטיס - %1$s</string>
+    <string name="up_card_title">כרטיס</string>
+    <string name="up_card_toolbar_title">Up Card</string>
+    <string name="up_control_accept_button">לאישור תנאי השירות</string>
+    <string name="up_control_agreement_button">אישור התנאים וסיום ההזמנה</string>
+    <string name="up_control_cancel_button_disconnect">רוצה לבטל</string>
+    <string name="up_control_cancel_button_stay">רוצה להשאיר</string>
+    <string name="up_control_cancel_title">"התנתקות משירות
+UP Control"</string>
+    <string name="up_control_finish_date_header">תאריך הצטרפות %1$s</string>
+    <string name="up_control_finish_header">"הצטרפת בהצלחה
+לשירות UP Control!"</string>
+    <string name="up_control_footer_subtitle">עלות השירות 9 ש״ח לחודש</string>
+    <string name="up_control_footer_title">למצטרפים חדשים - 3 חודשים חינם</string>
+    <string name="up_control_intro_next_btn">להצטרפות</string>
+    <string name="up_control_intro_prev_btn">בפעם אחרת</string>
+    <string name="up_control_intro_time">זמן ההרשמה כ-3 דקות</string>
+    <string name="up_control_phone_footer">מספר זה ישמש מעכשיו למשלוח הודעות מהבנק עבור השירותים שבחרת להצטרף אליהם</string>
+    <string name="up_control_phone_footer2">כרטיסי אשראי חוץ בנקאיים לא כלולים בשירות UP Control</string>
+    <string name="up_control_phone_title">באיזה מספר תרצה לקבל את הודעות ה-SMS של שירות UP Control?</string>
+    <string name="up_control_stay_registered">רוצה להשאיר</string>
+    <string name="up_control_toolbar_title">שירות UP Control</string>
+    <string name="update_permission_btn_step1">עדכון הרשאות</string>
+    <string name="update_permission_btn_step2">סגירה</string>
+    <string name="update_permission_current_permission">הרשאתך הנוכחית</string>
+    <string name="update_permission_dialog_pdf_text">מצטערים, יש לנו כרגע תקלה ולא ניתן לצפות בתנאים המשפטים</string>
+    <string name="update_permission_read_pdf">"בלחיצה על ״עדכון הרשאות״ אני
+מסכים לתנאי הסכם ההצטרפות"</string>
+    <string name="update_permission_title">עדכון הרשאות בחשבון</string>
+    <string name="update_permission_type">סוג ההרשאה שבחרת:</string>
+    <string name="update_permission_update_finish">העדכון בוצע בהצלחה</string>
+    <string name="upload_files_num_wait">%1$s מסמכים נטענים נא להמתין ...</string>
+    <string name="upload_subtitle">"ניתן לקבל עדכון על מצב הבקשה,
+ולצרף מסמכים לבקשה זו"</string>
+    <string name="upload_title">"בקשת ההלוואה תועבר
+לבנקאי בסניף"</string>
+    <string name="user_name_edit_text">קוד משתמש</string>
+    <string name="welcome_bottom_explanation_couple_partner_text">"עכשיו נותר ל%1$s לחתום על מסמכי
+פתיחת חשבון. תוך יום עסקים אחד לאחר
+החתימה, החשבון יהיה פעיל"</string>
+    <string name="welcome_bottom_explanation_couple_text">"אנחנו יודעים שזה מרגש,
+אבל נשארו לנו עוד כמה פינות לסגור.
+תוך 24 שעות (גג יום עסקים אחד)
+החשבון שלכם יהיה פעיל."</string>
+    <string name="welcome_bottom_explanation_text">"אנחנו יודעים שזה מרגש,
+אבל נשארו לנו עוד כמה פינות לסגור.
+תוך 24 שעות (גג יום עסקים אחד)
+החשבון יהיה פעיל."</string>
+    <string name="welcome_button_text">תראו לי מה חדש</string>
+    <string name="welcome_happy_that_you_joined">שמחים שהצטרפת,</string>
+    <string name="welcome_happy_that_you_joined_couple">שמחים שהצטרפתם</string>
+    <string name="welcome_info_partner">*פתיחת החשבון בפועל מותנית באישור ובברקה של הבנק.</string>
+    <string name="welcome_joined_partner">"השלמת את החלק שלך
+בתהליך פתיחת החשבון"</string>
+    <string name="welcome_main_title">חשבון חדש נולד!</string>
+    <string name="welcome_page_new_user_sub_text">"מומלץ לשמור! ישמש אותך בפנייה
+למוקד הטלפוני לקבלת מידע וביצוע פעולות."</string>
+    <string name="welcome_page_new_user_text">הקוד שלך לפועלים בטלפון:</string>
+    <string name="welcome_page_senior_user_text">לקבלת מידע וביצוע פעולות במוקד הטלפוני יש להזדהות באמצעות הקוד הנוכחי שלך</string>
+    <string name="welcome_title_couple_partner">חשבון חדש בדרך</string>
+    <string name="whats_expected_explanation_button_content_description">הסבר מה זה מה צפוי</string>
+    <string name="whats_new_credit_card_small_title">כ. אשראי %1$s</string>
+    <string name="whats_new_first_login_notification_confirm_button">כן, שלחו לי</string>
+    <string name="witch_bank">איזה בנק?</string>
+    <string name="witch_branch">איזה סניף?</string>
+    <string name="withdraw_dialog_ending_hour">22:30</string>
+    <string name="withdraw_dialog_understood_button">הבנתי</string>
+    <string name="withdraw_intro_header_title">משיכת מזומן ללא כרטיס</string>
+    <string name="withdraw_intro_title">איך זה עובד?</string>
+    <string name="withdraw_lobby_cancel_withdraw">ביטול משיכה</string>
+    <string name="withdraw_lobby_code_title">קוד למשיכה</string>
+    <string name="withdraw_lobby_how_to_withdraw">איך מושכים?</string>
+    <string name="withdraw_lobby_main_title">סטטוס בקשות למשיכת מזומן</string>
+    <string name="withdraw_lobby_new_code">הנפק קוד חדש</string>
+    <string name="withdraw_lobby_new_withdraw">משיכה חדשה</string>
+    <string name="withdraw_lobby_other_withdraw">מישהו אחר מושך את הכסף</string>
+    <string name="withdraw_new_step1_amount">₪%1$s</string>
+    <string name="withdraw_new_step2_comment_hint">אפשר להוסיף הערה</string>
+    <string name="withdraw_new_step2_country">מאיזו מדינה</string>
+    <string name="withdraw_new_step2_country_dialog_title">בחירת מדינה</string>
+    <string name="withdraw_new_step2_id_hint">מס׳ ת.ז. של מושך הכסף</string>
+    <string name="withdraw_new_step2_passport_id_hint">מספר הדרכון של אוסף הכסף</string>
+    <string name="withdraw_new_step3_code1">קוד 1</string>
+    <string name="withdraw_new_step3_code2">קוד 2</string>
+    <string name="withdraw_new_step4_withdraw_amount_title">סכום למשיכה</string>
+    <string name="withdraw_new_step4_withdraw_approve">אישור משיכה</string>
+    <string name="withdraw_new_step4_withdraw_by_who">ימשך על ידי</string>
+    <string name="withdraw_new_step4_withdraw_commission_title">₪%1$s עמלה עבור משיכה מזומן ללא כרטיס</string>
+    <string name="withdraw_new_step4_withdraw_date_code">תאריך שישמש כקוד ראשון</string>
+    <string name="withdraw_new_step4_withdraw_phone_approve">אישור על ביצוע המשיכה ישלח לטלפון</string>
+    <string name="withdraw_new_step4_withdraw_phone_code">למספר זה ישלח הקוד השני</string>
+    <string name="write_code">בעת הקמת הוראת קבע יש לציין קוד המוסד %1$s</string>
+    <string name="yes">כן</string>
+</resources>
