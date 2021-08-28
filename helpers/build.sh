@@ -16,6 +16,7 @@ cp -r "../patch/${version}/assets" \
 
 ag "com\.ideomobile\.hapoalim" -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,com\.ideomobile\.hapoalim,com\.ideomobile\.hapoalimalt,g' {}
 ag "Lcom/ideomobile/hapoalim"  -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,Lcom/ideomobile/hapoalim,Lcom/ideomobile/hapoalimalt,g' {}
+mv "${tempdir}/smali_classes2/com/google" "${tempdir}/smali_classes3/com/"
 
 java -Xmx256m -jar apktool_2.4.1.jar b "${tempdir}"
 
