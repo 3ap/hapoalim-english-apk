@@ -6,8 +6,8 @@ helpers/strings.xml
 helpers/strings.xml.csv
 helpers/arrays.xml
 helpers/arrays.xml.csv
-helpers/apktool_2.4.1.jar
-helpers/uber-apk-signer-1.1.0.jar
+helpers/apktool_*.jar
+helpers/uber-apk-signer-*.jar
 helpers/new-*.csv
 debug.keystore
 *-decompiled*

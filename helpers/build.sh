@@ -1,16 +1,18 @@
 #!/bin/sh
 set -efux
 
-version=40.3.0
+apktool=./apktool_2.7.0.jar
+
+version=41.7.0
 apk="../hapoalim-${version}.apk"
 tempdir="../hapoalim-${version}.apk-decompiled"
 
 rm -rf "${tempdir}"
-java -Xmx256m -jar apktool_2.4.1.jar d -o "${tempdir}" "${apk}"
+java -Xmx256m -jar "${apktool}" d -o "${tempdir}" "${apk}"
 
 cp -r "../patch/${version}/assets" \
       "../patch/${version}/res" \
-      "../patch/${version}/smali_classes2" \
+      "../patch/${version}/smali_classes3" \
       "../patch/${version}/AndroidManifest.xml" \
       "${tempdir}"
 
@@ -18,7 +20,7 @@ ag "com\.ideomobile\.hapoalim" -l -r "${tempdir}" | tr -d '\r' | sort | uniq | x
 ag "Lcom/ideomobile/hapoalim"  -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,Lcom/ideomobile/hapoalim,Lcom/ideomobile/hapoalimalt,g' {}
 mv "${tempdir}/smali_classes2/com/google" "${tempdir}/smali_classes3/com/"
 
-java -Xmx256m -jar apktool_2.4.1.jar b "${tempdir}"
+java -Xmx256m -jar "${apktool}" b "${tempdir}"
 
 keystore=debug.keystore
 
@@ -28,7 +30,7 @@ keystore=debug.keystore
           -keypass android -keyalg RSA -keysize 2048 \
           -validity 10000 -dname "C=US, O=Android, CN=Android Debug"
 
-java -Xmx256m -jar uber-apk-signer-1.1.0.jar \
+java -Xmx256m -jar uber-apk-signer-1.3.0.jar \
               --ksDebug "${keystore}" \
               -a "${tempdir}/dist/hapoalim-${version}.apk" \
               --allowResign \
