@@ -23,10 +23,10 @@ java -Xmx256m -jar apktool_2.4.1.jar b "${tempdir}"
 keystore=debug.keystore
 
 [ -e "${keystore}" ] || \
-  keytool -genkey -keystore "${keystore}" -keyalg RSA -keysize 2048 \
-          -validity 10000 -alias "${alias}" \
-          -dname "cn=Unknown, ou=Unknown, o=Unknown, c=Unknown" \
-          -storepass "${storepass}" -keypass "${keypass}"
+  keytool -genkey -v -keystore "${keystore}" \
+          -storepass android -alias androiddebugkey \
+          -keypass android -keyalg RSA -keysize 2048 \
+          -validity 10000 -dname "C=US, O=Android, CN=Android Debug"
 
 java -Xmx256m -jar uber-apk-signer-1.1.0.jar \
               --ksDebug "${keystore}" \
