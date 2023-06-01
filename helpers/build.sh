@@ -13,12 +13,10 @@ java -Xmx256m -jar "${apktool}" d -o "${tempdir}" "${apk}"
 cp -r "../patch/${version}/assets" \
       "../patch/${version}/res" \
       "../patch/${version}/smali_classes3" \
-      "../patch/${version}/AndroidManifest.xml" \
       "${tempdir}"
 
-ag "com\.ideomobile\.hapoalim" -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,com\.ideomobile\.hapoalim,com\.ideomobile\.hapoalimalt,g' {}
-ag "Lcom/ideomobile/hapoalim"  -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,Lcom/ideomobile/hapoalim,Lcom/ideomobile/hapoalimalt,g' {}
-mv "${tempdir}/smali_classes2/com/google" "${tempdir}/smali_classes3/com/"
+#ag "com\.ideomobile\.hapoalim" -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,com\.ideomobile\.hapoalim,com\.ideomobile\.hapoalimalt,g' {}
+#ag "Lcom/ideomobile/hapoalim"  -l -r "${tempdir}" | tr -d '\r' | sort | uniq | xargs -P 8 -I {} sed -i'' -b 's,Lcom/ideomobile/hapoalim,Lcom/ideomobile/hapoalimalt,g' {}
 
 java -Xmx256m -jar "${apktool}" b "${tempdir}"
 
