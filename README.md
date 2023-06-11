@@ -24,5 +24,5 @@ Use these instructions below to modify your own copy of APK:
 
 [java]: https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
 [keystore]: https://stackoverflow.com/a/15330139
-[apk-studio]: https://stackoverflow.com/a/15330139
-[sai]: https://stackoverflow.com/a/15330139
+[apk-studio]: https://github.com/vaibhavpandeyvpz/apkstudio/releases
+[sai]: https://f-droid.org/en/packages/com.aefyr.sai.fdroid/
