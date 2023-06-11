@@ -12,7 +12,7 @@ Use these instructions below to modify your own copy of APK:
   3.  download and set up [APK Studio][apk-studio]
   4.  extract original APK from your phone using [SAI][sai]
   5.  open APK Studio and unpack original APK
-  6.  copy files from repo's appropriate *patch* dir to APK Studio's
+  6.  copy files from [repo's][repo] appropriate *patch* dir to APK Studio's
       project dir, it should be located next to your original APK file
       and looks like *com.ideomobile.hapoalim.apk-decompiled*
   7.  rebuild app from APK Studio (Project → Build)
@@ -22,6 +22,7 @@ Use these instructions below to modify your own copy of APK:
       into your device (via ADB or MTP) and install it via file
       explorer
 
+[repo]: https://github.com/3ap/hapoalim-english-apk/archive/refs/heads/41.7.0.zip
 [java]: https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
 [keystore]: https://stackoverflow.com/a/15330139
 [apk-studio]: https://github.com/vaibhavpandeyvpz/apkstudio/releases
